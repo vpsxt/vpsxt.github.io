@@ -1,0 +1,62 @@
+ssh-keygen -t rsa -C "acspw@outlook.com"
+ssh-keygen -t rsa -C "mibapw@outlook.com"
+ssh-keygen -t rsa -C "vpsxt@outlook.com"
+
+
+git config --global user.name "acspw"
+
+git config --global user.email "acspw@outlook.com"
+
+
+git config --global user.name "woyard"
+
+git config --global user.email "woyard@sina.com"
+
+
+git config --global user.name "botailang"
+
+git config --global user.email "botailang@outlook.com"
+
+
+
+git config --global user.name "acspw"
+
+git config --global user.email "acspw@outlook.com"
+
+
+git config --global user.name "vpsxt"
+
+git config --global user.email "vpsxt@outlook.com"
+
+
+
+
+git clone git@github.com:vpszj/php.git
+git clone git@github.com:vpszj/wordpress.git
+git clone git@github.com:vpszj/discuz.git
+git clone git@github.com:vpszj/emlog.git
+git clone git@github.com:vpszj/zblog.git
+git clone git@github.com:vpszj/linux.git
+git clone git@github.com:vpszj/tutorial.git
+
+git init
+
+git add .
+
+git commit -m "20170128"
+
+git push -u origin master
+
+
+git clone git@github.com:woyard/mistore.git
+===========================================================
+git clone git@bo.github.com:botailang/botailang.github.io.git
+
+测试keys是否正常连接:
+
+ssh -T git@bo.github.com
+===========================================================
+
+测试keys是否正常连接:
+
+ssh -T git@github.com
