@@ -5,3 +5,4 @@
 后天拟删除域名名单:http://www.cnnic.cn/download/registar_list/future2todayDel.txt
 
 国际域名删除列表:http://del.chinaz.com/saveExc.ashx
+国际域名删除下载列表:http://www.juming.com/delete_down.htm
