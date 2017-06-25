@@ -1,0 +1,7 @@
+以下是登录几个重要搜索引擎的网站登录入口地址:
+
+百度：http://www.baidu.com/search/url_submit.html
+搜狗：http://www.sogou.com/feedback/urlfeedback.php
+360：http://info.so.360.cn/site_submit.html
+Google中文：http://www.google.com/intl/zh-CN/add_url.html
+Google英文：http://www.google.com.hk/addurl/?continue=/addurl

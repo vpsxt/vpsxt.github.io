@@ -1,0 +1,1343 @@
+
+<!DOCTYPE html><html lang="zh-CN"><head><meta http-equiv="X-UA-Compatible" 
+content="IE=edge"><meta charset="utf-8"><meta property="qc:admins" 
+content="10210420621156375"><meta name="renderer" content="webkit"><title>财经网址导航 
+- 雪球</title><script>var _write = document.write;
+var write = function (str) {
+  SNB = window.SNB || {};
+  if (_write.apply) {
+    SNB.docWrite = function (str) {
+      _write.apply(document, arguments);
+    }
+  } else {
+    SNB.docWrite = _write;
+  }
+};
+
+document.write = write;
+</script><meta name="keywords" content="财经网站,财经名站,财经网址导航,财经导航"><meta 
+name="description" content="雪球推出的财经网址导航，方便查找财经证券资讯门户网站、证券
+报刊官网、财经商业杂志网站，优质科技新媒体、商业新媒体网站，投资交流社区网址，国内外各
+类官方机构网站，各类行业网站，债券、期货、基金、黄金、外汇网站。列出宏观数据、市场数据
+、行业数据、研究报告、上市公司公告、股票筛选等工具。"><!--<link rel="shortcut icon" 
+href="http://xueqiu.com/favicon.ico">--><link rel="icon" type="image/png" 
+href="https://assets.imedao.com/images/favicon.png"><style>html 
+{display:none}</style><script>if (self == top) {
+  document.documentElement.style.display = 'block';
+} else if (top.location.host !== 'xueqiu.com') {
+  top.location = self.location;
+}
+var WATCH = {};
+WATCH.appStart = 1461061018159
+WATCH.pageStart = (new Date()).getTime()</script><link rel="stylesheet" 
+href="https://assets.imedao.com/style/bootstrap-b61eb7.css"><style>body{
+  padding-top:40px;
+}
+/* TODO */
+.search .dropdown-menu strong{
+  height:12px;
+  line-height:12px;
+}</style><link rel="apple-touch-icon-precomposed" 
+href="https://assets.imedao.com/images/icon-144.png"><script 
+src="https://assets.imedao.com/js/xdomain-0.6.15.js"></script><script>xdomain.slaves({
+  'https://xueqiu.com': '/proxy2.html',
+  'https://im0.xueqiu.com': '/proxy2.html',
+  'https://im1.xueqiu.com': '/proxy2.html',
+  'https://im2.xueqiu.com': '/proxy2.html',
+  'https://im3.xueqiu.com': '/proxy2.html',
+  'https://im4.xueqiu.com': '/proxy2.html',
+  'https://im5.xueqiu.com': '/proxy2.html',
+  'https://im6.xueqiu.com': '/proxy2.html',
+  'https://im7.xueqiu.com': '/proxy2.html',
+  'https://im8.xueqiu.com': '/proxy2.html',
+  'https://im9.xueqiu.com': '/proxy2.html'
+});</script><script 
+src="https://assets.imedao.com/js/SNB.lib.bundle-b11b47.js"></script></head><body 
+id="dh" class=" isPC isNotMobile isNotPad"><script>SNB = window.SNB || {};
+jQuery.extend(SNB, {
+  data: {},
+  env: "production",
+  Views: {},
+  Templates: {},
+  Models: {},
+  Collections: {},
+  domain: 
+  {"host":"http://xueqiu.com","base":"http://api.xueqiu.com","photo":"//xavatar.imedao.
+  com","stock":"http://api.xueqiu.com","static":"//assets.imedao.com","staticHttps":"ht
+  tps://assets.imedao.com","upyun":"http://xqimg.b0.upaiyun.com","pdf":"http://xqdoc.im
+  edao.com","im":"http://api.xueqiu.com","shared":"/data/source/snowball-fe/shared/","f
+  ile":"http://xqfile.imedao.com/"},
+  currentUser: {"isGuest":true},
+  jsVersion: 
+  {"05.jquery.cookie.js":"68e2a4","08.templates.js":"4aa7bf","SNB.TopicList.js":"30468a
+  ","SNB.UsersList.js":"ec61ee","SNB.atDialog.js":"439f10","SNB.base.js":"777763","SNB.
+  base_simple.js":"797e22","SNB.bind_verify.js":"118df1","SNB.calendar.js":"c65d9a","SN
+  B.calendarDialog.js":"929cb0","SNB.calendarSubscribe.js":"e6012c","SNB.capitalReturnR
+  ateChart.js":"bd11c3","SNB.cardDialog.js":"ab3d1d","SNB.commentView.js":"f614c7","SNB
+  .commonFriends.js":"5fedd6","SNB.companyInfo.js":"fb5027","SNB.dialog.js":"b53ff1","S
+  NB.dm.js":"3fd46e","SNB.dmDialog.js":"c96117","SNB.downloadDialog.js":"68595d","SNB.e
+  ditor.emotion.js":"ccd772","SNB.editor.js":"745b0e","SNB.eventShare.js":"7b230c","SNB
+  .financeTableDataInfo.js":"4329d2","SNB.follower.js":"83577e","SNB.friends.js":"dc556
+  8","SNB.g.bar.js":"8d17c0","SNB.guest.js":"499078","SNB.guide.js":"bd0b84","SNB.helpe
+  rs.js":"d5327e","SNB.his_home.js":"468d25","SNB.holdStockChart.js":"7fb688","SNB.home
+  .js":"da999e","SNB.hotStock.js":"320cd1","SNB.im.contacts.js":"3d5779","SNB.im.dialog
+  .js":"078b09","SNB.im.emotions.js":"158b2d","SNB.im.group_applys.js":"f354a0","SNB.im
+  .group_joined.js":"3f1895","SNB.im.js":"a4d637","SNB.im.message.js":"426e6d","SNB.im.
+  model.js":"a8324f","SNB.im.net.js":"ec4486","SNB.im.peer_chat.js":"cb13f1","SNB.im.se
+  ssion_item.js":"6fb32d","SNB.im.sessions_list.js":"eb2ad1","SNB.im.setting.js":"ac0ed
+  0","SNB.im.stranger.js":"8ea9a5","SNB.im.utils.js":"ab3f84","SNB.imeigu_fund_topic.js
+  ":"a64418","SNB.imeigu_index.js":"d4f2e9","SNB.index.login.js":"783530","SNB.inner_tr
+  ade.js":"7d8321","SNB.interest.js":"dc0ab7","SNB.interview.js":"fa9ef6","SNB.kline.js
+  ":"7d13af","SNB.lib.bundle.js":"b11b47","SNB.lib.mobile.js":"8eda9f","SNB.modify_emai
+  l.js":"0cb2c6","SNB.newChart.js":"a51b22","SNB.newChart.mobile.js":"a3db95","SNB.newP
+  rofile.js":"50704d","SNB.password.js":"8bf5ac","SNB.pdfDialog.js":"b7cff4","SNB.perfo
+  rmance-year.js":"55e5b8","SNB.performance.js":"3add97","SNB.performanceChart.js":"0cc
+  6bc","SNB.performanceView.js":"fde3d9","SNB.performance_mobile.js":"7f8dcf","SNB.pers
+  onality.js":"3a3a3d","SNB.portfolio.js":"716687","SNB.portfolioNew.js":"ee2032","SNB.
+  portfolioShareDialog.js":"de6849","SNB.profile_info.js":"1904cf","SNB.recommend.js":"
+  344c23","SNB.renderTableTrHtml.js":"d9ecf0","SNB.renderUserView.js":"0ea1a6","SNB.rep
+  ortSpam.js":"418c1f","SNB.repostDialog.js":"7df4cb","SNB.sameFriend.js":"d87ab3","SNB
+  .search.js":"772ab4","SNB.search_ipad.js":"62a216","SNB.search_stock_ipad.js":"6910d7
+  ","SNB.setting_user.js":"5d7e30","SNB.shareDialog.js":"1dee89","SNB.similarUsers.js":
+  "0e8f2f","SNB.singleStock.js":"242af7","SNB.status-edit.js":"a9ae8a","SNB.status.js":
+  "0d3f35","SNB.status_mobile.js":"6d85f5","SNB.stockActiveUser.js":"e09e6c","SNB.stock
+  Followers.js":"e9d286","SNB.stockList.js":"aab37c","SNB.stockList_new.js":"61062b","S
+  NB.stockNews.js":"55db59","SNB.stockRecommend.js":"a896cd","SNB.stockScreener.js":"47
+  e5fa","SNB.stockStatus.js":"939a20","SNB.talks.js":"05b1eb","SNB.third_oauth.js":"1b9
+  e2a","SNB.tipsTalk.js":"3bdde6","SNB.tipsTopic.js":"473f94","SNB.today.js":"d8d933","
+  SNB.today.lib.js":"19681e","SNB.today_topic.js":"b47afc","SNB.tooltip.js":"4730d7","S
+  NB.topInfluence.js":"89f31e","SNB.trans.js":"737e63","SNB.tweetDialog.js":"9eb539","S
+  NB.typeahead.js":"7f647d","SNB.userRecommend.js":"95a052","SNB.userRemark.js":"001ff1
+  ","SNB.validator.js":"0a8ca0","SNB.weiboUser.js":"81e080","TGJSBridge.js":"4aaeff","W
+  datePicker.js":"eb9586","ajaxfileupload.js":"59627b","backbone.0.9.10.js":"5d519b","b
+  ackbone.js":"d013f1","bootstrap.js":"6bd6fa","calendar.js":"9795e3","checkLogin.js":"
+  38a9a1","config.js":"486808","d3.v2.min.js":"1ef3b6","fittext.js":"45db6e","flexible.
+  js":"d171af","flexpaper.js":"3c6a5d","flexpaper_handlers.js":"623c12","fullcalendar.j
+  s":"26781c","g.bar.js":"32785d","g.line-min.js":"2db247","g.pie.js":"46e2f1","g.rapha
+  el.js":"630b74","hammer.js":"ec2456","hc_exporting.js":"bb5d9e","hc_grid.js":"3b9851"
+  ,"highcharts.js":"122285","highlight.js":"21d2c6","iScroll.js":"834870","im2014.js":"
+  00ea4a","im_group_apply.js":"930e3b","imeigu_portfolioIframe.js":"e669a4","imgPlugin.
+  js":"1cb5de","imgUpload.js":"249f02","infinity.min.js":"0c5941","jquery.color.js":"87
+  5798","jquery.galleriffic.js":"e6186f","jquery.hammer.js":"e02a44","jquery.history.js
+  ":"6f8651","jquery.imgareaselect.js":"a9d059","jquery.imgareaselect.pack.js":"a31351"
+  ,"jquery.js":"d80a03","jquery.lazyload.min.js":"fb3951","jquery.mousewheel.js":"41ebd
+  2","jquery.pjax.js":"7ccac8","jquery.plugin.pullToRefresh.js":"35465b","jquery.rotate
+  .1-1.js":"60d180","jquery.simplePagination.js":"420bda","jquery.tagsinput.js":"b68784
+  ","jquery.ui.js":"9ee05e","jquery.uploadify.js":"aac61a","jquery.validate.js":"555531
+  ","jquery.vticker.js":"5104ed","jquery.watermark.js":"0cc691","login.js":"094d42","mo
+  ment.js":"b01d4e","morris.min.js":"92098e","mustache.js":"fbf1b1","perfect-scrollbar-
+  0.4.8.with-mousewheel.min.js":"1bd536","qrcode.min.js":"1dc069","raphael.js":"ea1c64"
+  ,"redirect-to-native.js":"0fbbb9","responsive_slides.min.js":"ea733a","sea.js":"1264a
+  2","share-to-xueqiu.js":"ae4237","shenma_agt.js":"986160","single.js":"fbc946","slide
+  s.jquery.js":"cd66ff","step01.js":"b846e6","subscribe.js":"7d760a","underscore.js":"5
+  1b489","userSearch.js":"54d13d","xdomain-0.6.15.js":"575cd5","xdomain.js":"c4e376","z
+  epto.js":"6cdcc6","My97DatePicker/WdatePicker.js":"eb9586","My97DatePicker/calendar.j
+  s":"9795e3","SNB.lib.bundle/00.sea.js":"2749ae","SNB.lib.bundle/01.JSON.js":"b459a8",
+  "SNB.lib.bundle/02.modernizr.js":"f634b5","SNB.lib.bundle/03.jquery.js":"53538f","SNB
+  .lib.bundle/04.jquery.ui.js":"96c17c","SNB.lib.bundle/05.jquery.cookie.js":"68e2a4","
+  SNB.lib.bundle/06.underscore.js":"d97ed3","SNB.lib.bundle/07.backbone.js":"8a9a44","S
+  NB.lib.bundle/08.templates.js":"4aa7bf","SNB.lib.bundle/10.jade.runtime.js":"1fc7ae",
+  "SNB.lib.mobile/1.zepto.min.js":"acaeac","SNB.lib.mobile/2.underscore.js":"c2da07","S
+  NB.lib.mobile/iscroll.js":"4a55be","bootstrap/bootstrap-alert.js":"a9f081","bootstrap
+  /bootstrap-button.js":"ce03ae","bootstrap/bootstrap-carousel.js":"62b76a","bootstrap/
+  bootstrap-collapse.js":"9be616","bootstrap/bootstrap-dropdown.js":"af96b6","bootstrap
+  /bootstrap-modal.js":"cf302e","bootstrap/bootstrap-popover.js":"a4e6a7","bootstrap/bo
+  otstrap-scrollspy.js":"a88d39","bootstrap/bootstrap-tab.js":"8f2b45","bootstrap/boots
+  trap-tooltip.js":"682437","bootstrap/bootstrap-transition.js":"17fa23","bootstrap/boo
+  tstrap-typeahead.js":"97f107","common/SNB.helpers.js":"3115c8","common/backbone_1.1.2
+  .js":"8531c9","common/css3-mediaqueries.js":"f83d37","common/fastclick.js":"753522","
+  common/jquery-1.9.1.js":"b8b878","common/jquery-2.1.4.js":"394d23","common/jquery.cou
+  ntdown.js":"fe2cb6","common/jquery.waitforimages.js":"5cd25d","common/json.js":"b459a
+  8","common/lib.js":"e9c317","common/moment_new.js":"606026","common/sea-2.3.0.js":"34
+  7c46","common/sea.js":"2749ae","common/underscore_1.6.0.js":"3ffba8","common/util.js"
+  :"5bfa25","common/zepto-core-fx.1.1.3.js":"27e274","common/zepto-deferred.js":"977158
+  ","cube/cube-analyze.js":"c741c1","cube/cube-rank-chart.js":"631f07","cube/cube-sell-
+  notice.js":"4feee6","cube/cube-timeline.js":"660406","cube/cube_detail.js":"274983","
+  cube/cube_detail_m.js":"e93549","cube/cube_discover.js":"a349ce","cube/cube_discover_
+  m.js":"b9ea8b","cube/cube_edit.js":"03108a","cube/cube_guide.js":"a7e268","cube/cube_
+  recommend.js":"7209e5","cube/post_grid.js":"730811","cube/profile_cubes.js":"63835e",
+  "cube/range_slider.js":"358302","cube/stock_edit_modal.js":"8fe74f","fund/fund-detail
+  -mobile.js":"c90a9e","fund/fund-detail.js":"1aa7f6","fund/fund-dialog.js":"0458e9","f
+  und/profile-fund.js":"7416b3","highcharts/jquery-1.6.4.min.js":"526f75","im2014/base.
+  adapter.deliver.js":"d5da9d","im2014/base.adapter.js":"e895d8","im2014/base.config.js
+  ":"0ce305","im2014/base.js":"58869d","im2014/base.localstorage.js":"57720d","im2014/b
+  ase.net.js":"540257","im2014/base.utils.js":"426419","im2014/db.contacts.js":"536985"
+  ,"im2014/db.groups.js":"aebe8f","im2014/db.js":"b1164d","im2014/db.message.helper.js"
+  :"62bc4a","im2014/db.messages.js":"289bdb","im2014/db.sessions.js":"5289c7","im2014/i
+  m.js":"3675e3","im2014/session.dialog.js":"34f336","im2014/session.editor.js":"4feb32
+  ","im2014/session.gmm.js":"44c0a0","im2014/session.item.js":"2f722e","im2014/session.
+  joingroup.js":"34f898","im2014/session.list.js":"2ed585","im2014/session.message.js":
+  "30b56c","im2014/session.setting.js":"0cac30","im2014/widget.emotion.js":"389a95","im
+  2014/widget.joingroup.js":"b2ee4c","im2014/widget.requestjoingroup.js":"319aaa","im20
+  14/widget.search.js":"2d2eda","im2014/widget.uploader.js":"e1abec","im2014/widget.vie
+  wer.js":"93c152","imeigu/xueqiu_popup.js":"7589a8","lang/en.js":"c6550c","lang/zh-cn.
+  js":"a606a6","lang/zh-tw.js":"4e0fdb","lib/autoresize.js":"f853a5","lib/chai.js":"a01
+  30d","lib/jade.runtime.js":"7e2d74","lib/jquery.easing.1.3.js":"008f85","lib/jquery.f
+  ullPage.js":"f69025","lib/jquery.fullPage.new.js":"ddc0ef","lib/jquery.slides.min.js"
+  :"269b95","lib/mocha.js":"8799cd","lib/scrollReveal.js":"8e7fd9","lib/store.js":"9c76
+  67","lib/swipe.js":"50667e","lib/ueditor.js":"3bef0b","lib/upload.js":"63db39","month
+  ly/index.js":"f09618","pages/check_active_status.js":"e94e8c","pages/home.js":"69fe5f
+  ","pages/single.js":"0a399e","pages/utils.js":"78c391","pages/welfare.js":"bdd948","w
+  idget/TSNB.addfriend.js":"f04fd7","widget/TSNB.addpdf.js":"c3074f","widget/TSNB.addst
+  ock.js":"0c459a","widget/TSNB.at.js":"a5ebeb","widget/TSNB.bindverify.js":"f3ea69","w
+  idget/TSNB.home-editor.js":"53ba26","widget/TSNB.newuser-guide.js":"3bc710","widget/T
+  SNB.people-autocomplete.js":"92ed61","widget/TSNB.performance.js":"acc148","widget/TS
+  NB.risk.js":"a573e7","widget/TSNB.sharestatus.js":"16e249","widget/TSNB.stockalert.js
+  ":"1cb0fd","widget/TSNB.stockgroup.js":"7baec6","widget/TSNB.typeahead.js":"95b8e6","
+  widget/aside.js":"24f6cb","widget/backbone1.1.2.js":"181b4a","widget/bootstrap.js":"a
+  bac2a","widget/donate.js":"312591","widget/donate_tooltip.js":"435b5f","widget/editor
+  .js":"c62b3b","widget/emotions.js":"623bc3","widget/favorite.js":"e356ee","widget/for
+  ward.js":"b01cb4","widget/global_pin.js":"b06ff9","widget/lodash.underscore.js":"1854
+  ff","widget/profile_pin.js":"fff85b","widget/report_spam.js":"0a5cf8","widget/repost_
+  comment.js":"4bb3ae","widget/share.js":"6e71c0","widget/status.js":"9e5a6e","widget/u
+  nderscore1.6.0.js":"4d7fd6","widget/util.js":"0d0d5f","My97DatePicker/lang/en.js":"c6
+  550c","My97DatePicker/lang/zh-cn.js":"a606a6","My97DatePicker/lang/zh-tw.js":"4e0fdb"
+  ,"bootstrap/tests/phantom.js":"e38dfa","bootstrap/tests/server.js":"21e92a","common/l
+  ib/jquery-1.9.1.js":"3dd6ee","common/lib/sea-2.3.0.js":"347c46","common/lib/underscor
+  e_1.6.0.js":"834fa8","common/util/analytics.js":"b94d9d","common/util/image.js":"5eb8
+  7c","common/util/jade.runtime.js":"aed6b5","common/util/jquery.extend.js":"6736b6","c
+  ommon/util/observer.js":"648151","common/util/password.js":"8a8947","common/util/uplo
+  ad.js":"8f1294","mobile-chart/mobile-chart_files/SNB.mobile_chart.js":"ff1366","mobil
+  e-chart/mobile-chart_files/hammer.js":"0c510a","mobile-chart/mobile-chart_files/sea.j
+  s":"1264a2","mobile-chart/mobile-chart_files/underscore.js":"51b489","mobile-chart/mo
+  bile-chart_files/zepto-core-fx.1.1.3.js":"27e274","pages/about/app.js":"eecbff","page
+  s/about/app_mobile.js":"7db607","pages/broker/TSNB.analyze.js":"e00911","pages/broker
+  /TSNB.bind.js":"4afabd","pages/broker/TSNB.bridge.js":"43cc69","pages/broker/TSNB.cou
+  pon-info.js":"9ffa7e","pages/broker/TSNB.coupon-list.js":"a8c0b3","pages/broker/TSNB.
+  coupon-rules.js":"48ff6a","pages/broker/TSNB.ib-bind.js":"efc386","pages/broker/TSNB.
+  lucky.js":"0d1a1a","pages/broker/TSNB.new-stock-detail.js":"38886e","pages/broker/TSN
+  B.new-stock.js":"b5d2d5","pages/broker/TSNB.open-gift.js":"2fc03f","pages/broker/TSNB
+  .open.js":"370bef","pages/broker/TSNB.question-info.js":"eaf2ea","pages/broker/TSNB.q
+  uestion.js":"df6381","pages/cashier/cashier.js":"020e6d","pages/consultant/consultant
+  -market.js":"ea0cd5","pages/cube/report-mobile.js":"7ca04c","pages/event/2015-summary
+  .js":"36cac2","pages/event/TSNB.cube-summary-mobile.js":"d1e26c","pages/event/TSNB.cu
+  be-summary.js":"03609d","pages/event/TSNB.year-summary-mobile.js":"73f230","pages/eve
+  nt/TSNB.year-summary.js":"daff60","pages/event/cmc.js":"a7c273","pages/event/fof.js":
+  "f3042a","pages/event/winning.js":"344ce3","pages/fund/apply-fof.js":"05b329","pages/
+  fund/subscribe-form.js":"aaaf81","pages/home/live_list.js":"7b3567","pages/home/timel
+  ine.js":"7f8c84","pages/invest/SNB.chart_base.js":"79ff2a","pages/invest/SNB.fund_cha
+  rt.js":"ff9b86","pages/invest/SNB.mobile_chart.js":"27e1fc","pages/invest/SNB.mobile_
+  stock.js":"407dca","pages/invest/SNB.profile_broker_rank.js":"85311d","pages/invest/S
+  NB.rank.js":"028504","pages/invest/TSNB.pankou.js":"1353ba","pages/invest/TSNB.stockl
+  ist_fund.js":"fec5ee","pages/invest/chart.js":"5c7924","pages/pay/deposit-mobile.js":
+  "799d95","pages/pay/deposit.js":"e37ac4","pages/pay/donate-mobile.js":"a6e63e","pages
+  /pay/pin.js":"1804ea","pages/pay/subscribe-mobile.js":"c6187b","pages/pay/withdraw.js
+  ":"952521","pages/profile/article.js":"b3bd76","pages/sns/index.js":"5f5bcf","pages/s
+  ns/single.js":"c5259d","pages/special/TSNB.special-item.js":"d41d8c","pages/talks/sin
+  gle-mobile.js":"f64136","pages/today/mobile.index.js":"f72378","pages/user/forgot_pwd
+  .js":"b8e8e7","pages/user/login.js":"ff5499","pages/user/profile.js":"a0d706","pages/
+  user/recommend.js":"573f3e","pages/user/reg.js":"672be0","pages/user/reset_pwd.js":"d
+  a1832","pages/user/uploadImage.js":"99c6d9","pages/user/verify-bindedPhoneNumber.js":
+  "0dfc9b","widget/aside/TSNB.ad.js":"cb229d","widget/aside/TSNB.cube-money.js":"f960e3
+  ","widget/aside/TSNB.fund-rank.js":"818c07","widget/aside/TSNB.hot-stocks.js":"44327c
+  ","widget/aside/TSNB.interesting-people.js":"832a1a","widget/aside/TSNB.other-service
+  s.js":"1d8361","widget/aside/TSNB.recommend-people.js":"73b8db","widget/aside/TSNB.sy
+  snotify.js":"e50d01","widget/aside/TSNB.today-talk.js":"022aeb","widget/bootstrap/aff
+  ix.js":"f014e8","widget/bootstrap/alert.js":"915f20","widget/bootstrap/bootstrap-date
+  picker.js":"daa8d6","widget/bootstrap/button.js":"3a8a2e","widget/bootstrap/carousel.
+  js":"f763e0","widget/bootstrap/collapse.js":"c9ceab","widget/bootstrap/dropdown.js":"
+  164604","widget/bootstrap/modal.js":"d390dd","widget/bootstrap/popover.js":"8c9993","
+  widget/bootstrap/scrollspy.js":"37bd38","widget/bootstrap/tab.js":"5df6c4","widget/bo
+  otstrap/tooltip.js":"b973d7","widget/bootstrap/transition.js":"7af948","widget/bootst
+  rap/typeahead.js":"1e1e67","widget/chart/c3.js":"8769cb","widget/chart/d3.js":"ef8166
+  ","widget/editor/at.js":"869ec1","widget/editor/emotion.js":"67a7f8","widget/editor/u
+  meditor.config.js":"ed3336","widget/editor/umeditor.js":"490057","widget/editor/zh-cn
+  .js":"16b3e4","widget/flexpaper/flexpaper.js":"3c6a5d","widget/flexpaper/flexpaper_ha
+  ndlers.js":"39b20d","widget/mobile/action.js":"43495d","widget/mobile/dm.js":"c45cf7"
+  ,"widget/mobile/form.js":"03c77e","widget/mobile/modal.js":"309f6a","widget/mobile/ov
+  erlay.js":"44e1eb","widget/status/comment.js":"1ad4e7","widget/status/data.js":"d2678
+  b","widget/status/pdf.js":"ee48be","widget/status/pin.js":"4dce9c","widget/tmp/SNB.ba
+  se.js":"9a920a","widget/tmp/json.js":"b459a8","widget/util/TSNB.donate.js":"8dc4ef","
+  widget/util/areas.js":"4f6252","widget/util/modal.js":"0a947f","widget/util/notice.js
+  ":"b59e15","widget/util/share.js":"8c017a","widget/util/tooltip.js":"30a8e8","widget/
+  util/typeahead.js":"30a273","widget/util/user.js":"96bbce","widget/util/webp.js":"ff3
+  b44","bootstrap/tests/unit/bootstrap-alert.js":"93d6ac","bootstrap/tests/unit/bootstr
+  ap-button.js":"996b53","bootstrap/tests/unit/bootstrap-carousel.js":"54a2cf","bootstr
+  ap/tests/unit/bootstrap-collapse.js":"1b1262","bootstrap/tests/unit/bootstrap-dropdow
+  n.js":"6a491c","bootstrap/tests/unit/bootstrap-modal.js":"6dd5a0","bootstrap/tests/un
+  it/bootstrap-phantom.js":"940ffb","bootstrap/tests/unit/bootstrap-popover.js":"4f65eb
+  ","bootstrap/tests/unit/bootstrap-scrollspy.js":"bd7b2c","bootstrap/tests/unit/bootst
+  rap-tab.js":"63f9fc","bootstrap/tests/unit/bootstrap-tooltip.js":"fc2c1c","bootstrap/
+  tests/unit/bootstrap-transition.js":"a1b2cc","bootstrap/tests/unit/bootstrap-typeahea
+  d.js":"2f86e0","bootstrap/tests/vendor/jquery.js":"fcf997","bootstrap/tests/vendor/qu
+  nit.js":"a8c0db","pages/broker/event/TSNB.ebook.js":"55c001","pages/broker/event/TSNB
+  .eight-gift.js":"e052ff","pages/broker/event/TSNB.eleven.js":"a2c612","pages/broker/e
+  vent/TSNB.event-channel.js":"e69136","pages/broker/event/TSNB.lagou.js":"84d891","pag
+  es/broker/event/TSNB.pick-gift.js":"52d940","pages/broker/event/TSNB.pingan-update.js
+  ":"1b0266","pages/broker/event/TSNB.pingan.js":"204c93","pages/broker/event/TSNB.save
+  .js":"2269c5","pages/broker/template/TSNB.new-stock-list.js":"f95168","pages/invest/c
+  hart/TSNB.chart.base.js":"737615","pages/invest/chart/TSNB.chart.compare.js":"cf13d4"
+  ,"pages/invest/chart/TSNB.chart.event.js":"28bb3c","pages/invest/chart/TSNB.chart.kli
+  ne.js":"4df5b8","pages/invest/chart/TSNB.chart.networth.js":"1283f7","pages/invest/ch
+  art/TSNB.chart.status.js":"a60839","pages/invest/chart/TSNB.chart.stock.js":"94a416",
+  "pages/invest/chart/TSNB.chart.thumbnail.js":"25a409","pages/invest/hq/TSNB.compare_a
+  h.js":"8dcaea","pages/invest/portfolio/TSNB.create-portfolio-group.js":"d9e67b","page
+  s/invest/portfolio/TSNB.delete-portfolio-group.js":"e6a16d","pages/invest/portfolio/T
+  SNB.delete-portfolio.js":"35a3ec","pages/invest/portfolio/TSNB.manage-portfolio-group
+  .js":"1b0504","pages/invest/portfolio/TSNB.portfolio-util.js":"a42470","pages/invest/
+  portfolio/TSNB.portfolio.js":"d8ff8b","pages/invest/portfolio/TSNB.stock-autocomplete
+  .js":"cc5d2e","pages/sns/index/cube.js":"1f5d94","pages/sns/index/login.js":"a7e9a5",
+  "pages/sns/index/markets.js":"b51353","pages/sns/index/promotion.js":"aa01d3","pages/
+  sns/index/stocks.js":"47fe9b"},
+  cssVersion: 
+  {"about.css":"8a68c7","activate_bar.css":"90db89","bootstrap-lite.css":"d17987","boot
+  strap.css":"b61eb7","bootstrap_full.css":"997bcb","bootstrap_tab_xueqiu.css":"69dee9"
+  ,"bootstrap_tab_xueqiu_white.css":"5492e5","button.css":"23513c","chart.css":"d41d8c"
+  ,"comment.css":"dbfbd5","connect_link.css":"0edf0b","default.css":"8fb714","default_m
+  obile.css":"264592","dh.css":"a34780","dialog.css":"828547","editor.css":"57d8ef","ed
+  itor_inline.css":"7d7563","flexpaper.css":"ecc108","form.css":"c845bd","fullcalendar.
+  css":"b1f726","guide_overlay.css":"9dd1cf","hots-statuses.css":"181d4e","icon.css":"6
+  80a07","im.css":"aa2f71","im2014.css":"84ad63","imgroup.css":"5445f8","jinNang.css":"
+  4bd30a","jinnang_1394597838763.css":"4bd30a","jquery.tagsinput.css":"3f47e0","jquery.
+  ui.css":"279647","mentions_block.css":"4b58aa","mocha.css":"a5dea9","mystatus.css":"2
+  72433","newChart.css":"5d9be9","pdfviewer.css":"720dd9","performance-year-mobile.css"
+  :"a17f1a","performance-year.css":"317994","performanceChart.css":"2589d4","personalit
+  y-ie8.css":"6a37b0","personality.css":"c723c4","pop_login.css":"8f20df","portfolioIfr
+  ame.css":"c85adf","portfolioNew.css":"4f2887","profile.css":"0737fc","profile_info.cs
+  s":"4b5978","profile_operations.css":"a0abbd","profile_status.css":"3969fd","pull-to-
+  refresh.css":"3e5b69","searchBar.css":"aeef28","simplePagination.css":"b23401","snowb
+  rick.css":"ccc31a","status_mobile.css":"625b26","status_operate_btn.css":"0872af","ta
+  b-setting.css":"506d45","today_topic.css":"a8f864","tooltip.css":"820355","uploadify.
+  css":"d5b49f","userRecommend.css":"beabbe","user_list.css":"bb06fd","widget.css":"88e
+  99b","widget_user.css":"d1e0c0","common/base.css":"1b06e7","common/form.css":"4839e9"
+  ,"common/grid.css":"c165dd","common/iconfont.css":"8f03b9","common/layout.css":"746a9
+  5","common/menu.css":"985468","common/mobile.css":"3362b1","common/mod.css":"c15889",
+  "common/modal.css":"77bff1","common/nav-bar.css":"c7af54","common/pager.css":"0d5b09"
+  ,"common/reset.css":"e2dffc","common/var.css":"d41d8c","cube/cube-analyze.css":"3c5bf
+  5","cube/cube_card.css":"a56e9f","cube/cube_detail.css":"072a01","cube/cube_detail_m.
+  css":"539ac2","cube/cube_discover.css":"de6ef5","cube/cube_discover_m.css":"32a394","
+  cube/cube_edit.css":"f5208f","cube/cube_sell_notice_dialog.css":"913dc6","fund/fund_d
+  etail.css":"ab1a0f","fund/fund_dialog-mobile.css":"4395ab","fund/fund_dialog.css":"fc
+  8fcc","lib/jquery.fullPage.css":"3dfa38","lib/jquery.fullPage.new.css":"d4d4ba","page
+  s/TSNB.about.css":"28449a","pages/home.css":"3ef6f1","pages/imeigu.css":"cff846","pag
+  es/post.css":"16fd7a","pages/profile.css":"093e27","pages/status.css":"cc43c8","pages
+  /tip.css":"9bc5a0","touch/common.css":"1c57df","touch/normal.css":"d536b7","widget/TS
+  NB.comment.css":"7dda5d","widget/TSNB.donate.css":"708f8a","widget/TSNB.donate_toolti
+  p.css":"672acf","widget/TSNB.performance.css":"588cce","widget/TSNB.portfolio_dialog.
+  css":"68b2cb","widget/TSNB.portfolio_user_dialog.css":"9ad4f2","widget/TSNB.report_sp
+  am.css":"3e795c","widget/TSNB.share.css":"f36d77","widget/TSNB.status.css":"41ca12","
+  widget/TSNB.user_dialog.css":"81075a","widget/btn.css":"9fdda0","widget/datepicker.cs
+  s":"d683e7","widget/donate.css":"ab255d","widget/donate_tooltip.css":"9e0336","widget
+  /global_pin.css":"92b1cf","widget/modal.css":"5fc4e9","widget/profile_pin.css":"60296
+  d","common/css3/inline-block.css":"bb8c38","pages/about/animation.css":"1e4355","page
+  s/about/app.css":"d919d8","pages/about/app_mobile.css":"5b4c12","pages/about/share.cs
+  s":"6712c8","pages/broker/analyze.css":"9cfaf8","pages/broker/bind-success.css":"e01f
+  1a","pages/broker/coupon-info.css":"466999","pages/broker/coupon-list.css":"e30d83","
+  pages/broker/dyzq-open.css":"8bce51","pages/broker/fzzq-open.css":"29f342","pages/bro
+  ker/gfzq-open.css":"017efb","pages/broker/gjzq-open.css":"1e5c01","pages/broker/glzq-
+  open.css":"5dcedc","pages/broker/htzq-open.css":"3dc590","pages/broker/ib-bind.css":"
+  00a9e5","pages/broker/insurance.css":"76f340","pages/broker/lucky-intro.css":"9f77d0"
+  ,"pages/broker/lucky-mobile.css":"15a951","pages/broker/lucky.css":"7e8ee4","pages/br
+  oker/mobile-base.css":"34ce7b","pages/broker/new-stock-detail.css":"fce293","pages/br
+  oker/new-stock.css":"d754d8","pages/broker/oops.css":"829ad0","pages/broker/open-gift
+  .css":"34a237","pages/broker/open-guide.css":"aeddd4","pages/broker/open.css":"952aa7
+  ","pages/broker/pingan-open-web.css":"132eb1","pages/broker/pingan-open.css":"12ba08"
+  ,"pages/broker/qa.css":"abe2ce","pages/broker/trade-question.css":"f8e090","pages/bro
+  ker/zxzq-open.css":"817f57","pages/cashier/cashier.css":"32e0ca","pages/consultant/co
+  nsultant.css":"e3cfab","pages/cube/report-mobile.css":"57b2b3","pages/event/2015-summ
+  ary.css":"3fc58e","pages/event/TSNB.year-summary-mobile.css":"864fa2","pages/event/TS
+  NB.year-summary.css":"a868f5","pages/event/assets-manage-mobile.css":"97f3d7","pages/
+  event/assets-manage.css":"4e02c8","pages/event/cmc-mobile.css":"7fe9f7","pages/event/
+  cmc.css":"8d1acc","pages/event/cube-summary-mobile.css":"bba03e","pages/event/cube-su
+  mmary.css":"07f842","pages/event/fof-mobile.css":"26526f","pages/event/fof-web.css":"
+  607844","pages/event/winning.css":"70c7a4","pages/event/xueqiu-club-mobile.css":"3c7e
+  e2","pages/event/xueqiu-club-xiamen-pc.css":"e4c98a","pages/event/xueqiu-club-xiamen.
+  css":"7cb432","pages/event/xueqiu-club.css":"e8654f","pages/fund/apply-fof.css":"71f6
+  08","pages/fund/apply-success.css":"d072a6","pages/fund/subscribe-form.css":"d92852",
+  "pages/fund/subscribe-success.css":"d41d8c","pages/home/home-editor.css":"c15bfe","pa
+  ges/home/newuser-guide.css":"23dd61","pages/home/widgets.css":"d628e5","pages/index/c
+  ube.css":"041e70","pages/index/default.css":"5ec062","pages/invest/dealList.css":"79d
+  551","pages/invest/mobile_chart.css":"5e058b","pages/invest/mobile_performance.css":"
+  16e7bb","pages/invest/mobile_stock.css":"996b7b","pages/invest/profile_broker_rank.cs
+  s":"55a18e","pages/invest/rank.css":"4d6196","pages/invest/singleStock.css":"5049bf",
+  "pages/invest/stock_chart.css":"b9b8f1","pages/invest/stocklist.css":"519627","pages/
+  invest/stocklist_fund.css":"74824d","pages/mobile/common.css":"004801","pages/mobile/
+  vars.css":"d41d8c","pages/monthly/monthly.css":"655df6","pages/pay/subscribe-mobile.c
+  ss":"128827","pages/pay/wallet-mobile.css":"583bc0","pages/pay/wallet.css":"a17a41","
+  pages/pin/pin-mobile.css":"bf2ba8","pages/preipo/preipo.css":"9b69ea","pages/singlePa
+  ge/download.css":"4ab7c5","pages/singlePage/single.css":"ea2fe2","pages/sns/TSNB.sing
+  le.css":"81e378","pages/sns/home.css":"f820c6","pages/special/TSNB.special-item.css":
+  "4a9497","pages/stock/info.css":"8c6457","pages/talks/single-mobile.css":"2944d9","pa
+  ges/today/index-mobile.css":"a95cc9","pages/user/binded-phonenumber.css":"a3d8b5","pa
+  ges/user/forgot_pwd.css":"fc1bfd","pages/user/login.css":"b5b160","pages/user/profile
+  .css":"b6d3b5","pages/user/recommend.css":"7464e2","pages/user/reg.css":"0722f2","pag
+  es/wallet/welfare.css":"d74cf0","widget/bootstrap/alerts.css":"2c520b","widget/bootst
+  rap/badges.css":"da050d","widget/bootstrap/bootstrap.css":"971848","widget/bootstrap/
+  breadcrumbs.css":"b9ab35","widget/bootstrap/button-groups.css":"a7c65b","widget/boots
+  trap/buttons.css":"a73cc0","widget/bootstrap/carousel.css":"93e128","widget/bootstrap
+  /close.css":"30812b","widget/bootstrap/code.css":"fab06a","widget/bootstrap/component
+  -animations.css":"63295e","widget/bootstrap/dropdowns.css":"d91661","widget/bootstrap
+  /forms.css":"1dac09","widget/bootstrap/glyphicons.css":"024db0","widget/bootstrap/gri
+  d.css":"7f9bd0","widget/bootstrap/input-groups.css":"fc56c7","widget/bootstrap/jumbot
+  ron.css":"cf17ad","widget/bootstrap/labels.css":"3e0971","widget/bootstrap/list-group
+  .css":"ec9751","widget/bootstrap/media.css":"ecbd91","widget/bootstrap/mixins.css":"a
+  0cb66","widget/bootstrap/modals.css":"5b2682","widget/bootstrap/navbar.css":"abacbf",
+  "widget/bootstrap/navs.css":"9fbe5c","widget/bootstrap/normalize.css":"ddcb0b","widge
+  t/bootstrap/pager.css":"7be0a4","widget/bootstrap/pagination.css":"eaa566","widget/bo
+  otstrap/panels.css":"d53a2d","widget/bootstrap/popovers.css":"93bafa","widget/bootstr
+  ap/print.css":"b11602","widget/bootstrap/progress-bars.css":"580cf9","widget/bootstra
+  p/responsive-embed.css":"1c5626","widget/bootstrap/responsive-utilities.css":"2db01f"
+  ,"widget/bootstrap/scaffolding.css":"0fc3a2","widget/bootstrap/tables.css":"462165","
+  widget/bootstrap/theme.css":"52929d","widget/bootstrap/thumbnails.css":"b96eb4","widg
+  et/bootstrap/tooltip.css":"c060af","widget/bootstrap/type.css":"c8dff8","widget/boots
+  trap/utilities.css":"d3b1aa","widget/bootstrap/variables.css":"d41d8c","widget/bootst
+  rap/wells.css":"578e1c","widget/c3/c3.css":"f105cd","widget/mobile/modal.css":"f2f776
+  ","widget/mobile/normal.css":"d536b7","widget/mobile/top-bar.css":"f4eb52","widget/um
+  editor/editor.css":"5f1892","widget/umeditor/umeditor.css":"7eb569","widget/util/page
+  .css":"3ea87c","pages/broker/event/ebook.css":"9cf811","pages/broker/event/eight-gift
+  .css":"a3e5c4","pages/broker/event/eleven-success.css":"6b6177","pages/broker/event/e
+  leven.css":"3d7c5b","pages/broker/event/event-channel.css":"e50c2a","pages/broker/eve
+  nt/lagou.css":"0cc566","pages/broker/event/pingan-success.css":"c27eca","pages/broker
+  /event/pingan-update.css":"7630f5","pages/broker/event/save.css":"3b9754","pages/brok
+  er/widget/share.css":"1eb946","pages/home/widgets/ad.css":"4f1e5e","pages/home/widget
+  s/hot-stocks.css":"24743d","pages/home/widgets/interesting-recommend.css":"25f080","p
+  ages/home/widgets/my-nav.css":"5c6636","pages/home/widgets/other-services.css":"d76f0
+  d","pages/home/widgets/sysnotify.css":"116c48","pages/invest/portfolio/group.css":"3e
+  96d2","pages/invest/portfolio/portfolio.css":"2817b7","pages/market/event/channel.css
+  ":"e0bb7b","widget/bootstrap/mixins/alerts.css":"d41d8c","widget/bootstrap/mixins/bac
+  kground-variant.css":"d41d8c","widget/bootstrap/mixins/border-radius.css":"d41d8c","w
+  idget/bootstrap/mixins/buttons.css":"d41d8c","widget/bootstrap/mixins/center-block.cs
+  s":"d41d8c","widget/bootstrap/mixins/clearfix.css":"d41d8c","widget/bootstrap/mixins/
+  forms.css":"d41d8c","widget/bootstrap/mixins/gradients.css":"d41d8c","widget/bootstra
+  p/mixins/grid-framework.css":"d41d8c","widget/bootstrap/mixins/grid.css":"2f25b9","wi
+  dget/bootstrap/mixins/hide-text.css":"d41d8c","widget/bootstrap/mixins/image.css":"d4
+  1d8c","widget/bootstrap/mixins/labels.css":"d41d8c","widget/bootstrap/mixins/list-gro
+  up.css":"d41d8c","widget/bootstrap/mixins/nav-divider.css":"d41d8c","widget/bootstrap
+  /mixins/nav-vertical-align.css":"d41d8c","widget/bootstrap/mixins/opacity.css":"d41d8
+  c","widget/bootstrap/mixins/pagination.css":"d41d8c","widget/bootstrap/mixins/panels.
+  css":"d41d8c","widget/bootstrap/mixins/progress-bar.css":"d41d8c","widget/bootstrap/m
+  ixins/reset-filter.css":"d41d8c","widget/bootstrap/mixins/resize.css":"d41d8c","widge
+  t/bootstrap/mixins/responsive-visibility.css":"d41d8c","widget/bootstrap/mixins/size.
+  css":"d41d8c","widget/bootstrap/mixins/tab-focus.css":"d41d8c","widget/bootstrap/mixi
+  ns/table-row.css":"d41d8c","widget/bootstrap/mixins/text-emphasis.css":"d41d8c","widg
+  et/bootstrap/mixins/text-overflow.css":"d41d8c","widget/bootstrap/mixins/vendor-prefi
+  xes.css":"d41d8c"},
+  staticDomain: 'https://assets.imedao.com',
+  bid : ''
+});
+
+SNB.data.access_token =  $.cookie("xq_a_token") || 
+"972fe774b7aff0367a69f9e9a124a475ed362a16";
+</script><!-- 防止局域网缓存用户信息--><script>(function(){
+  var search = window.location.search || '';
+  if (search.indexOf('_=') === -1 && SNB.bid !== '' && document.cookie && 
+  document.cookie.indexOf('bid=' + SNB.bid) === -1) {
+    var searchArr = search.split('&');
+    searchArr.push('_=' + (+new Date).toString(36));
+    window.location.search = search.join('&');
+  }
+})();
+</script><script 
+src="https://assets.imedao.com/js/05.jquery.cookie.js"></script><script>function 
+delCookie(name){//为了删除指定名称的cookie，可以将其过期时间设定为一个过去的时间
+  var date = new Date();
+  date.setTime(date.getTime() - 10000);
+  document.cookie = name + '=a; expires=' + date.toGMTString();
+}
+/*
+if(!$.cookie('xq_refresh') && $.cookie('xq_a_token')){
+  $.ajax({
+    url: '/user/refreshCookie',
+    async: false
+  }).done(function(){
+    delCookie('xq_a_token');
+    delCookie('xq_r_token');
+    delCookie('xq_token_expire');
+  });
+}
+*/
+jQuery(function($){
+  $('.navbar a.exit').on('click', function(){
+    try{
+      delCookie('xq_a_token');
+      delCookie('xq_r_token');
+      delCookie('xq_token_expire');
+    } catch(e){
+      console.log(e);
+    }
+  });
+});</script><script 
+src="https://assets.imedao.com/js/SNB.helpers-d5327e.js"></script><script>SNB.profileUs
+er = SNB.currentUser</script><noscript><style>html {
+  display: block
+}</style><p class="ie6">当前浏览器禁用了JavaScript，导致不能正常使用雪球的功能，请打开
+JavaScript后再访问本站。</p></noscript><!--[if lt IE 8]><div class="ie6">你正在使用的浏
+览器版本过低（IE7或IE7以下，包括套用了IE内核的360浏览器、搜狗浏览器等）。<br />如果不能
+正常浏览本站或某些功能无法使用，请到微软官网下载升级 <a 
+href="http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie">Internet 
+Explorer</a> 或使用 <a href="http://www.google.com/chrome/">谷歌 Google Chrome</a> 浏览
+器。</div><![endif]--><div class="temp"></div><div class="navbar navbar-fixed-top"><div 
+class="navbar-inner"><div class="container"><h1 id="logo"><a href="/" title="返回我的首
+页"><img src="https://assets.imedao.com/images/logos/logo.2015.png" alt="雪球" 
+class="logo-type"><img src="https://assets.imedao.com/images/logos/logotype.2015.png" 
+alt="雪球"></a></h1><div class="search"><form method="get" action="/k"><input 
+id="quick-search" name="q" type="text" autocomplete="off" placeholder="搜索 股票/讨论/
+用户/组合/群组" class="typeahead"></form><span class="icon"><i></i></span></div><ul 
+class="nav pull-right account notlogined"><li><a href="/account/reg" class="reg">注册
+</a></li><li><a href="/" class="login">登录
+</a></li></ul></div></div></div><!--!=css('im.css')--><script>seajs.config({
+  timeout: 60000,
+  preload: [SNB.jsVersion && _.keys(SNB.jsVersion).length ? 'SNB.base-' + 
+  SNB.jsVersion['SNB.base.js'] + '.js' : 'SNB.base.js']
+})
+</script><script>seajs.use("SNB.guest.js")
+</script><script>;(function () {
+  var keys = _.keys(SNB.jsVersion)
+    , map = [];
+    
+  if (keys.length) {
+    _.each(keys, function(k) {
+      var reg = new RegExp('\\/(' + k.replace(/\./g, '\\.') + ')(\\?.*|$)');
+      
+      map.push([reg, function (all, fileName, param) {
+        var result = '/' + fileName.replace(/\.js$/i, '') + '-' + SNB.jsVersion[k] + 
+	'.js';
+        
+        if (param) {
+          result += param;
+        }
+        
+        return result;
+      }]);
+    });
+    
+    seajs.config({
+      map: map
+    });
+  }
+}())
+</script><!-- test config--><script 
+src="https://assets.imedao.com/js/bootstrap-6bd6fa.js"></script><div id="center" 
+class="container"><div class="main"><div style="display:none" 
+class="loading"></div><div class="wrapper"><style>.dh-search{
+  text-align:center;
+  border:1px solid #f1f1f1;
+  padding:16px 0px 12px;
+  margin-bottom:20px;
+  background:#fdfdfd;
+}
+.dh-search-tabs{
+  margin-bottom:10px;
+}
+.dh-search-tabs li{
+  display:inline-block;
+  margin-right:10px;
+  padding:5px 12px;
+  cursor:pointer;
+  border-radius:3px;
+}
+.dh-search-tabs li:hover{
+  background:#f1f1f1;
+}
+.dh-search-tabs li.selected{
+  background:#05a;
+  color:white;
+}
+.dh-search-form{
+  margin-top:10px;
+}
+.dh-search-form .unfold .dh-search-engine-current{
+  border:1px solid #f1f1f1;
+}
+.dh-search-engine{
+  display:inline-block;
+  margin-right:10px;
+  cursor:pointer;
+  position:relative;
+  line-height:27px;
+  visibility:hidden;
+}
+.dh-search-engine-current{
+  border:1px solid transparent;
+  padding:0px 8px;
+  width:100px;
+}
+.dh-search-engine s{
+  position:absolute;
+  left:105px;
+  top:17px;
+  width: 12px;
+  height: 12px;
+  display: inline-block;
+  margin-left: 2px;
+  background: url(//assets.imedao.com/images/icon_12px.png) no-repeat -12px 0px;
+}
+.dh-search-form .unfold s{
+  background: url(//assets.imedao.com/images/icon_12px.png) no-repeat -12px -12px;
+}
+
+.dh-search-engine-list{
+  background:#fdfdfd;
+  position:absolute;
+  width:116px;
+  top:40px;
+  left:0px;
+  border:1px solid #f1f1f1;
+  border-top:none;
+  display:none;
+}
+.dh-search-engine-list li{
+  padding:0px 8px;
+}
+.dh-search-engine img{
+  vertical-align:bottom;
+}
+.dh-search-input{
+  width:510px;
+  height:16px;
+  font-size:16px;
+  line-height:22px;
+  padding:5px 5px;
+}
+.dh-search-button{
+  width:80px;
+  height:30px;
+  margin-left:10px;
+  margin-bottom:5px;
+}
+.dh-search-otherParams{
+  display:none;
+}
+.favorite{
+  float:right;
+  line-height: 30px;
+  font-size: 12px;
+  margin-right: 20px;
+  color:#05a;
+  cursor: pointer;
+  display:none;
+}
+body#dh #center .main .dh-header #share {
+  width:185px;
+}
+</style><script></script><div class="dh-header"><h1><a href="/dh" class="siteName">财经
+网址导航</a></h1><ul id="share"><h3>分享:</h3><li class="sina"> <i></i></li><li 
+class="qzone"> <i></i></li><li class="tqq"> <i></i></li><li class="douban"> 
+<i></i></li><li class="renren"> <i></i></li></ul><span class="favorite">收藏本页
+</span></div><div class="dh-search"><form method="get" target="_blank" action="" 
+class="dh-search-form"><div class="dh-search-otherParams"></div><div 
+class="dh-search-engine"><div class="dh-search-engine-current"><img/></div><s> </s><ul 
+class="dh-search-engine-list"></ul></div><div 
+style="display:inline-block;text-align:left;"><ul class="dh-search-tabs"><li 
+data-search="site" class="selected">网页</li><li data-search="news">新闻 </li><li 
+data-search="video">视频 </li><li data-search="image">图片 </li></ul><input 
+class="dh-search-input"/></div><input type="submit" value="搜索" 
+class="dh-search-button btn"/></form></div><div class="left"><ul><li> <h4>常用工具
+</h4><span> <a href="http://bg.panlv.net" target="_blank">渐飞研报</a></span><span> <a 
+href="http://www.cninfo.com.cn/" target="_blank">巨潮资讯</a></span><span> <a 
+href="//xueqiu.com/hq/screener" target="_blank">雪球选股器</a></span><span> <a 
+href="//xueqiu.com/hq/CN/%E5%8F%AF%E8%BD%AC%E5%80%BA" target="_blank">可转债产品行情
+</a></span><span> <a href="//xueqiu.com/hq/CN/%E5%9B%9E%E8%B4%AD" target="_blank">回购
+产品行情</a></span><span> <a href="http://data.eastmoney.com/cjsj/cpi.html" 
+target="_blank">东方财富数据中心</a></span><span> <a 
+href="http://www.shibor.org/shibor/web/AllShibor.jsp" 
+target="_blank">SHIBOR</a></span><span> <a 
+href="http://bond.sse.com.cn/fisp/fixed/yieldCurve.html" target="_blank">国债收益率
+</a></span><span> <a href="http://vip.stock.finance.sina.com.cn/moneyflow/" 
+target="_blank">资金流向</a></span><span> <a href="//xueqiu.com/hq#xgss" 
+target="_blank">新股申购：A股</a></span><span> <a 
+href="//xueqiu.com/hq/US/%E4%B8%8A%E5%B8%82%E9%A2%84%E5%91%8A" target="_blank">新股申购
+：美股</a></span><span> <a href="http://stocks.etnet.com.cn/www/sc/stocks/ci_ipo.php" 
+target="_blank">新股申购：港股</a></span><span> <a href="http://stockq.cn" 
+target="_blank">StockQ</a></span><span> <a 
+href="http://www.jisilu.cn/data/sfnew/#tlink_2" target="_blank">分级基金
+</a></span></li><li> <h4>宏观数据·中国</h4><span> <a 
+href="http://value500.com/GDP.html" target="_blank">GDP</a></span><span> <a 
+href="http://value500.com/CPI.asp" target="_blank">CPI</a> /  <a 
+href="http://value500.com/PPI.asp" target="_blank">PPI</a></span><span> <a 
+href="http://data.bank.hexun.com/ll/ckll.aspx" target="_blank">存款</a> /  <a 
+href="http://data.bank.hexun.com/ll/dkll.aspx" target="_blank">贷款利率
+</a></span><span> <a href="http://data.bank.hexun.com/ckjl/ckjl.aspx" target="_blank">
+存准率</a></span><span> <a href="http://bond.sse.com.cn/fisp/fixed/yieldCurve.html" 
+target="_blank">国债收益率</a></span><span> <a 
+href="http://www.shibor.org/shibor/web/AllShibor.jsp" 
+target="_blank">SHIBOR</a></span><span> <a href="http://ifb.cass.cn/jrtj/" 
+target="_blank">社科院数据库</a></span><span> <a 
+href="http://data.eastmoney.com/cjsj/cpi.html" target="_blank">东方财富数据中心
+</a></span></li><li> <h4>宏观数据·美国</h4><span> <a 
+href="http://www.bea.gov/national/xls/gdpchg.xls" target="_blank">历年
+GDP</a></span><span> <a href="ftp://ftp.bls.gov/pub/special.requests/cpi/cpiai.txt" 
+target="_blank">历年CPI</a></span><span> <a 
+href="http://data.bls.gov/timeseries/LNS14000000" target="_blank">失业率
+</a></span><span> <a href="http://finance.yahoo.com/bonds/composite_bond_rates" 
+target="_blank">国债收益率</a></span><span> <a 
+href="http://www.federalreserve.gov/releases/h15/data.htm" target="_blank">利率、存准
+</a></span></li><li> <h4>市场数据</h4><span> <a href="http://value500.com/PE.asp" 
+target="_blank">市场</a> 、  <a href="http://www.cnindex.com.cn/syl.html" 
+target="_blank">行业市盈率</a></span><span> <a 
+href="http://www.csindex.com.cn/sseportal/csiportal/syl/hytype.do?code=1&amp;zb_flg=4&a
+mp;db_type=0" target="_blank">行业股息率</a></span><span> <a 
+href="http://stock.sohu.com/dazongjiaoyi/" target="_blank">大宗交易</a></span><span> <a 
+href="http://vip.stock.finance.sina.com.cn/moneyflow/" target="_blank">资金流向
+</a></span><span> <a href="http://www.sse.com.cn/market/dealingdata/overview/margin/" 
+target="_blank">沪</a> 、  <a href="http://www.szse.cn/main/disclosure/rzrqxx/rzrqjy/" 
+target="_blank">深融资融券</a></span><span> <a href="//xueqiu.com/hq/insider" 
+target="_blank">沪深内部交易</a></span><span> <a href="//xueqiu.com/hq#xgss" 
+target="_blank">新股申购</a></span><span> <a 
+href="http://jingzhi.funds.hexun.com/dt/faxing.htm" target="_blank">新基金发行
+</a></span><span> <a href="//xueqiu.com/hq/US/%E4%B8%8A%E5%B8%82%E9%A2%84%E5%91%8A" 
+target="_blank">美股IPO</a></span><span> <a href="http://stockq.cn" 
+target="_blank">StockQ</a></span></li><li> <h4>研报</h4><span> <a 
+href="http://www.hibor.com.cn" target="_blank">迈博汇金</a></span><span> <a 
+href="http://bg.panlv.net" target="_blank">渐飞研报</a></span><span> <a 
+href="http://www.nxny.com/" target="_blank">股票报告网</a></span></li><li> <h4>实用工具
+</h4><span> <a href="http://www.cninfo.com.cn/" target="_blank">巨潮资讯
+</a></span><span> <a href="http://www.hkexnews.hk/" target="_blank">披露易
+</a></span><span> <a href="http://xinpi.stcn.com/zxallbulletin/bulletinlist_1_1.shtml" 
+target="_blank">公告信息</a></span><span> <a 
+href="http://www.oanda.com/lang/cns/currency/converter/" target="_blank">汇率换算
+</a></span><span> <a href="http://www.morningstar.com/earnings/" target="_blank">电话会
+议速记(英)</a></span><span> <a href="//xueqiu.com/calendar/20889234" target="_blank">业
+绩发布时间(中概)</a></span><span> <a href="//xueqiu.com/calendar/20880306" 
+target="_blank">美股业绩发布</a></span><span> <a 
+href="http://www.fx678.com/indexs/index.shtml" target="_blank">财经日历
+</a></span><span> <a href="//xueqiu.com/talks/all" target="_blank">雪球访谈
+</a></span><span> <a href="http://alexa.chinaz.com" 
+target="_blank">Alexa</a></span><span> <a href="http://index.baidu.com" 
+target="_blank">百度指数</a></span><span> <a 
+href="http://data.eastmoney.com/dxf/default.html" target="_blank">解禁股查询
+</a></span><span> <a 
+href="http://www.windin.com/home/top/hotcount/ComparePrice_AH.shtml" 
+target="_blank">A/H/B股对比</a></span><span> <a href="http://www.investopedia.com/" 
+target="_blank">Investopedia</a></span><span> <a 
+href="//xueqiu.com/hq/CN/%E5%9B%9E%E8%B4%AD" target="_blank">回购产品行情
+</a></span><span> <a href="//xueqiu.com/hq/CN/%E5%8F%AF%E8%BD%AC%E5%80%BA" 
+target="_blank">可转债产品行情</a></span><span> <a 
+href="//xueqiu.com/hq/CN/%E8%B4%A7%E5%B8%81%E5%BC%8F%E5%9F%BA%E9%87%91" 
+target="_blank">货币基金产品行情</a></span></li><li> <h4>选股/数据引擎</h4><span> <a 
+href="//xueqiu.com/hq/screener" target="_blank">雪球筛选器</a></span><span> <a 
+href="http://data.eastmoney.com/xuangu/" target="_blank">东方财富选股器
+</a></span><span> <a href="http://screener.finance.sina.com.cn" target="_blank">新浪条
+件选股</a></span><span> <a href="http://data.cfi.cn/cfidata.aspx" target="_blank">中财
+网数据引擎</a></span><span> <a href="http://www.204001.info/showpage1.asp" 
+target="_blank">套利股</a></span><span> <a 
+href="//xueqiu.com/hq/CN/%E5%8F%AF%E8%BD%AC%E5%80%BA" target="_blank">可转债
+</a></span><span> <a href="http://www.jisilu.cn/data/sfnew/#tlink_2" target="_blank">分
+级基金</a></span><span> <a href="http://finviz.com/screener.ashx" 
+target="_blank">FINVIZ(英)</a></span><span> <a 
+href="http://www.morningstar.com/Cover/Stocks.html" target="_blank">晨星
+</a></span><span> <a href="http://www.google.com.hk/finance#stockscreener" 
+target="_blank">谷歌选股器</a></span><span> <a href="http://www.iwencai.com" 
+target="_blank">i问财</a></span></li><li> <h4>A股开户</h4><span> <a 
+href="//xueqiu.com/6123409880/65910391?from=dh" target="_blank">平安证券开户指南
+</a></span></li><li> <h4>港股开户</h4><span> <a 
+href="//xueqiu.com/broker/open/pingan#ib" target="_blank">盈透证券</a></span></li><li> 
+<h4>美股开户</h4><span> <a href="//xueqiu.com/6123409880/67332486?from=dh" 
+target="_blank">第一证券开户指南</a></span></li><li> <h4>股票软件</h4><span> <a 
+href="//xueqiu.com/about/what-is-xueqiu" target="_blank">雪球</a></span></li><li> <h4>
+应用推荐</h4><span class="long"><span class="appName">雪球：</span><a 
+href="https://itunes.apple.com/cn/app/xue-qiu/id492180369?ls=1&amp;mt=8" 
+target="_blank">iOS </a>/ <a 
+href="http://xqfile.imedao.com/android-release/xueqiu_762_04182000.apk" 
+target="_blank">Android </a></span><span class="long"><span class="appName">随手记
+：</span><a 
+href="https://itunes.apple.com/cn/app/sui-shou-ji-ji-zhang-li-cai/id372353614?mt=8&amp;
+uo=4" target="_blank">iOS </a>/ <a 
+href="http://www.feidee.com/money/download/android.do" target="_blank">Android 
+</a></span><span class="long"><span class="appName">iMoney：</span><a 
+href="https://itunes.apple.com/us/app/imoney-global-currency-converter/id389793068?mt=8
+&amp;ign-mpt=uo%3D4" target="_blank">iOS </a></span><span class="long"><span 
+class="appName">友名片：</span><a 
+href="https://itunes.apple.com/cn/app/you-ming-pian-ming-pian-shi/id534966036?mt=8&amp;
+ign-mpt=uo%3D4" target="_blank">iOS </a></span><span class="long"><span 
+class="appName">同步推：</span><a href="http://url.tongbu.com/?id=xueqiu" 
+target="_blank">iOS </a></span><span class="long"><span class="appName">春雨掌上医生
+：</span><a 
+href="https://itunes.apple.com/us/app/chun-yu-zhang-shang-yi-sheng/id478834039?mt=8&amp
+;ign-mpt=uo%3D4" target="_blank">iOS </a>/ <a href=" 
+http://www.chunyu.me/download/chunyu/latest/" target="_blank">Android 
+</a></span></li><li> <h4>网址导航</h4><span> <a href="http://www.hao123.com" 
+target="_blank">hao123</a></span><span> <a href="http://www.54114.com" target="_blank">
+网上114</a></span><span> <a href="http://www.1616.net" target="_blank"> 1616个人门户
+</a></span><span> <a href="http://www.tao123.com" target="_blank">淘网址
+</a></span><span> <a href="http://www.0460.com" target="_blank">0460网站之家
+</a></span><span> <a href="http://www.114la.com" target="_blank">114啦网址导航
+</a></span><span> <a href="http://www.25pp.com" target="_blank">苹果游戏
+</a></span></li><li> <h4>长城实盘马拉松</h4><span> <a 
+href="//xueqiu.com/event/rank/gws" target="_blank">实盘马拉松</a></span><span> <a 
+href="//xueqiu.com/event/deallist" target="_blank">实盘晒单</a></span></li></ul><div 
+class="contact"><h3>合作:</h3><span id="email">wangxing#xueqiu.com(#替换为
+@)</span></div></div><div class="right"><ul><li class="category"> <h4>常用网址
+</h4><ul><li class="type"><div class="typeName"></div><div class="links undefined"> 
+<span><a href="//xueqiu.com/today" target="_blank">雪球今日话题</a></span><span><a 
+href="//xueqiu.com/hq" target="_blank">雪球行情中心</a></span><span><a 
+href="http://finance.sina.com.cn" target="_blank">新浪财经</a></span><span><a 
+href="http://finance.ifeng.com" target="_blank">凤凰财经</a></span><span><a 
+href="http://www.eastmoney.com" target="_blank">东方财富网</a></span><span><a 
+href="http://www.hexun.com" target="_blank">和讯网</a></span><span><a 
+href="http://cn.wsj.com/gb/" target="_blank">华尔街日报</a></span><span><a 
+href="http://www.ftchinese.com" target="_blank">FT中文网</a></span><span><a 
+href="http://wallstreetcn.com" target="_blank">华尔街见闻</a></span><span><a 
+href="http://www.yicai.com" target="_blank">第一财经</a></span><span><a 
+href="http://bbs.55168.cn/forum.php" target="_blank">55168论坛</a></span><span><a 
+href="http://www.huxiu.com" target="_blank">虎嗅网</a></span><span><a 
+href="http://www.21jingji.com" target="_blank">21世纪经济报道</a></span><span><a 
+href="http://www.cs.com.cn" target="_blank">中国证券报</a></span><span><a 
+href="http://www.cnstock.com" target="_blank">上海证券报</a></span><span><a 
+href="http://tieba.baidu.com/f?ie=utf-8&amp;kw=%E8%82%A1%E5%B8%82%E9%80%9A&amp;fr=searc
+h" target="_blank">百度股市通</a></span></div></li></ul></li><li class="category"> <h4>
+财经资讯</h4><ul><li class="type"><div class="typeName">[门户]</div><div class="links 
+undefined"> <span><a href="http://finance.sina.com.cn" target="_blank">新浪财经
+</a></span><span><a href="http://www.hexun.com" target="_blank">和讯网
+</a></span><span><a href="http://money.163.com" target="_blank">网易财经
+</a></span><span><a href=" http://business.sohu.com" target="_blank">搜狐财经
+</a></span><span><a href="http://finance.ifeng.com" target="_blank">凤凰财经
+</a></span><span><a href="http://www.eastmoney.com" target="_blank">东方财富网
+</a></span><span><a href="http://news.imeigu.com" target="_blank">i美股
+</a></span><span><a href="http://www.windin.com" target="_blank">万点
+</a></span><span><a href=" http://www.p5w.net" target="_blank">全景网
+</a></span><span><a href="http://www.finet.hk/mainsite/index.htm" target="_blank">财华
+网</a></span><span><a href="http://www.xinhua08.com" target="_blank">新华
+08</a></span><span><a href="http://www.cfi.net.cn" target="_blank">中财网
+</a></span><span><a href="http://finance.qq.com/" target="_blank">腾讯财经
+</a></span><span><a href="http://www.jrj.com.cn/" target="_blank">金融界
+</a></span><span><a href="http://www.cnfol.com/" target="_blank">中金在线
+</a></span><span><a href="http://www.aastocks.com/" target="_blank">阿斯达克
+</a></span><span><a href="http://www.stockstar.com/" target="_blank">证券之星
+</a></span><span><a href="http://xinhuanet.com" target="_blank">新华网
+</a></span><span><a href="http://people.com.cn" target="_blank">人民网
+</a></span><span><a href="http://www.pedaily.cn/" target="_blank">投资界
+</a></span><span><a href="http://www.chinaventure.com.cn/" target="_blank">投资中国
+</a></span><span><a href="http://www.10jqka.com.cn" target="_blank">同花顺
+</a></span><span><a href="http://www.jfinfo.com" target="_blank">丰华财经
+</a></span></div></li><li class="type"><div class="typeName">[报纸]</div><div 
+class="links undefined"> <span><a href="http://www.cs.com.cn" target="_blank">中国证券
+报</a></span><span><a href="http://www.cnstock.com" target="_blank">上海证券报
+</a></span><span><a href="http://www.stcn.com" target="_blank">证券时报
+</a></span><span><a href="http://www.ccstock.cn" target="_blank">证券日报
+</a></span><span><a href="http://www.yicai.com" target="_blank">第一财经
+</a></span><span><a href="http://www.21jingji.com/" target="_blank">21世纪经济报道
+</a></span><span><a href="http://www.eeo.com.cn" target="_blank">经济观察报
+</a></span><span><a href="http://www.nbd.com.cn" target="_blank">每日经济新闻
+</a></span><span><a href="http://www.investorchina.com.cn" target="_blank">投资者报
+</a></span><span><a href="http://www.cb.com.cn" target="_blank">中国经营报
+</a></span><span><a href="http://www.chinatimes.cc/index.htm" target="_blank">华夏时报
+</a></span><span><a href="http://www.qhrb.com.cn" target="_blank">期货日报
+</a></span></div></li><li class="type"><div class="typeName">[杂志]</div><div 
+class="links undefined"> <span><a href="http://www.capitalweek.com.cn" target="_blank">
+证券市场周刊</a></span><span><a href="http://www.caixin.com" target="_blank">财新网
+</a></span><span><a href="http://www.caijing.com.cn" target="_blank">财经网
+</a></span><span><a href="http://www.amoney.com.cn" target="_blank">理财周刊
+</a></span><span><a href="http://www.xcf.cn" target="_blank">新财富</a></span><span><a 
+href="http://www.iceo.com.cn" target="_blank">中国企业家</a></span><span><a 
+href="http://www.gemag.com.cn" target="_blank">环球企业家</a></span><span><a href=" 
+http://content.businessvalue.com.cn" target="_blank">商业价值</a></span><span><a 
+href="http://www.cyzone.cn" target="_blank">创业邦</a></span><span><a 
+href="http://www.chuangyejia.com" target="_blank">创业家</a></span><span><a 
+href="http://www.qianjing.cn/Index.html" target="_blank">钱经</a></span><span><a 
+href="http://www.mycfz.com" target="_blank">创富志</a></span><span><a 
+href="http://www.hongzhoukan.com" target="_blank">证券市场红周刊</a></span><span><a 
+href="http://www.cbnweek.com" target="_blank">第一财经周刊</a></span></div></li><li 
+class="type"><div class="typeName">[外电]</div><div class="links long"> <span><a 
+href="http://online.wsj.com/home-page" target="_blank">Wall Street Journal</a> /  <a 
+href="http://cn.wsj.com/gb/" target="_blank">中文版</a></span><span><a 
+href="http://www.ft.com" target="_blank">Financial Times</a> /  <a 
+href="http://www.ftchinese.com" target="_blank">FT中文网</a></span><span><a 
+href="http://www.reuters.com" target="_blank">Reuters</a> /  <a 
+href="http://cn.reuters.com" target="_blank">路透中文</a></span><span><a 
+href="http://money.cnn.com/magazines/fortune/" target="_blank">Fortune</a> /  <a 
+href="http://www.fortunechina.com" target="_blank">财富中文网</a></span><span><a 
+href="http://finance.yahoo.com" target="_blank">Yahoo! Finance</a></span><span><a 
+href="http://www.cnbc.com" target="_blank">CNBC</a></span><span><a href=" 
+http://www.marketwatch.com" target="_blank">MarketWatch</a></span><span><a 
+href="http://www.businessweekly.com.tw" target="_blank">商业周刊</a></span><span><a 
+href="http://online.barrons.com/home-page" target="_blank">巴伦周刊</a></span><span><a 
+href="http://www.scmp.com/" target="_blank">南华早报</a> /  <a 
+href="http://www.scmpchinese.com" target="_blank">中文版</a></span><span><a 
+href="http://cn.nikkei.com/" target="_blank">日经中文网</a></span><span><a 
+href="http://cn.chosun.com/" target="_blank">朝鲜日报中文版</a></span></div></li><li 
+class="type"><div class="typeName">[直播]</div><div class="links long"> <span><a 
+href="http://live.wallstreetcn.com" target="_blank">华尔街见闻市场直播
+</a></span><span><a href="http://stock.hexun.com/broadcast/" target="_blank">和讯股市直
+播</a></span></div></li></ul></li><li class="category"> <h4>新媒体</h4><ul><li 
+class="type"><div class="typeName">[商业]</div><div class="links undefined"> <span><a 
+href="http://wallstreetcn.com" target="_blank">华尔街见闻</a></span><span><a 
+href="http://www.huxiu.com" target="_blank">虎嗅网</a></span><span><a 
+href="http://www.bwchinese.com" target="_blank">BWCHINESE</a></span><span><a 
+href="http://www.businessinsider.com" target="_blank">Business 
+Insider</a></span></div></li><li class="type"><div class="typeName">[科技]</div><div 
+class="links undefined"> <span><a href="http://cn.technode.com" target="_blank">动点科
+技</a></span><span><a href="http://www.pingwest.com" 
+target="_blank">PingWest</a></span><span><a href="http://www.36kr.com/" 
+target="_blank">36氪</a></span><span><a href="http://tech2ipo.com" 
+target="_blank">TECH2IPO</a></span><span><a href="http://www.donews.com" 
+target="_blank">DoNews</a></span><span><a href="http://allthingsd.com" 
+target="_blank">AllThingsD</a></span><span><a href="http://www.techcrunch.com" 
+target="_blank">TechCrunch</a></span><span><a href="http://www.techmeme.com/" 
+target="_blank">Techmeme</a></span></div></li></ul></li><li class="category"> <h4>投资
+社区</h4><ul><li class="type"><div class="typeName"></div><div class="links undefined"> 
+<span><a href="//xueqiu.com" target="_blank">雪球</a> ·  <a href="//xueqiu.com/today" 
+target="_blank">精华</a></span><span><a href="http://bbs.55168.cn/forum.php" 
+target="_blank">55168论坛</a></span><span><a href="http://www.ltkdj.com/bbs/" 
+target="_blank">凌通价值论坛</a></span><span><a href="http://www.taoguba.com.cn" 
+target="_blank">淘股吧</a></span><span><a href="http://guba.eastmoney.com" 
+target="_blank">股吧</a></span><span><a href="http://www.55188.com" target="_blank">理
+想论坛</a></span><span><a href="http://www.wolun.com.cn" target="_blank">港股通
+</a></span><span><a href="http://bbs.pinggu.org" target="_blank">人大经济论坛
+</a></span><span><a href="http://irm.cninfo.com.cn/szse/" target="_blank">互动易
+</a></span><span><a href="http://irm.p5w.net/gszz/" target="_blank">投资者互动平台
+</a></span><span><a href="http://stocktwits.com" 
+target="_blank">StockTwits</a></span><span><a href="http://finance.yahoo.com/mb/YHOO/" 
+target="_blank">Yahoo!财经论坛</a></span><span><a href="http://seekingalpha.com" 
+target="_blank">Seeking Alpha</a></span><span><a href="http://www.jisilu.cn/" 
+target="_blank">集思录</a></span></div></li></ul></li><li class="category"> <h4>官方机
+构</h4><ul><li class="type"><div class="typeName">[国内]</div><div class="links 
+undefined"> <span><a href="http://www.csrc.gov.cn" target="_blank">中国证监会
+</a></span><span><a href="http://www.circ.gov.cn" target="_blank">中国保监会
+</a></span><span><a href="http://www.cbrc.gov.cn" target="_blank">中国银监会
+</a></span><span><a href="http://www.szse.cn" target="_blank">深交所</a></span><span><a 
+href="http://www.sse.com.cn" target="_blank">上交所</a></span><span><a 
+href="http://www.hkex.com.hk/chi/index_c.htm" target="_blank">港交所</a></span><span><a 
+href="http://www.stats.gov.cn" target="_blank">国家统计局</a></span><span><a 
+href="http://www.pbc.gov.cn" target="_blank">中国人民银行</a></span><span><a 
+href="http://www.sdpc.gov.cn" target="_blank">发改委</a></span><span><a 
+href="http://www.mofcom.gov.cn" target="_blank">商务部</a></span><span><a 
+href="http://www.customs.gov.cn" target="_blank">中国海关</a></span><span><a 
+href="http://www.sasac.gov.cn" target="_blank">国资委</a></span><span><a 
+href="http://www.mohurd.gov.cn" target="_blank">住建部</a></span><span><a 
+href="http://www.csindex.com.cn/sseportal/csiportal/indexquery.do" target="_blank">中证
+指数公司</a></span></div></li><li class="type"><div class="typeName">[国际]</div><div 
+class="links undefined"> <span><a href="http://sec.gov" 
+target="_blank">SEC</a></span><span><a href="http://www.nasdaq.com" target="_blank">纳
+斯达克官网</a></span><span><a href="http://www.nyse.com" target="_blank">纽交所官网
+</a></span><span><a href="http://www.commerce.gov" target="_blank">美国商务部
+</a></span><span><a href="http://www.bea.gov" target="_blank">美国经济分析局
+</a></span><span><a href="http://www.census.gov" target="_blank">美国普查局
+</a></span><span><a href="http://www.bls.gov" target="_blank">美国劳工部
+</a></span><span><a href="http://www.federalreserve.gov" target="_blank">美联储
+</a></span><span><a href="http://www.wto.org" target="_blank">世界贸易组织
+</a></span><span><a href="http://www.worldbank.org.cn" target="_blank">世界银行
+</a></span><span><a href="http://www.imf.org/external/chinese/" 
+target="_blank">IMF</a></span></div></li></ul></li><li class="category"> <h4>行业网站
+</h4><ul><li class="type"><div class="typeName"></div><div class="links undefined"> 
+<span><a href="http://www.mysteel.com" target="_blank">我的钢铁网</a></span><span><a 
+href="http://china.chemnet.com" target="_blank">中国化工网</a></span><span><a 
+href="http://www.texnet.com.cn" target="_blank">中国纺织网</a></span><span><a 
+href="http://www.pharmnet.com.cn" target="_blank">中国医药网</a></span><span><a 
+href="http://www.shippingchina.com" target="_blank">中国国际海运网</a></span><span><a 
+href="http://www.ccement.com" target="_blank">中国水泥网</a></span><span><a 
+href="http://www.monitor.com.cn/authority.aspx?id=175" target="_blank">中怡康家电研究
+</a></span><span><a href="http://www.zgny.com.cn" target="_blank">中国农业网
+</a></span><span><a href="http://www.jc.net.cn" target="_blank">中国建材价格网
+</a></span><span><a href="http://www.gold.org.cn" target="_blank">中国黄金网
+</a></span><span><a href="http://www.foods1.com" target="_blank">第一食品网
+</a></span><span><a href="http://www.china5e.com" target="_blank">中国能源网
+</a></span><span><a href="http://www.chinapower.com.cn" target="_blank">中国电力网
+</a></span><span><a href="http://www.bjx.com.cn" target="_blank">北极星电力网
+</a></span><span><a href="http://www.cqcoal.com/" target="_blank">秦皇岛煤炭网
+</a></span><span><a href="http://www.soufun.com" target="_blank">搜房网
+</a></span><span><a href="http://www.acef.com.cn" target="_blank">中华环保联合会
+</a></span><span><a href="http://www.eaonline.com.cn" target="_blank">中国家电在线
+</a></span><span><a href="http://www.chinahighway.com" target="_blank">中国公路网
+</a></span><span><a href="http://www.chinapaper.net" target="_blank">中国纸业网
+</a></span><span><a href="http://www.chinacars.com" target="_blank">中国汽车网
+</a></span><span><a href="http://www.qqkqw.com" target="_blank">全球矿权网
+</a></span><span><a href="http://www.hc360.com" target="_blank">慧聪网
+</a></span><span><a href="http://cn.made-in-china.com" target="_blank">中国制造网
+</a></span><span><a href="http://www.cfiin.com/default.aspx" target="_blank">中国食品工
+业网</a></span><span><a href="http://www.custeel.com" target="_blank">中国联合钢铁网
+</a></span><span><a href="http://www.cmdi.gov.cn" target="_blank">中国医疗器械网
+</a></span><span><a href="http://www.agri.gov.cn" target="_blank">中国农业信息网
+</a></span><span><a href="http://www.cnss.com.cn" target="_blank">中国海事服务网
+</a></span><span><a href="http://www.menet.com.cn" target="_blank">米内网
+</a></span><span><a href="http://chinaventure.com.cn" target="_blank">投资中国网
+</a></span><span><a href="http://www.chineseshipping.com.cn" target="_blank">中华航运网
+</a></span><span><a href="http://www.shmet.com/" target="_blank">上海金属网
+</a></span><span><a href="http://www.linkshop.com.cn/index.htm" target="_blank">联商网
+</a></span></div></li></ul></li><li class="category"> <h4>其他金融品种</h4><ul><li 
+class="type"><div class="typeName">[债券]</div><div class="links undefined"> <span><a 
+href="http://www.chinabond.com.cn/d2s/index.html" target="_blank">中国债券信息网
+</a></span><span><a href="http://bond.sse.com.cn/fisp/index.html" target="_blank">上证
+债券信息网</a></span><span><a href="http://bond.hexun.com/" target="_blank">和讯债券
+</a></span><span><a href="http://www.cs.com.cn/zq/" target="_blank">中证债券
+</a></span></div></li><li class="type"><div class="typeName">[理财]</div><div 
+class="links undefined"> <span><a href="http://www.howbuy.com" target="_blank">好买基金
+网</a></span><span><a href="http://www.simuwang.com" target="_blank">私募排排网
+</a></span><span><a href="http://money.hexun.com" target="_blank">和讯理财
+</a></span><span><a href="http://www.chinafpn.com" target="_blank">中国理财网
+</a></span><span><a href="http://www.jjm.com.cn/" target="_blank">基金猫
+</a></span><span><a href="http://www.yooli.com" target="_blank">有利网
+</a></span><span><a href="http://licaike.hexun.com/?knownChannel=xueqiu" 
+target="_blank">和讯理财客</a></span><span><a href="http://iqianbang.com" 
+target="_blank">爱钱帮</a></span><span><a href="http://www.yirendai.com/" 
+target="_blank">宜人贷</a></span><span><a href="http://www.licai.com" target="_blank">
+格上理财</a></span></div></li><li class="type"><div class="typeName">[期货]</div><div 
+class="links undefined"> <span><a href="http://futures.cnfol.com" target="_blank">中金
+期货在线</a></span><span><a href="http://futures.hexun.com" target="_blank">和讯期货
+</a></span><span><a href="http://www.99qh.com" target="_blank">99期货
+</a></span><span><a href="http://www.100ppi.com" target="_blank">生意社
+</a></span></div></li><li class="type"><div class="typeName">[黄金]</div><div 
+class="links undefined"> <span><a href="http://gold.hexun.com" target="_blank">和讯黄金
+</a></span><span><a href="http://www.kitco.cn" target="_blank">金拓</a></span><span><a 
+href="http://gold.cnfol.com" target="_blank">黄金网</a></span></div></li><li 
+class="type"><div class="typeName">[外汇]</div><div class="links undefined"> <span><a 
+href="http://www.cnforex.com" target="_blank">环球外汇网</a></span><span><a 
+href="http://www.forexstar.com.cn" target="_blank">外汇之星</a></span><span><a 
+href="http://forex.38cf.com/" target="_blank">38财富网</a></span><span><a 
+href="http://www.fx168.com" target="_blank">FX168</a></span><span><a 
+href="http://www.chinamoney.com.cn" target="_blank">中国货币网</a></span></div></li><li 
+class="type"><div class="typeName">[产权]</div><div class="links undefined"> <span><a 
+href="http://www.suaee.com/" target="_blank">上海联交所</a></span><span><a 
+href="http://www.cbex.com.cn/" target="_blank">北京产权交易所</a></span><span><a 
+href="http://www.eoechina.com.cn/cn/index.aspx" target="_blank">深圳联合产权网
+</a></span></div></li></ul></li></ul></div><div class="fix">                     
+</div><script>seajs.use("SNB.base.js", function(){
+  var encodedHref = encodeURIComponent("/dh");
+  var shareContent="我正在使用@雪球 推出的财经网址导航，查找财经资讯网站、各类官方机构
+  、投资社区很方便，还有精选的中外宏观数据、市场与行业数据、研报公告、股票筛选等查询工
+  具。推荐你也试试。"
+  var encodedcontent=encodedtitle=encodeURIComponent(shareContent);
+  $("#share").delegate("li", "click", function() {
+    var target = $(this).attr('class');
+    var target_url;
+    switch (target) {
+      case 'sina':
+        target_url = 
+	'http://v.t.sina.com.cn/share/share.php?appkey=2887826189&type=3&ralateUid=2183
+	570524&title=' + encodedcontent + '&url=' + encodedHref + '&rcontent=';
+        break;
+      case 'qzone':
+        target_url = 'http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=' 
+	+ encodedHref + '&desc=&amp;summary=&title=' + encodedtitle + '&site=&pics=';
+        break;
+      case 'tqq':
+        target_url = 'http://v.t.qq.com/share/share.php?title=' + encodedtitle + 
+	'&url=' + encodedHref + '&rcontent=';
+        break;
+      case 'renren':
+        target_url = 'http://share.renren.com/share/buttonshare.do?title=' + 
+	encodedtitle + '&link=' + encodedHref + '&content=';
+        break;
+      case 'douban':
+        target_url = 'http://www.douban.com/recommend?url=' + encodedHref + '&title=' + 
+	encodedtitle + '&rcontent';
+        break;
+      case 'facebook':
+        target_url = 'https://www.facebook.com/sharer.php?u=' + encodedHref + '&t=' + 
+	encodedtitle;
+        break;
+      case 'twitter':
+        target_url = 'https://twitter.com/share?url=' + encodedHref + '&text=' + 
+	encodedcontent;
+        break;
+    }
+    if (target_url) {
+      window.open(target_url, '_blank', 'scrollbars=no, width=600, height=450, 
+      status=no, resizable=yes');
+    }
+  })
+  
+  $("body").delegate(".left a,.right a","click",function(e){
+    var linkName=$.trim($(this).html());
+    if(_hmt){
+      _hmt.push(['_trackEvent', 'dh', 'click', linkName])
+    }
+  })
+  
+  // 搜索引擎列表下拉
+  $(".dh-search-engine-current,.dh-search-engine s").on("click", function(e){
+    $(".dh-search-engine-list").toggle();
+    
+    if ( $(".dh-search-engine").hasClass("unfold") ) {
+      $(".dh-search-engine").removeClass("unfold");
+    } else {
+      $(".dh-search-engine").addClass("unfold");
+    }
+  });
+  
+  // 搜索类别tab切换
+  $(".dh-search-tabs").on('click', 'li', function(e){
+    $(this).addClass("selected").siblings().removeClass("selected");
+    switchSearch($(this).data("search"), $(".dh-search-engine-current 
+    img").data("name"));
+  });
+  
+  searchLogos = {
+    "百度搜索": "//assets.imedao.com/images/dh/icon_baidu.png",
+    "360搜索": "//assets.imedao.com/images/dh/icon_360.png",
+    "必应搜索": "//assets.imedao.com/images/dh/icon_bing.png",
+    "谷歌搜索": "//assets.imedao.com/images/dh/icon_google.png",
+    "即刻搜索": "//assets.imedao.com/images/dh/icon_jike.png",
+    "搜狗搜索": "//assets.imedao.com/images/dh/icon_sougou.png",
+    "搜搜搜索": "//assets.imedao.com/images/dh/icon_sousou.png",
+    "有道搜索": "//assets.imedao.com/images/dh/icon_youdao.png",
+  }
+  
+  
+  var searchOptions = {
+    site: [
+      {
+        name: "百度搜索",
+        pageUrl: "www.baidu.com",
+        actionUrl: "www.baidu.com/s",
+        keyParam: "wd",
+        otherParams: {
+          ie: "utf-8"
+        }
+      },
+      {
+        name: "360搜索",
+        pageUrl: "www.so.com/",
+        actionUrl: "www.so.com/s",
+        keyParam: "q",
+        searchBtnText:""
+      },
+      {
+        name: "谷歌搜索",
+        pageUrl: "www.google.com.hk",
+        actionUrl: "www.google.com.hk/search",
+        keyParam: "q",
+        otherParams: {
+          ie: "utf-8"
+        }
+      }
+    ],
+    news: [
+      {
+        name: "百度搜索",
+        pageUrl: "news.baidu.com",
+        actionUrl: "news.baidu.com/ns",
+        keyParam: "word",
+        otherParams: {
+          ie: "utf-8"
+        }
+      },
+      {
+        name: "360搜索",
+        pageUrl: "news.so.com",
+        actionUrl: "news.so.com/ns",
+        keyParam: "q",
+        searchBtnText: "360新闻",
+        otherParams: {
+          ie: "utf-8",
+          tn: "news"
+        },
+      },
+      {
+        name: "谷歌搜索",
+        pageUrl: "news.google.com.hk/news",
+        actionUrl: "news.google.com.hk/news/search",
+        keyParam: "q",
+        otherParams: {
+          ie: "utf-8"
+        }
+      }
+    ],
+    video: [
+      {
+        name: "百度搜索",
+        pageUrl: "video.baidu.com",
+        actionUrl: "video.baidu.com/v",
+        keyParam: "word",
+        otherParams: {
+          ie: "utf-8"
+        }
+      },
+      {
+        name: "360搜索",
+        pageUrl: "video.so.com",
+        actionUrl: "video.so.com/v",
+        keyParam: "q",
+        searchBtnText: "360视频",
+        otherParams: {
+          code: "utf-8"
+        },
+      },
+      {
+        name: "谷歌搜索",
+        pageUrl: "www.google.com.hk/search",
+        actionUrl: "www.google.com.hk/search",
+        keyParam: "q",
+        otherParams: {
+          tbo: "p",
+          tbm: "vid",
+          source: "vgc",
+          tbs: "vid",
+          hl: "zh-CN",
+          ie: "utf-8"
+        },
+      }
+    ],
+    image: [
+      {
+        name: "百度搜索",
+        pageUrl: "image.baidu.com",
+        actionUrl: "image.baidu.com/i",
+        keyParam: "word",
+        otherParams: {
+          ie: "utf-8"
+        }
+      },
+      {
+        name: "360搜索",
+        pageUrl: "image.so.com",
+        actionUrl: "image.so.com/i",
+        keyParam: "q",
+        searchBtnText: "360视频",
+        otherParams: {
+          ie: "utf-8"
+        }
+      },
+      {
+        name: "谷歌搜索",
+        pageUrl: "images.google.com.hk/images",
+        actionUrl: "images.google.com.hk/images",
+        keyParam: "q",
+        otherParams: {
+          ie: "utf-8"
+        }
+      }
+    ]
+  };
+  
+  // 切换搜索类别
+  function switchSearch(tab, name){
+    var sites = searchOptions[tab],
+      currentSite = _.isUndefined(name) ? _.first(sites) : _.find(sites, 
+      function(site){ return site.name == name; });
+      
+    $(".dh-search-engine-current img").attr("src", 
+    searchLogos[currentSite.name]).data("name", currentSite.name);
+    $(".dh-search-engine").removeClass("unfold");
+    
+    var listHtml = '';
+    
+    _.each(sites, function(site){
+      if ( site.name != currentSite.name ) {
+        listHtml += '<li data-name="' + site.name + '"><img src="' + 
+	searchLogos[site.name] + '"/></li>';
+      }
+    });
+    
+    $(".dh-search-engine-list").hide().html(listHtml);
+    
+    var protocol = location.protocol + "//";
+    
+    //360不支持https
+    if(/so.com/i.test(currentSite.actionUrl)){
+      protocol = "http://";
+    }
+    
+    $(".dh-search-form").attr("action", protocol + currentSite.actionUrl);
+    $(".dh-search-input").attr("name", currentSite.keyParam);
+    $(".dh-search-button").attr("value", currentSite.searchBtnText || 
+    currentSite.name);
+    
+    $(".dh-search-otherParams").empty();
+    if ( currentSite.otherParams ) {
+      for ( var key in currentSite.otherParams ) {
+        var hideInput = '<input type="hidden" name="' + key + '" value="' + 
+	currentSite.otherParams[key] + '">';
+        $(".dh-search-otherParams").append(hideInput);
+      }
+    }
+    return currentSite;    
+  }
+  
+  if ( SNB.currentUser.isGuest ) {
+    switchSearch("site");
+  } else {
+    SNB.Util.getConfig(["dhSearchEngine"], function(ret){
+      var dhSearchEngine;
+      if ( ret && ret.length ) {
+        dhSearchEngine = ret[0];
+        
+        if ( dhSearchEngine ) {
+          dhSearchEngine = dhSearchEngine.value;
+        } else {
+          dhSearchEngine = undefined;
+        }
+      }
+      switchSearch("site", dhSearchEngine);
+    });
+  }
+  
+  $(".dh-search-engine-current img").load(function(e){
+    $(".dh-search-engine").css("visibility","visible");
+  });
+  
+  $(".dh-search").on("click", ".dh-search-engine-list li", function(e){
+    var tab = $(".dh-search-tabs").find("li.selected").data("search");
+    switchSearch(tab, $(this).data("name"));
+    
+    if ( !SNB.currentUser.isGuest ) {
+      SNB.Util.saveConfig({ "dhSearchEngine": $(this).data("name") });
+    }
+  });
+  
+  var isCanFavorite = false;
+  
+  if ( document.all || (window.sidebar && window.sidebar.addPanel) ) {
+    $(".favorite").show();
+    isCanFavorite = true;
+  } else {
+    $(".favorite").text("温馨提示：Ctrl+D可以把本页加入收藏夹。").css("color", 
+    "black").show();
+  }
+  
+  $(".favorite").on("click", function(e){
+    if ( !isCanFavorite ) {
+      return false;
+    }
+    if (document.all){
+        try{
+            window.external.addFavorite(window.location.href,document.title);
+        }catch(e){
+            alert( "加入收藏失败，请使用Ctrl+D进行添加" );
+        }
+        
+    }else if (window.sidebar){
+        window.sidebar.addPanel(document.title, window.location.href, "");
+    }else{
+        alert( "加入收藏失败，请使用Ctrl+D进行添加" );
+    }
+  });
+});
+
+
+
+</script></div></div></div><div id="footer"><div class="copyright"><a href="/about/faq" 
+target="_blank">常见问题</a><a href="/about/contact-us" target="_blank">联系方式</a><a 
+href="/about/jobs" target="_blank">加入我们</a><a href="https://danjuanapp.com/" 
+target="_blank">蛋卷基金</a><a href="/about/what-is-xueqiu" target="_blank">关于雪球
+</a><a>© 2016 XUEQIU.COM</a><br><a 
+href="http://xqimg.imedao.com/14ee3530b118403fee048f5b.png" target="_blank">京ICP证
+100666号</a><a href="http://www.miibeian.gov.cn" target="_blank">京ICP备10040543</a><a>
+京公网安备11010502026957</a><a 
+href="http://xqimg.imedao.com/14d52aefd15e8f3fc0ce1fbd.png" target="_blank">证券业协会
+会员单位(代码817027)</a><p>风险提示：雪球里任何用户或者嘉宾的发言，都有其特定立场，投资
+决策需要建立在独立思考之上。</p></div></div><script>var _hmt = _hmt || [];
+(function () {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?1db88642e346389874251b5a1eded6e3";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();</script><script>var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-16079156-4']);
+_gaq.push(['_setDomainName', 'none']);
+_gaq.push(['_trackPageview']);
+
+(function () {
+  var ga = document.createElement('script');
+  ga.type = 'text/javascript';
+  ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + 
+  '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(ga, s);
+})();
+
+window.onerror = function (message, file, line) {
+  var sFormattedMessage = '[' + file + ' (' + line + ')]' + message;
+  _gaq.push(['_trackEvent', 'Exceptions', 'Application', sFormattedMessage, null, 
+  true]);
+}</script><script>if (window.jQuery) {
+  jQuery(function ($) {
+    $('.cube-invite').on('click', function () {
+      var href = $.trim($(this).attr('href'));
+      if (window._hmt) {
+        _hmt.push(['_trackEvent', 'cube-invite', 'click', href]);
+      }
+    });
+  });
+}</script></body></html>

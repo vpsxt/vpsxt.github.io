@@ -1,0 +1,20 @@
+前端开发工具技巧介绍—Sublime篇:http://www.imooc.com/view/40
+快乐的sublime编辑器:http://www.imooc.com/view/333
+版本控制入门 – 搬进 Github:http://www.imooc.com/view/390
+版本管理工具介绍—Git篇:http://www.imooc.com/view/208
+
+慕课网视频教程:http://www.imooc.com/course/list
+慕课网HTML视频教程:http://www.imooc.com/course/list?c=html
+慕课网javascript视频教程:http://www.imooc.com/course/list?c=javascript
+十天精通CSS3:http://www.imooc.com/view/33
+慕课网php视频教程:http://www.imooc.com/course/list?c=php
+PHP面向对象编程:http://www.imooc.com/view/184
+鬼斧神工之正则表达式:http://www.imooc.com/view/350
+PDO—数据库抽象层:http://www.imooc.com/view/164
+PHP与MySQL关系大揭秘:http://www.imooc.com/view/116
+
+慕课网Python视频教程:http://www.imooc.com/course/list?c=python
+慕课网Java视频教程:http://www.imooc.com/course/list?c=java
+
+
+

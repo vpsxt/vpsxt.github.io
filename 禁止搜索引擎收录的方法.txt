@@ -1,0 +1,80 @@
+http://bar.baidu.com/robots/
+
+禁止搜索引擎收录的方法
+一．什么是robots.txt文件?
+
+　　搜索引擎通过一种程序robot（又称spider），自动访问互联网上的网页并获取网页信息。
+
+　　您可以在您的网站中创建一个纯文本文件robots.txt，在这个文件中声明该网站中不想被robot访问的部分，这样，该网站的部分或全部内容就可以不被搜索引擎收录了，或者指定搜索引擎只收录指定的内容。
+
+二. robots.txt文件放在哪里?
+
+　　robots.txt文件应该放在网站根目录下。举例来说，当robots访问一个网站（比如http://www.abc.com）时，首先会检查该网站中是否存在http://www.abc.com/robots.txt这个文件，如果机器人找到这个文件，它就会根据这个文件的内容，来确定它访问权限的范围。
+
+网站 URL	相应的 robots.txt的 URL
+http://www.w3.org/	http://www.w3.org/robots.txt
+http://www.w3.org:80/	http://www.w3.org:80/robots.txt
+http://www.w3.org:1234/	http://www.w3.org:1234/robots.txt
+http://w3.org/	http://w3.org/robots.txt
+三. robots.txt文件的格式
+
+"robots.txt"文件包含一条或更多的记录，这些记录通过空行分开（以CR,CR/NL, or NL作为结束符），每一条记录的格式如下所示：
+
+　　　　"<field>:<optionalspace><value><optionalspace>"。
+　　在该文件中可以使用#进行注解，具体使用方法和UNIX中的惯例一样。该文件中的记录通常以一行或多行User-agent开始，后面加上若干Disallow行,详细情况如下：
+
+User-agent: 
+　　该项的值用于描述搜索引擎robot的名字，在"robots.txt"文件中，如果有多条User-agent记录说明有多个robot会受到该协议的限制，对该文件来说，至少要有一条User-agent记录。如果该项的值设为*，则该协议对任何机器人均有效，在"robots.txt"文件中，"User-agent：*"这样的记录只能有一条。
+Disallow :
+　　该项的值用于描述不希望被访问到的一个URL，这个URL可以是一条完整的路径，也可以是部分的，任何以Disallow 开头的URL均不会被robot访问到。例如"Disallow: /help"对/help.html 和/help/index.html都不允许搜索引擎访问，而"Disallow: /help/"则允许robot访问/help.html，而不能访问/help/index.html。
+任何一条Disallow记录为空，说明该网站的所有部分都允许被访问，在"/robots.txt"文件中，至少要有一条Disallow记录。如果"/robots.txt"是一个空文件，则对于所有的搜索引擎robot，该网站都是开放的。
+
+四. robots.txt文件用法举例
+
+例1. 禁止所有搜索引擎访问网站的任何部分
+
+　　　下载该robots.txt文件	
+User-agent: * 
+Disallow: /
+
+例2. 允许所有的robot访问
+
+(或者也可以建一个空文件 "/robots.txt" file)
+
+ 
+
+User-agent: *
+Disallow:
+ 
+
+例3. 禁止某个搜索引擎的访问
+
+User-agent: BadBot
+Disallow: /
+
+例4. 允许某个搜索引擎的访问	
+User-agent: baiduspider
+Disallow:
+
+User-agent: *
+Disallow: /
+
+例5. 一个简单例子
+
+　　在这个例子中，该网站有三个目录对搜索引擎的访问做了限制，即搜索引擎不会访问这三个目录。
+　　需要注意的是对每一个目录必须分开声明，而不要写成 "Disallow: /cgi-bin/ /tmp/"。
+　　User-agent:后的* 具有特殊的含义，代表"any robot"，所以在该文件中不能有"Disallow: /tmp/*" or "Disallow: *.gif"这样的记录出现.
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /~joe/
+
+五. robots.txt文件参考资料
+
+robots.txt文件的更具体设置,请参看以下链接：
+
+· Web Server Administrator's Guide to the Robots Exclusion Protocol 
+· HTML Author's Guide to the Robots Exclusion Protocol 
+· The original 1994 protocol description, as currently deployed
+· The revised Internet-Draft specification, which is not yet completed or implemented

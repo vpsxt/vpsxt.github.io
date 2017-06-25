@@ -1,0 +1,35 @@
+美国主机相信大家都不是很陌生,但是对于刚刚接触VPS的同学可能还十分陌生，今天VPS8就带给大家介绍一下美国著名主机以及它们的简写（都是在各大论坛约定俗成的）供同学们参考，详细的介绍请参考论坛其他帖子
+
+一 座落于美国的机房
+1. AWK机房：awknet 美国加利福尼亚州弗里蒙市
+2. BN机房：位于美国宾夕维尼亚州的斯克兰顿
+3. BTN机房：位于美国华盛顿州西雅图。路由经优化高速直链亚洲各地区，接入线路 (SIX，MFN，UUNET Sprint，Savvis，XO，
+4. Level3， Qwest，Congent，Global Crossing，NTT Verio，PCCW
+5. CL机房：位于美国洛杉矶One Wilshire数据中心大楼
+6. DS机房：位于美国俄勒冈州波特兰，美国西海岸包括三大州：加州、华盛顿州及俄勒冈州
+7. FDC机房：分布于美国伊利诺伊州芝加哥和科多拉多州丹佛两地
+8. GA机房：Atlanta
+9. HE机房：he.net 加州（Frement）机房
+10. KT机房：krypt圣安娜机房，在国内也称VL机房。加利福尼亚州圣安娜洛杉矶两地
+11. LS机房：达拉斯
+12. PR机房：pacificrack的nLayer优化段，分布于美国加利福尼亚州洛杉矶和德克萨斯州达拉斯，流量较大，线路有专门针对亚洲地区优化，国内连接速度快
+13. PEER1机房：中国电信直连。LA
+14. SK机房：机房位于芝加哥 丹佛SK机房在国内也称SA或ST机房
+15. SL机房：softlayer 达拉斯机房
+16. SP机房：serverpoint
+17. SS机房：SecuredServers
+18. ST机房：也叫SK，鲨鱼机房 SharkTech?
+19. T2机房：take2hosting.com
+20. webNX机房：洛杉矶
+21. WST机房：位于密苏里州堪萨斯城，接入线路包括CogentCO，Level3.等
+22. EGI机房：www.egihosting.com/
+23. VD机房：http://volumedrive.com/ （号称性价比最高的独立主机）
+24. who:datashack给的也是这个 http://www.wholesaleinternet.com/
+25. leaseweb:http://www.leaseweb.com/en
+
+二 座落于加拿大的机房
+1. ESD机房：温哥华
+2. UB机房：多伦多
+
+三 其它位置机房
+1. PA机房：巴拿马共和国抗投诉机房（你懂的的！）

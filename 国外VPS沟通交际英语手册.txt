@@ -1,0 +1,81 @@
+因为周所共知的原因，现在很多VPSer都购买国外主机商提供的VPS。大家平时在和主机商联系时常常会因为语言不通，缺乏有效的沟通。现在稀饭收集了一些平时大家经常需要使用的一些语句，提供出来，希望可以帮助到大家。如果你有好的语句也可以留言，我会不断更新本贴的，谢谢。
+
+母机负载太高,让他换个稳定的母机.. 要怎么翻译?
+The load of current Node is too high,even I can’t access control Panel, could you please switch my vps to other stable Node? thx
+
+我想升级流量到3000G，请问该增加多少费用？
+Upgrade to 3000GB bandwidth, How much should I pay for it?
+
+1、网站运行的时候，系统负载很不稳定，有时甚至达到几十以上
+2、就算网站不运行，关闭apache和mysql，系统负载也不是0，还有0.5左右
+1, the site is running, the system load is very unstable and sometimes even more than the order of tens
+2, even if the site is not running, shut down apache and mysql, the system load is not 0, there are about 0.5
+I would like to ask is how the case?
+
+你好，我订购的服务器请帮我安装windows2003标准版，硬盘分为两个区，C盘35G，剩下的为D盘。
+Requirement
+Operating System: Windows Server 2003 standard 32bit
+The Disk Partitioning information:
+C: 35GB
+D: the rest
+
+请问如何询问客服要域名转移密码？
+hello, pls give me the EPP code for xx.com.tks
+
+vps老是挂。不知道怎么回事。
+my vps always stop running, after i check my setting, im sure there are nothing wrong with my vps. so i wornder that maybe the reason is the node has some problems, do you mind make some research?
+
+我感觉你们的服务还行,
+我想问下如果我想续费,需要多少一个月,或者多少一个季度?
+I think your service is alright.
+I also want to know if I renew, how much is it for one month, or how much is it if I pay quarterly?
+
+“我不能再等了，我想退钱” 英文怎么说？
+Hi, VPS is stll not active after a long time, please refund me,thx
+
+“我非常想知道测试期结束后价格是多少”
+After trial testing, how much is the normal recurring fee?
+
+请帮我把服务器从1500G流量和100Mbit Port换成10Mbit不限流量10Mbit port.
+Could you please change my traffic & bandwith from 1500GB on 100M port to 10M unmetered.
+Thank you very much.
+
+母机负载太高,让他换个稳定的母机.. 要怎么翻译?
+The load of current Node is too high,even I can’t access control Panel, could you please switch my vps to other stable Node? thx
+
+我想升级流量到3000G，请问该增加多少费用？
+Upgrade to 3000GB bandwidth, How much should I pay for it?
+
+1、网站运行的时候，系统负载很不稳定，有时甚至达到几十以上
+2、就算网站不运行，关闭apache和mysql，系统负载也不是0，还有0.5左右
+1, the site is running, the system load is very unstable and sometimes even more than the order of tens
+2, even if the site is not running, shut down apache and mysql, the system load is not 0, there are about 0.5
+I would like to ask is how the case?
+
+你好，我订购的服务器请帮我安装windows2003标准版，硬盘分为两个区，C盘35G，剩下的为D盘。
+Requirement
+Operating System: Windows Server 2003 standard 32bit
+The Disk Partitioning information:
+C: 35GB
+D: the rest
+
+请问如何询问客服要域名转移密码？
+hello, pls give me the EPP code for xx.com.tks
+
+vps老是挂。不知道怎么回事。
+my vps always stop running, after i check my setting, im sure there are nothing wrong with my vps. so i wornder that maybe the reason is the node has some problems, do you mind make some research?
+
+我感觉你们的服务还行,
+我想问下如果我想续费,需要多少一个月,或者多少一个季度?
+I think your service is alright.
+I also want to know if I renew, how much is it for one month, or how much is it if I pay quarterly?
+
+“我不能再等了，我想退钱” 英文怎么说？
+Hi, VPS is stll not active after a long time, please refund me,thx
+
+“我非常想知道测试期结束后价格是多少”
+After trial testing, how much is the normal recurring fee?
+
+请帮我把服务器从1500G流量和100Mbit Port换成10Mbit不限流量10Mbit port.
+Could you please change my traffic & bandwith from 1500GB on 100M port to 10M unmetered.
+Thank you very much.

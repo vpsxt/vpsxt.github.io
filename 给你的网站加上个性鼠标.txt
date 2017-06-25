@@ -1,0 +1,13 @@
+著作权归作者所有。
+商业转载请联系作者获得授权，非商业转载请注明出处。
+作者：月宅
+链接：https://www.ikmoe.com/2810.html
+来源：月宅酱
+
+用CSS来实现给你的网站加一个鼠标图标图片，也就是本站的这样。
+
+首先你需要有个cur格式的鼠标图标，接着上传到网站任意位置，我是根目录，然后在js内加上这段代码，随便啦。
+
+懒人的话，你可以直接引用我的，引用请在下方说一下。
+
+<style type="text/css">* {cursor: url(https://www.ikmoe.com/isb.cur), default!important}</style>

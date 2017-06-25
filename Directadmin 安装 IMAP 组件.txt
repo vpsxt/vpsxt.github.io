@@ -1,0 +1,13 @@
+CentOS
+
+yum -y install pam-devel
+Debian
+
+apt-get install libc-client-dev
+打开终端运行:
+
+cd /root
+wget files.directadmin.com/services/all/imap_php.sh
+chmod 755 imap_php.sh
+./imap_php.sh
+完成后即可使用！

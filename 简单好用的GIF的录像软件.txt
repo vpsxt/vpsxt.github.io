@@ -1,0 +1,10 @@
+LICEcap是一款完全免费的GIF屏幕录像软件，体积小巧没有任何乌七八糟的广告内容；
+
+设置简单的，非常方便的录制GIF动画内容；
+
+因为简单的缘故可选项不多，如果要求不是很多只是简单的录制一下桌面动画还是非常适合的；
+
+它支持windows与苹果系统两种系统，目前还不支持linux客户端大概用户基数太小了的缘故；
+
+官网下载页面：http://www.cockos.com/licecap/
+github项目地址：https://www.github.com/justinfrankel/licecap.git

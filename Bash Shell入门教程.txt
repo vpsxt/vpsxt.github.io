@@ -1,0 +1,30 @@
+Linux Bash Shell入门教程:http://www.jb51.net/LINUXjishu/42771.html
+Shell 教程:http://www.runoob.com/linux/linux-shell.html
+Linux Bash Shell入门教程:http://www.jcwcn.com/article-31939-1.html
+Shell学习笔记:http://www.cnblogs.com/maybe2030/p/5022595.html
+一个很不错的bash脚本编写教程:http://blog.chinaunix.net/uid-20328094-id-95121.html
+Bash shell功能简介:http://www.cnblogs.com/jmzz/archive/2012/03/24/2416146.html
+shell 脚本:http://wiki.jikexueyuan.com/project/linux/shell-script-two.html
+Bash脚本15分钟进阶教程:http://www.vaikan.com/bash-scripting/
+Shell编程基础:http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80
+Linux Shell简明教程:http://www.jellythink.com/archives/699
+Shell脚本编程30分钟入门:https://github.com/qinjx/30min_guides/blob/master/shell.md
+shell学习第一天:http://blog.csdn.net/shanyongxu/article/details/46402933
+Linux Shell脚本教程：30分钟玩转Shell脚本编程:http://c.biancheng.net/cpp/shell/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

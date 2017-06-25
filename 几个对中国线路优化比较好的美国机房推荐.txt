@@ -1,0 +1,25 @@
+美国VPS和主机大家买的不少了，但是选购的时候面对林林总总的机房我们到底应该选择哪个机房做为我们网站的家呢？下面给大家简单说一下美国VPS的机房介绍。
+
+一、Peer1 dedicated洛杉矶机房。（重点推荐机房）
+针对中国线路进行了优化，ping值在200ms以内。
+
+二、He.net 加州（Frement）机房
+he.net的单线路机房，这个线路对中国电信和网通比较友好，结点少，速度快。ping值200ms左右。
+linode（加州数据中心）用的就是这个机房。
+
+三、Krypt圣安娜机房
+对中国速度快，结点少，ping值200ms左右。
+
+四、Pacificrack的nLayer优化段
+对中国速度快，结点少，ping值200ms左右。
+
+大家继续补充，希望能够为新买vps/独立服务器的朋友一共参考。
+
+补充说明一下：
+
+比如加州还有几个机房，
+www.staminus.net/跟Krypt的洛杉矶机房在同一座ONE Wilshire大厦。
+
+www.awknet.com跟PacificRack的洛杉矶机房在同一座大厦里。
+
+www.webnx.com跟PacificRack的洛杉矶机房在同一座大厦里。

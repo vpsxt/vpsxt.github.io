@@ -1,0 +1,3 @@
+先到 IPdeny 下载以国家代码编制好的 IP 地址列表，比如下载 cn.zone：
+
+# wget http://www.ipdeny.com/ipblocks/data/countries/cn.zone

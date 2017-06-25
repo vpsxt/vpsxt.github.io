@@ -1,0 +1,9 @@
+之前用teddysun:https://teddysun.com/357.html脚本安装shadowsocks,死活不能成功连接
+但是得到一个群里的兄弟帮忙给了这个命令就可以了.非常郁闷.
+昨天我也用这个命令死活不行.不知道为什么.
+
+iptables -F && iptables -Z && iptables -X && service iptables save
+
+
+
+

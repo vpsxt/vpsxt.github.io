@@ -1,0 +1,4 @@
+下载地址:http://s3.amazonaws.com/alexa-static/top-1m.csv.zip
+
+
+Alexa Support>Competitive Intelligence Tools>Top Sites:https://support.alexa.com/hc/en-us/articles/200461990-Can-I-get-a-list-of-top-sites-from-an-API-

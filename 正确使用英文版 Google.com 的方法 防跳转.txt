@@ -1,0 +1,8 @@
+中国用户在地址栏输入 google.com，都会被带到 google.cn 不过它已经退出中国了，现在是google.com.hk ，我只喜欢 google.com 的搜索，不喜欢它给我跳转，以前只要设置 Firefox 的浏览器头，标识语言为英语，就不会跳转，现在不管你怎么设置，只要是中国IP就给你跳转。
+跳到没关系，因为我经常搜索英文内容，而中文版的google搜索结果大多是中文的，很郁闷。
+但 google 还是隐藏了一个秘密，你想看英文版而不被跳转，请使用
+http://www.google.com/ncr
+http://www.google.com/webhp?hl=en&gl=us
+这下可以爽快的使用搜索智能联想了，英文搜索结果也和中国的大不同。
+ 
+http://www.21andy.com/blog/20100411/1845.html

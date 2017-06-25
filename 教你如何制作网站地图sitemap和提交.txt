@@ -1,0 +1,65 @@
+在做网站地图之前，我们需要先对Google和yahoo对网站地图格式的要求了解一下：
+
+Google：要求使用XML格式的网站地图
+Yahoo： 要求使用TXT格式的网站地图
+
+一、网站地图的制作：
+
+1、在线制作小型的网站地图：
+
+如果你的网站的网页数量少于500个，那么建议你使用在线的网站地图制作工具
+：http://www.seo.net.cn/sitemap/
+
+打开这个网页，输入你的网址，然后点击开始，几分钟后，这个在线工具就会给你制作出XML   html 
+   txt 三种不同格式的网站地图，然后你直接下载到本地电脑上。
+
+2、使用工具制作中型网站地图：
+
+用什么工具制作呢？
+这里给你推荐一款非常好用的免费的网站地图制作软件：Site Map Builder
+
+官方下载地址：http://www.sitemapbuilder.net/downloads/SiteMapBuilder.zip
+
+下载后，安装，安装好之后，就可以用来制作网站地图了。
+
+这款软件虽然是英文的，操作也非常简单，打开软件后，输入你的网址，然后点击右边的按
+钮"Extract Links",然后软件就开始分析你网站的所有链接。
+
+当分析结束之后，你点击左上角的按钮：File >> Save map as >.> 选择自己要保持的网站地图格式
+，然后保存到本地电脑的路径就OK了。
+
+
+二、网站地图的提交：
+
+
+向Google提交网站地图：
+
+https://www.google.com/webmasters/tools/login?hl=zh_CN
+
+1、进入这个网址，用你的Google帐户登录，然后添加你的网址；
+
+2、接下来按照Google的要求验证你网站，你可以选择html文件验证。
+
+3、这时候，按照Google的要求，制作一个Google要求的文件名的html文件
+
+4、用FTP讲这个html文件和你的xml格式的网站地图文件一起传到你网站的根目录
+
+5、确认验证，回到控制台，添加你的地图文件就OK了。很快，Google就会根据网站地图文件来更新
+你的网站
+
+
+向yahoo提交网站地图：
+
+英文yahoo提交网址：
+http://search.yahoo.com/info/submit.html
+
+首先用FTP讲你的网站地图传到网站的根目录。打开网址后，选择Submit Your Site for Free: 用
+yahoo帐户登录，然后输入你的网站地图的URL就可以了。
+
+中文Yahoo的提交网址：
+http://sitemap.cn.yahoo.com/mysites
+
+这个操作和Google的差不多，登录、验证网站、提交网址地图URL。
+
+网站地图制作好，提交到搜索引擎，只是可以Google和yahoo快速的抓取和更新你的网站。想要让你
+的网站提高排名，还需要做其他一些工作，这在以后继续再交流。

@@ -1,0 +1,78 @@
+按vultr官方教程做的win包竟然自带小尾巴:https://www.vultr.com/docs/windows-custom-iso-with-virtio-drivers
+Win ISO添加virtio驱动包，为制作dd包做铺垫，配置网卡驱动:http://www.hostloc.com/thread-354940-1-1.html
+按vultr官方教程做的win包竟然自带小尾巴:http://www.hostloc.com/thread-362112-1-1.html
+===============================================================================
+DD windows2003和windows2012是一样的操作吗？:http://www.hostloc.com/thread-359223-1-1.html
+wget -O- http://down.80host.com/iso/dd/WS2008R2Enterprise-Joodle-Template.gz |gunzip|dd of=/dev/vda
+wget -O- http://down.80host.com/iso/dd/Windows2012R2-Joodle-Template.gz |gunzip|dd of=/dev/vda
+Username: Administrator
+Password: Password147
+
+
+wget -O- http://down.80host.com/iso/dd/Windows7-Joodle-Template.gz |gunzip|dd of=/dev/vda
+wget -O- http://down.80host.com/iso/dd/Windows8.1-Joodle-Template.gz |gunzip|dd of=/dev/vda
+Username: Admin
+Password: Password147
+
+
+
+wget -O- http://down.80host.com/iso/dd/Kimsufi2003.gz |gunzip|dd of=/dev/vda
+Username: Administrator
+Password: password!yxz.me
+
+sudo wget -O- 'http://down.80host.com/iso/dd/win2003_with_update.gz' | gunzip | dd of=/dev/sdb
+Username：administrator
+Password: 80hostkvmlamjj
+
+wget -O- http://down.80host.com/iso/dd/windows2003.32bit.raw | dd of=/dev/sdb
+Username: administrator
+Password: changeme
+
+
+wget -O- http://down.80host.com/iso/dd/windows2008.R2.raw | dd of=/dev/vda
+Username:  administrator
+Password:  Changeme!!!
+
+
+wget -O- 'http://down.80host.com/iso/dd/ikoula92.gz' | gunzip | dd of=/dev/vda
+Username:  administrator
+Password: Abcd123400
+
+
+Laiboke.com制作的中文版2012R2
+wget -O- http://down.80host.com/iso/dd/Win2012R2ZW.gz |gunzip|dd of=/dev/vda
+用户名密码：
+Administrator
+Laiboke.com
+
+Leaseweb/Linode专用
+wget -O- http://down.80host.com/iso/dd/cn2003-virtio-pass-Linode.gz |gunzip|dd of=/dev/vda
+用户名密码：
+Administrator
+Linode
+
+====================================================================================
+Windows操作系统添加VirtIO驱动图文教程:https://miefen.com/201405/how-to-install-virtio-drivers-for-windows
+记录利用KVM VPS主机DD方式安装Windows系统方法:http://www.laozuo.org/9628.html
+用DD在kimsufi上安装Windows 2003系统:https://www.zmrbk.com/post-2214.html
+KVM VPS加载ISO安装windows教程:http://www.zrblog.net/12852.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

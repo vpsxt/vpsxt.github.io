@@ -1,0 +1,16 @@
+在.htacess文件添加以下命令代码：
+
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^http://www.wenrouge.com/.*$ [NC]
+RewriteCond %{HTTP_REFERER} !^http://weidao.net/.*$ [NC]
+RewriteRule \.(jpg|jpeg|gif|png|bmp)$ – [F,NC]
+
+
+把域名更改为自己的网站地址，第四行是防止盗链的文件类型：gif、png、bmp、jpg等，根据需要更改或添加，不同文件扩展名间使用“|”分开。
+如果希望显示警告信息，用一张小巧（节约）的“请勿盗链”文字的图片，上传图片到不受.htaccess影响的目录或用外链，然后修改上面的代码为：
+
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^http://www.wenrouge.com/.*$ [NC]
+RewriteCond %{HTTP_REFERER} !^http://weidao.net/.*$ [NC]
+RewriteRule \.(gif|jpg)$ http://www.wenrouge.com/images/jinzhifanyue.jpg [R,L]
+设置防盗链后，除了指定的域名，其它域名网站都将无法引用自己的站内图片!

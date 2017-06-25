@@ -1,0 +1,1 @@
+与windows services pack installer update service服务相依赖的Security Accounts Manager服务被禁用了．解决的方法是：在开始菜单中点击”运行”，在运行对话框中输入”services.msc”（不含双引号），在打开的服务窗口中找到Security Accounts Manager服务，双击这个服务，将”已禁用”改为”自动”，将”已停止”改为”启动”．遇到的问题一般就解决了．提醒下，造成这个问题的原因可能是黑客入侵造成的．我在开机时发现被人创建了一个新的帐户，之后我将此帐户删除并禁用了一些服务，之后打开网页就发现有的网页打不开（包括GOOGLE），下载时都会提示”与服务器连接被重置”．

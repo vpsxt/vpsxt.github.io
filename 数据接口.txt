@@ -1,0 +1,46 @@
+股票行情数据 WEB 服务（支持香港、深圳、上海基金、债券和股票；支持多股票同时查询）
+Endpoint: http://webservice.webxml.com.cn/WebServices/StockInfoWS.asmx  复制 Endpoint
+Disco: http://webservice.webxml.com.cn/WebServices/StockInfoWS.asmx?disco  复制 Disco
+WSDL: http://webservice.webxml.com.cn/WebServices/StockInfoWS.asmx?wsdl  复制 WSDL
+ 
+股票行情数据 WEB 服务（支持香港、深圳、上海基金、债券和股票；支持多股票同时查询）支持香港股票、深圳、上海封闭式基金、债券和股票；支持多股票同时查询。数据即时更新。此中国股票行情数据 WEB 服务仅作为用户获取信息之目的，并不构成投资建议。支持使用 | 符号分割的多股票查询。
+ 
+ 
+中国开放式基金数据 WEB 服务
+Endpoint: http://webservice.webxml.com.cn/WebServices/ChinaOpenFundWS.asmx 复制 Endpoint
+Disco: http://webservice.webxml.com.cn/WebServices/ChinaOpenFundWS.asmx?disco 复制 Disco
+WSDL: http://webservice.webxml.com.cn/WebServices/ChinaOpenFundWS.asmx?wsdl 复制 WSDL
+ 
+中国开放式基金数据 WEB 服务中国开放式基金数据 WEB 服务，数据每天15：30以后及时更新。输出数据包括：证券代码、证券简称、单位净值、累计单位净值、前单位净值、净值涨跌额、净值增长率(%)、净值日期。只有商业用户可获得此中国开放式基金数据Web Services的全部功能，若有需要测试、开发和使用请QQ：8698053 或 联系我们
+ 
+ 
+中国股票行情分时走势预览缩略图 WEB 服务
+Endpoint: http://webservice.webxml.com.cn/webservices/ChinaStockSmallImageWS.asmx 复制 Endpoint
+Disco: http://webservice.webxml.com.cn/webservices/ChinaStockSmallImageWS.asmx?disco 复制 Disco
+WSDL: http://webservice.webxml.com.cn/webservices/ChinaStockSmallImageWS.asmx?wsdl 复制 WSDL
+ 
+中国股票行情分时走势预览缩略图 WEB 服务中国股票行情分时走势预览缩略图 WEB 服务（支持深圳和上海股市的全部基金、债券和股票），数据即时更新。返回数据：2种大小可选择的股票GIF分时走势预览缩略图字节数组和直接输出该预览缩略图。
+ 
+ 
+外汇-人民币即时报价 WEB 服务
+Endpoint: http://webservice.webxml.com.cn/WebServices/ForexRmbRateWebService.asmx 复制 Endpoint
+Disco: http://webservice.webxml.com.cn/WebServices/ForexRmbRateWebService.asmx?disco 复制 Disco
+WSDL: http://webservice.webxml.com.cn/WebServices/ForexRmbRateWebService.asmx?wsdl 复制 WSDL
+ 
+外汇-人民币即时报价 WEB 服务外汇-人民币即时报价 WEB 服务， 报价数据即时更新。外汇-人民币即时报价 WEB 服务仅作为用户获取信息之目的，并不构成投资建议。支持人民币对：美元、欧元、英镑、日元、港币、加拿大元、新西兰元、新加坡元、瑞士法郎、瑞典克朗、泰国铢、挪威克朗、澳门元、澳大利亚元、丹麦克朗、菲律宾比索、清算瑞士法郎 等的兑换即时报价。
+ 
+ 
+即时外汇汇率数据 WEB 服务
+Endpoint: http://webservice.webxml.com.cn/WebServices/ExchangeRateWebService.asmx 复制 Endpoint
+Disco: http://webservice.webxml.com.cn/WebServices/ExchangeRateWebService.asmx?disco 复制 Disco
+WSDL: http://webservice.webxml.com.cn/WebServices/ExchangeRateWebService.asmx?wsdl 复制 WSDL
+ 
+即时外汇汇率数据 WEB 服务即时外汇汇率数据 WEB 服务，数据即时更新。此外汇汇率数据 WEB 服务支持29种以上基本汇率和交叉汇率即时外汇汇率数据，返回包括：代码、货币名称、最新价、涨跌%、涨跌金额、开盘价、最高价、最低价、震幅%、买入价、卖出价、涨跌颜色和数据时间。实例
+ 
+ 
+中国股票行情数据 WEB 服务（支持深圳和上海股市的基金、债券和股票）
+Endpoint: http://webservice.webxml.com.cn/WebServices/ChinaStockWebService.asmx 复制 Endpoint
+Disco: http://webservice.webxml.com.cn/WebServices/ChinaStockWebService.asmx?disco 复制 Disco
+WSDL: http://webservice.webxml.com.cn/WebServices/ChinaStockWebService.asmx?wsdl 复制 WSDL
+ 
+中国股票行情数据 WEB 服务（支持深圳和上海股市的基金、债券和股票）中国股票行情数据 WEB 服务，数据即时更新。输出GIF分时走势图、日/周/月K线图、及时行情（股票名称、行情时间、最新价、昨收盘、今开盘、涨跌额、最低、最高、涨跌幅、成交量、成交额、竞买价、竞卖价、委比、买一 - 买五、卖一 - 卖五）。

@@ -1,0 +1,17 @@
+英文日期.txt
+Posted on 2011 年 9 月 22 日
+一月：January 简写 jan
+二月：February 简写 feb
+三月：March 简写 mar
+四月：April 简写 apr
+五月：May 简写 may
+六月：June 简写 jun
+七月：July 简写 jul
+八月：August 简写 aug
+九月：September 简写 sep
+十月：October 简写 oct
+十一月：November 简写 nov
+十二月：December 简写 dec
+
+
+我们在查看域名WHOIS信息的时候，想查看某个域名的注册时间和到期时间，经常会发现月份是英文的简称；虽然大多数朋友都知道英文月份简称所能代表的月份，但对于一些英文不是很好的朋友却是个比较头痛的问题，特此发到域名工具版，让大家有更多人性化的小工具。

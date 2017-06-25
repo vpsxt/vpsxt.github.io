@@ -1,0 +1,22 @@
+月付改为年付：Please change my billing cycle to annual pay.
+求一个测试ip或者下载地址：Do you have a test IP/testfile?
+can you provide me an address&nbsp;or&nbsp;file to test your hosting speed?
+VPS重启不起来 My VPS account is unable to access, probably due to reboot failure, please help me restart it, thank you.
+帮忙重装Centos 5 32 bit系统，并且帮忙装kloxo控制面板，不需要备份：Hi,could you help me rebuild my VPS to Centos 5 32 bit with pre-installed kloxo.There are no important data, no backups needed.
+SSH登陆不上了:I can not access SSH with information provide, please help.
+购买额外IP Can I purchase additional IPs? Do I need to comply with ARIN regulations?
+我考虑一下再决定 I will think about it then make a decision.
+Hi, my 〔server/vps/hosting) is down, can you please take a look into it? My account info/ip is [在这里插入您的IP或者帐户信息]
+嗨， 我的(服务器/vps/空间)死机了， 可不可以帮我查一下怎么回事？ 我的帐户信息/ip 是[在这里插入您的IP或者帐户信息]
+Hi, I would like to purchase [#] extra [ips/ram/storage/bandwidth] for my [server/vps]. My account info/ip is [在这里插入您的IP或者帐户信息]
+嗨， 我想购买 [#] 个 [ip/内存/空间/带宽] 给我的 [服务器/vps]. 我的帐户信息/ip 是[在这里插入您的IP或者帐户信息]
+Hi, Can you please reload my [server/vps]. My account info/ip is [在这里插入您的IP或者帐户信息]
+嗨， 可不可以帮我从新安装我的 [服务器/vps]. 我的帐户信息/ip 是[在这里插入您的IP或者帐户信息]
+Hi, my [server/vps] load is very high! please take a look! My account info/ip is [在这里插入您的IP或者帐户信息]
+嗨， 我的 [服务器/vps] cpu 用量很高！ 请帮我看一下! 我的帐户信息/ip 是[在这里插入您的IP或者帐户信息]
+Hi, where are your servers located? Can you provide a test [ip/file]?
+嗨，你们服务器在哪，可以给我一个测试[IP/文件]吗？
+可选、非必填 optional
+原先的 original
+退款要求：
+Ｉ,m sorry that i have to tell you that i m not satisfied with the access speed from china mainland to your server, where my target visitors are from. so would you assist me to end this service/contract and give my money back? thank you very much.

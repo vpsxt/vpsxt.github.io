@@ -1,0 +1,11 @@
+命令:
+
+CREATE USER 'username'@'%' IDENTIFIED BY 'password';
+创建一个可以任意主机连接的mysql用户
+
+iptables设置
+
+iptables -A INPUT -p tcp -m tcp --sport 3306 -j ACCEPT
+iptables -A OUTPUT -p tcp -m tcp --dport 3306 -j ACCEPT
+service iptables save 保存规则
+service iptables restart 重启iptables
