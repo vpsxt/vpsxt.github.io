@@ -1,0 +1,22 @@
+Kimsufi KS3C的中文Windows Server 2016 Datacenter DD
+
+
+
+
+基于cn_windows_server_2016_x64_dvd_9718765.iso制作
+
+使用方法
+wget -O- ‘http://dl.fenxiang.im/cn_windows_server_2016_x64.gz’ | gunzip | dd of=/dev/sda
+
+用户名：Administrator
+密码: Fenxiang.im
+
+首次进入后请打开防火墙。
+
+请自行用KMS激活。
+
+
+
+
+
+

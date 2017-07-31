@@ -1,0 +1,27 @@
+KS3C、KS4C 常用win系列dd镜像
+
+
+
+都是基于最新的msdn版本。
+win7 旗舰 cn :
+https://mega.nz/#!8B5ywLRD!Z_ZX93xB6-1GmOWqmDM7gIHDMN-5Xhlpc7kKTpe6w6c
+2008 data cn:
+https://mega.nz/#!1MQHGTJJ!WIPz9gR7bPx0FDa5pIKCV-ZkcROXXSLyL-1YSE95I8k
+2012 data cn :
+https://mega.nz/#!8UhSFJSY!Z88p2THuilSZgM1NgEuRNokQAlo2j98VM-”yC5PGVrDY
+
+win10 ltsb cn:
+https://mega.nz/#!VUYnULBB!APwhBWmh_wLkQTbHZzdx2BWy0qzH2Z5JYVAlWbxb4Ps
+2016 data cn:
+https://mega.nz/#!hJYyEIYL!3U9P6EwaR_k2mSOxjmMgt3Rp2kB8P3kYpHl9FvTnYZU
+个别dd包可能重启后屏不通，进入远程桌面关闭防火墙即可。已实测！
+用户名:administrator
+密码:1mjj.bigexiu
+mega网盘不限流量不限速win工具
+https://mega.nz/#!IB4kDZBZ!pfNR0zQRUThnuIVeBo2823-wK3RDciVCqZ_CyO_kTo4
+
+
+
+
+
+
