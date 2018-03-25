@@ -1,0 +1,13 @@
+VPS美国地区分类
+亚特兰大 – Atlanta
+佛利蒙 – Fremont
+佛罗里达 – Florida
+凤凰城 – Phoenix
+圣何塞 – SanJose
+圣迭戈 – San Diego
+拉斯维加斯 – Las Vegas
+洛杉矶 – LosAngeles
+纽约 – New York
+芝加哥 – Chicago
+西雅图 – Seattle
+达拉斯 – Dallas

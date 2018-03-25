@@ -1,0 +1,24 @@
+DNSPod各个套餐的DNS地址
+每种域名套餐对应的DNS地址是不同的!
+ 
+免费DNS地址：f1g1ns1.dnspod.net/f1g1ns2.dnspod.net （对应 10 台服务器）；
+豪华DNS地址：ns1.dnsv2.com/ns2.dnsv2.com （对应 12 台服务器）；
+企业I DNS地址：ns1.dnsv3.com/ns2.dnsv3.com （对应 14 台服务器）；
+企业II DNS地址：ns1.dnsv4.com/ns2.dnsv4.com （对应 18 台服务器）；
+企业III DNS地址：ns1.dnsv5.com/ns2.dnsv5.com （对应 22 台服务器）；
+个人专业版DNS地址：ns3.dnsv2.com/ns4.dnsv2.com （对应 12 台服务器）；
+企业创业版DNS地址：ns3.dnsv3.com/ns4.dnsv3.com （对应 14 台服务器）；
+企业标准版 DNS地址：ns3.dnsv4.com/ns4.dnsv4.com （对应 18 台服务器）；
+企业旗舰版 DNS地址：ns3.dnsv5.com/ns4.dnsv5.com （对应 22 台服务器）。
+
+
+
+
+
+
+
+
+
+
+
+

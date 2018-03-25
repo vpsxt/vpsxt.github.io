@@ -1,0 +1,12 @@
+1、使用more 标签 (缺点：每次都要加一下这个东西，不灵活只能一刀切。优点：方法
+比较正规不需要改动模版)在你需要截断的地方(就是你的编辑框)加<!-more->代码.
+2、使用the_excerpt 标签 (缺点：需要改动模版，而且显示的是纯文本。优点：一劳永逸直
+接把想要的部分来做摘要)使用方法，注意是编辑你的模版中(wp-contant/themes/你的模版
+/index.php) 文件)。 找到<?php the_content(__(’(more…)')); ?>或<?php the_content(); ?>修改
+为:
+<?php if(!is_single()) {
+the_excerpt();
+} else {
+the_content(__('(more…)'));//或者<?php the_content(); ?>
+} ?>
+现在你的wordpress，除非打开单个post，其他情况下都是显示摘要。

@@ -1,0 +1,8 @@
+首先确认你的WordPress 版本在2.5 以上，在皮肤目录下comments.php 中加入
+<?php echo get_avatar(get_comment_author_email(), $size = '48' ) ?>如果你需要自定义默认头
+像请用<?php echo get_avatar(get_comment_author_email(), $size = '48', $default =
+'/default.gif' ) ?> 稍微解释一下， 用来显示 Gravatar 头像的函数是 get_avatar() ，
+get_comment_author_email() 放在留言 loop 中得到留言者的 email 地址，这个很关键，
+Gravatar 头像基本上全靠这个 email 了，后面的 '48' 表示头像显示的宽度、高度均为
+48px，最大为 80px。
+这个头像的注册及上传网站http://en.gravatar.com/

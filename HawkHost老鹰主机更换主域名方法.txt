@@ -1,0 +1,12 @@
+地址:http://www.yd631.com/change-hawkhost-primary-domain/
+
+第一步，我们可以用自己购买主机的邮箱发送邮件至support@hawkhost.com或者直接到：http://www.hawkhost.com/Contact/support 提交问题。
+第二步，具体内容如下：
+Hello, Dear sir!
+Since my domain change, a request to help me put my Shared Hosting - Basic（Basic 的 Basic 得换成您购买的套餐，如：Standard / Advanced / Super） domain from [原先的域名] change to [新域名], thank you!
+第三步，官方会给你回邮件，问你是现在更换 还是等待一会。你只要回答：
+Now please help me complete the change, thank you!
+第四步，你就会收到官方给你的处理完毕信件。
+剑群补充：
+Shared Hosting – Basic 的 Basic 得换成您购买的套餐，如：Standard / Advanced / Super。还有，我不建议随便输入其他域名购买，因为这样或许会影响到别人，建议用二级域名购买，只要在 . 后面输入您的根域名就行，二级域名解析到主机 IP 照样能用。
+

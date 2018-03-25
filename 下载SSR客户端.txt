@@ -1,0 +1,5 @@
+下载SSR客户端
+Android客户端：https://play.google.com/store/apps/details?id=com.github.shadowsocks
+iOS客户端：https://itunes.apple.com/us/app/shadowsocks/id665729974?ls=1&mt=8
+Windows 7客户端：https://kiwivm.64clouds.com/dist/shadowsocks-win-2.3.zip
+Windows 8客户端：https://kiwivm.64clouds.com/dist/shadowsocks-win-dotnet4.0-2.3.zip

@@ -1,0 +1,28 @@
+IP 查詢工具：https://aite.me/ipaddr.php
+
+DNS 查詢工具：https://intodns.com/
+
+whois 查詢工具：https://who.is/
+
+網頁壓縮查詢工具：http://checkgzipcompression.com/
+
+網站壓力測試工具：https://loadimpact.com/
+
+Sucuri 全球性能測試：https://performance.sucuri.net/
+
+Pingdom 的網站速度測試：https://tools.pingdom.com/
+
+抓取 CSS 與 JS 工具：https://wp-rocket.me/tools/wp-rocket/debug/minify/
+
+查看 IP 後面服務器放置的網站數：http://whois.domaintools.com/
+( Reverse IP 顯示的數字，即為站點數量 )
+
+查詢服務器端口連接：https://www.adminkit.net/telnet.aspx
+
+Robots.txt 生成器：http://tools.seobook.com/robots-txt/generator/
+
+JS / CSS 線上壓縮工具：http://www.minifier.org/
+
+大陸結點 ping 測試：http://ping.chinaz.com/
+
+CloudFlare 在線查詢 IP：http://www.crimeflare.com/cfs.html
