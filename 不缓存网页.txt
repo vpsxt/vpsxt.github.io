@@ -1,0 +1,26 @@
+我在html页面中加入了下面的信息：
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="expires" content="0">
+
+
+谷歌浏览器设置不保存缓存:https://jingyan.baidu.com/article/c1465413b578c40bfcfc4ceb.html
+
+对于PHP页面：
+　　1 <?php  
+　　2 header('Cache-Control:no-cache,must-revalidate');    
+　　3 header('Pragma:no-cache');    
+　　4 ?>
+　　强调说明：对于动态页面，缓存的代码必须放在任何HTML标签输出之前，否则将会出错。
+
+
+
+
+
+
+
+
+
+
+
+

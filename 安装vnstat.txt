@@ -1,0 +1,17 @@
+centos安装第三方源:
+
+rpm -Uvh https://dl.fedoraproject.org/pub/epel/epel-release-latest-6.noarch.rpm
+
+安装vnstat:
+
+yum -y install vnstat
+
+使用ipconfig -a 查看网卡
+openvz是venet0
+kvm是eth0
+
+实时查看流量:(openvz是venet0,kvm是eth0)
+vnstat -l -i venet0
+
+
+参考地址:https://www.mrlong.cc/1851.html
