@@ -1,0 +1,3639 @@
+课程目录
+│
+├─01-全栈基础视频教程
+│  │  全栈基础班教程视频.zip     11.96GB
+│  │
+│  ├─01-HTML源码资料笔记
+│  │      01-HTML-第一天{主要内容：HTML语法结构及html标签}.rar     188.84MB
+│  │      02-HTML-第二天{主要内容：table标签，表单控件，标签语义化}.rar     5.3MB
+│  │
+│  ├─02.CSS-源码资料笔记
+│  │      03-CSS-第一天{主要内容： CSS语法结构，类选择器，后代选择器，交集选择器等}.rar     976.9MB
+│  │      04-CSS-第二天{主要内容： 元素的模式分类，CSS特性}.rar     6.69MB
+│  │      05-CSS-第三天{主要内容：盒子模型 }.rar     4.28MB
+│  │      06-CSS-第四天{主要内容：浮动特点，网页布局，清除浮动}.rar     6.58MB
+│  │      07-CSS-第五天{主要内容：定位及特点}.rar     8.76MB
+│  │      08-CSS-第六天{主要内容：滑动门及补充知识}.rar     370KB
+│  │
+│  └─03.JavaScript源码资料笔记
+│          10-JavaScript-第一天{主要内容：1变量2数据类型3运算符4比较运算符}.rar     18.29MB
+│          11-JavaScript-第二天{主要内容：1数据类型转换2逻辑运算符3条件判断}.rar     2.35MB
+│          12-JavaScript-第三天{主要内容：1while循环2dowhile循环3for循环4数组}.rar     4.14MB
+│
+├─02-京东商城
+│      01 前端基本功-css 实战1.rar     784.22MB
+│      02 前端基本功-css 实战2.rar     710.05MB
+│      03-前端基本功-css 实战3.rar     1.1GB
+│      04-前端基本功-js第一天.rar     931.59MB
+│      05-前端基本功--js第二天.rar     495.49MB
+│      06-前端基本功-js第三天.rar     511.32MB
+│      07-前端基本功-js第四天.rar     659.12MB
+│      08-前端基本功-js第五天.rar     943.07MB
+│      09-前端基本功-js第六天.rar     620.54MB
+│      10-前端基本功-js第七天.rar     1.09GB
+│      11-前端基本功-网页特效1.rar     635.7MB
+│      12-前端基本功-网页特效2.rar     859.55MB
+│      13-前端基本功-网页特效3.rar     1GB
+│      14-前端基本功-网页特效4.rar     627.9MB
+│      15-前端基本功-网页特效5.rar     1.42GB
+│      16-前端基本功-网页特效6.rar     378.92MB
+│
+├─03-PHP基础视频
+│  │  PHP基础视频配笔记.zip     6.8MB
+│  │
+│  ├─day1 视频
+│  │      1-PHP介绍和几个概念.wmv     102.25MB
+│  │      10-在请求PHP页面的时候加载PHP模块.wmv     30.58MB
+│  │      11-加载php.ini文件.wmv     64.52MB
+│  │      12-设置时区.wmv     16.28MB
+│  │      13-安装MySQL.wmv     46.82MB
+│  │      14-MySQL目录.wmv     42.65MB
+│  │      15-加载php扩展.wmv     32.27MB
+│  │      16-更改虚拟目录权限.wmv     55.55MB
+│  │      17-更改默认首页.wmv     7.57MB
+│  │      18-更改端口号.wmv     21.91MB
+│  │      19-DNS解析.wmv     32.97MB
+│  │      2-PHP优点.wmv     13.43MB
+│  │      20-虚拟主机.wmv     57.21MB
+│  │      21-MySQL客户端.wmv     37.05MB
+│  │      21-站点、虚拟目录、虚拟主机.wmv     11.86MB
+│  │      22-分布式部署.wmv     109.81MB
+│  │      3-Apache的安装.wmv     76.21MB
+│  │      4-apache启动、关闭、重启操作.wmv     47.71MB
+│  │      5-环境变量.wmv     27.5MB
+│  │      6-apache目录结构、执行过程.wmv     32.76MB
+│  │      7-http指令.wmv     22.62MB
+│  │      8-安装PHP.wmv     21.78MB
+│  │      9-将PHP作为模块提供给Apache加载.wmv     54.18MB
+│  │
+│  ├─day2-视频
+│  │      1-回顾.wmv     114.03MB
+│  │      10-PHP语法的一般特点.wmv     3.26MB
+│  │      11-变量.wmv     72.05MB
+│  │      12-超全局变量.wmv     55.03MB
+│  │      13-可变变量.wmv     16.03MB
+│  │      14-在命令行中如何传递参数.wmv     32.82MB
+│  │      15-常量.wmv     79.45MB
+│  │      16-进制转换.wmv     86.84MB
+│  │      17-PHP中的进制转换.wmv     18.75MB
+│  │      2-作业.wmv     10.27MB
+│  │      3-zend的安装.wmv     7.47MB
+│  │      4-解析型和编译型.wmv     29.93MB
+│  │      5-EditPlus介绍.wmv     24.39MB
+│  │      6-PHP四种定界符.wmv     27.2MB
+│  │      7-PHP可以省略结束定界符.wmv     14.21MB
+│  │      8-解决页面显示乱码问题.wmv     9.88MB
+│  │      9-PHP中的输出语句.wmv     40.73MB
+│  │
+│  ├─day3_视频
+│  │      1-回顾.wmv     112.1MB
+│  │      10-其他数据类型和bool的转换规律.wmv     26.55MB
+│  │      11-算术运算符.wmv     24.88MB
+│  │      12-关系运算符和逻辑运算符.wmv     34.54MB
+│  │      13-字符串连接符，赋值运算符，三元运算符.wmv     8.11MB
+│  │      14-注释.wmv     8.38MB
+│  │      15-单分支和双分支.wmv     39.74MB
+│  │      16-判断闰年.wmv     56.32MB
+│  │      2-浮点数.wmv     51.13MB
+│  │      3-布尔，字符串，转义字符.wmv     77.42MB
+│  │      4-ASC码、字符串定界符.wmv     103.78MB
+│  │      5-数组.wmv     88.7MB
+│  │      6-数组的分类.wmv     46.22MB
+│  │      7-特殊类型.wmv     13.42MB
+│  │      8-数据类型自动转换.wmv     32.42MB
+│  │      9-强制类型转换.wmv     5.31MB
+│  │
+│  ├─day4_视频
+│  │      1-回顾.wmv     92.12MB
+│  │      10-foreach.wmv     31.89MB
+│  │      11-替代语法的总结.wmv     4.46MB
+│  │      12-break和continue.wmv     52.49MB
+│  │      13-翻转数组.wmv     10.95MB
+│  │      14-九九乘法表.wmv     16.29MB
+│  │      2-多分支.wmv     22.26MB
+│  │      3-判断成绩.wmv     15.21MB
+│  │      4-else if是嵌套if语句.wmv     30.69MB
+│  │      5-switch.wmv     22.52MB
+│  │      6-PHP页面解析过程.wmv     48.64MB
+│  │      7-switch-case更改字体颜色、读懂颜色值.wmv     48.63MB
+│  │      8-for循环.wmv     101.9MB
+│  │      9-while和do-while.wmv     23.15MB
+│  │
+│  ├─day5_视频
+│  │      1-回顾.wmv     67.2MB
+│  │      10-变量的生命周期.wmv     2.42MB
+│  │      11-静态变量.wmv     35.54MB
+│  │      12-匿名函数.wmv     43.38MB
+│  │      13-递归.wmv     35.35MB
+│  │      14-函数的代理调用.wmv     36.48MB
+│  │      2-作业.wmv     60.17MB
+│  │      2-作业：计算器.wmv     26.92MB
+│  │      3-函数、可变函数、匿名函数.wmv     35.12MB
+│  │      4-create_function().wmv     16.09MB
+│  │      5-function_exists().wmv     4.18MB
+│  │      6-函数传递地址.wmv     25.35MB
+│  │      7-函数的参数.wmv     52.69MB
+│  │      8-返回值.wmv     24.51MB
+│  │      9-变量的作用域.wmv     69.85MB
+│  │
+│  ├─day6_视频
+│  │      1-回顾.wmv     80.49MB
+│  │      10-include和require.wmv     119.92MB
+│  │      11-终止脚本执行、return.wmv     42.21MB
+│  │      12-sleep.wmv     2.69MB
+│  │      13-foreach遍历.wmv     73.28MB
+│  │      14-数组指针+each().wmv     65.4MB
+│  │      15-list.wmv     13.3MB
+│  │      16-数组复制的时候指针的处理，写时复制.wmv     57.08MB
+│  │      17-思考题.wmv     17.8MB
+│  │      18-思考题.wmv     35.88MB
+│  │      2-函数预加载、__FUNCTION__.wmv     15.21MB
+│  │      3-作业：打印颜色面板.wmv     44.59MB
+│  │      4-作业：打印图形.wmv     44.03MB
+│  │      5-作业：定义一个函数求数组中的最大值和最小值.wmv     15.02MB
+│  │      6-作业：因素分解.wmv     10.71MB
+│  │      7-作业：求最大公约数和最小公倍数.wmv     24.82MB
+│  │      8-作业：猴子吃桃子.wmv     6.01MB
+│  │      9-包含文件.wmv     118.12MB
+│  │
+│  └─day7_视频
+│          1-回顾.wmv     82.55MB
+│          10-字符串操作函数.wmv     147.65MB
+│          11-array_seach().wmv     13.62MB
+│          12-多字节处理和编码转换.wmv     59.34MB
+│          2-作业.wmv     26.6MB
+│          3-操作数组的函数.wmv     84.22MB
+│          4-操作数组键值函数.wmv     55.61MB
+│          5-字符串连接和字符串分割函数.wmv     10.95MB
+│          6-数组的并、差、交集.wmv     34.55MB
+│          7-使用回调函数的函数.wmv     65.44MB
+│          8-栈和队列的函数.wmv     42.65MB
+│          9-数组排序的函数.wmv     60.16MB
+│
+├─04-MySql数据库
+│  ├─6天带你玩转mysql课程配套学习资料
+│  │  ├─mysql第一天
+│  │  │      sql.sql     4KB
+│  │  │      画图0926.xls     15KB
+│  │  │      笔记0926.doc     761KB
+│  │  │
+│  │  ├─mysql第三天
+│  │  │      0929.sql     7KB
+│  │  │      笔记0929.doc     842KB
+│  │  │
+│  │  ├─mysql第二天
+│  │  │      0928.sql     5KB
+│  │  │      homework.php     1KB
+│  │  │      笔记0928.doc     717KB
+│  │  │
+│  │  ├─mysql第五天
+│  │  │      1007.sql     7KB
+│  │  │      1007笔记.doc     911KB
+│  │  │
+│  │  ├─mysql第六天
+│  │  │      1008.sql     7KB
+│  │  │      1008画图.xls     13KB
+│  │  │      1008笔记.doc     651KB
+│  │  │
+│  │  └─mysql第四天
+│  │      │  0930.sql     1KB
+│  │      │  php_enhanced_zh.chm     28.72MB
+│  │      │  笔记0930.doc     1.94MB
+│  │      │
+│  │      └─code
+│  │          │  demo01_php_mysql.php     1KB
+│  │          │  demo02_php_write.php     2KB
+│  │          │  demo03_php_read.php     1KB
+│  │          │  demo04_display.html     2KB
+│  │          │
+│  │          └─project
+│  │              │  frame.php     553B
+│  │              │  index.php     1KB
+│  │              │  login.php     2KB
+│  │              │  project.sql     679B
+│  │              │
+│  │              ├─public
+│  │              │      mysql.php     1KB
+│  │              │      public.php     404B
+│  │              │
+│  │              └─templates
+│  │                      frameset.html     242B
+│  │                      index.html     2KB
+│  │                      login.html     1004B
+│  │                      main.html     30B
+│  │                      menu.html     254B
+│  │                      top.html     21B
+│  │
+│  ├─mysql第一天
+│  │  └─video
+│  │          01数据库课程介绍.wmv     8.51MB
+│  │          02数据库(基础知识).wmv     21.72MB
+│  │          03数据库(关系型数据库).wmv     44.41MB
+│  │          04数据库(关系型数据库关键字说明).wmv     14.94MB
+│  │          05数据库(SQL).wmv     14.14MB
+│  │          06数据库(mysql数据库).wmv     19.78MB
+│  │          07数据库(mysql服务器数据对象).wmv     12.18MB
+│  │          08SQL基本操作(新增数据库).wmv     41.62MB
+│  │          09SQL基本操作(查看数据库).wmv     20.47MB
+│  │          10SQL基本操作(更新数据库).wmv     10.21MB
+│  │          11SQL基本操作(删除数据库).wmv     12.07MB
+│  │          12SQL基本操作(新增数据表).wmv     32.57MB
+│  │          13SQL基本操作(查看数据表).wmv     24.71MB
+│  │          14SQL基本操作(更新数据表).wmv     46.34MB
+│  │          15SQL基本操作(删除数据表).wmv     8.99MB
+│  │          16SQL基本操作(新增数据).wmv     16.51MB
+│  │          17SQL基本操作(查看数据).wmv     7.6MB
+│  │          18SQL基本操作(更新数据).wmv     11.34MB
+│  │          19SQL基本操作(删除数据).wmv     4.55MB
+│  │          20中文数据问题.wmv     81.86MB
+│  │          21校对集.wmv     46.65MB
+│  │          22乱码问题.wmv     24.27MB
+│  │
+│  ├─mysql第三天
+│  │  └─video
+│  │          01回顾.wmv     12.13MB
+│  │          02列属性(增加主键).wmv     39.14MB
+│  │          03列属性(主键约束).wmv     15.15MB
+│  │          04列属性(主键删除).wmv     7.47MB
+│  │          05列属性(主键分类).wmv     8.09MB
+│  │          06列属性(新增自增长).wmv     20.39MB
+│  │          07列属性(自增长使用).wmv     16.54MB
+│  │          08列属性(修改自增长).wmv     35.25MB
+│  │          09列属性(删除自增长).wmv     8.59MB
+│  │          10列属性(增加唯一键).wmv     27.72MB
+│  │          11列属性(唯一键约束).wmv     10.01MB
+│  │          12列属性(删除唯一键).wmv     10.12MB
+│  │          13索引简单介绍.wmv     22.62MB
+│  │          14关系(一对一).wmv     30.12MB
+│  │          15关系(一对多).wmv     19.77MB
+│  │          16关系(多对多).wmv     29.65MB
+│  │          17范式(基础).wmv     18.52MB
+│  │          18范式(1NF).wmv     31.9MB
+│  │          19范式(2NF).wmv     36.63MB
+│  │          20范式(3NF).wmv     32.77MB
+│  │          21范式(逆规范化).wmv     23.51MB
+│  │          22高级数据新增(主键冲突).wmv     33.41MB
+│  │          23高级数据新增(蠕虫复制).wmv     29.26MB
+│  │          24高级数据更新(限制记录).wmv     9.03MB
+│  │          25高级数据删除(删除数据).wmv     21.99MB
+│  │          26高级数据查询(select选项).wmv     17.03MB
+│  │          27高级数据查询(字段别名).wmv     15.14MB
+│  │          28高级数据查询(数据源).wmv     21.49MB
+│  │          29高级数据查询(where子句).wmv     36.82MB
+│  │          30高级数据查询(groupby子句).wmv     81.36MB
+│  │          31高级数据查询(having子句).wmv     22.89MB
+│  │          32高级数据查询(orderby子句).wmv     13.73MB
+│  │          33高级数据查询(limit子句).wmv     21.38MB
+│  │
+│  ├─mysql第二天
+│  │  └─video
+│  │          01回顾.wmv     19.79MB
+│  │          02作业(站点统计).wmv     89.43MB
+│  │          03列类型(整型).wmv     82.01MB
+│  │          04列类型(浮点型).wmv     38.45MB
+│  │          05列类型(定点型).wmv     22.07MB
+│  │          06列类型(时间日期类型).wmv     41.94MB
+│  │          07列类型(定长+变长字符串).wmv     59.06MB
+│  │          08列类型(文本字符串).wmv     5.98MB
+│  │          09列类型(枚举).wmv     48.66MB
+│  │          10列类型(集合).wmv     51.52MB
+│  │          11列类型(mysql记录长度).wmv     43.22MB
+│  │          12列属性(空属性).wmv     21.13MB
+│  │          13列属性(列描述).wmv     11.9MB
+│  │          14列属性(默认值).wmv     19.03MB
+│  │
+│  ├─mysql第五天
+│  │  └─video
+│  │          01回顾.wmv     20.19MB
+│  │          02外键(新增).wmv     41.92MB
+│  │          03外键(删除).wmv     18.03MB
+│  │          04外键(默认约束).wmv     23.41MB
+│  │          05外键(条件).wmv     16.01MB
+│  │          06外键(约束模式).wmv     51.01MB
+│  │          07联合查询(基本语法).wmv     17.71MB
+│  │          08联合查询(意义).wmv     13.65MB
+│  │          09联合查询(orderby).wmv     13.21MB
+│  │          10子查询(分类).wmv     15.49MB
+│  │          11子查询(标量子查询).wmv     15.01MB
+│  │          12子查询(列子查询).wmv     34.94MB
+│  │          13子查询(行子查询).wmv     19.14MB
+│  │          14子查询(表子查询).wmv     26.56MB
+│  │          15子查询(exists子查询).wmv     16.11MB
+│  │          16视图(创建).wmv     23.4MB
+│  │          17视图(查看).wmv     18.69MB
+│  │          18视图(使用).wmv     8.28MB
+│  │          19视图(修改).wmv     8.35MB
+│  │          20视图(删除).wmv     6.91MB
+│  │          21视图(意义).wmv     16.17MB
+│  │          22视图(视图操作[新增]).wmv     34.82MB
+│  │          23视图(视图操作[删除]).wmv     10.62MB
+│  │          24视图(视图操作[更新]).wmv     28.31MB
+│  │          25视图(算法).wmv     29.49MB
+│  │          26数据备份与还原(数据表备份[存储引擎]).wmv     56.45MB
+│  │          27数据备份与还原(单表数据备份).wmv     57.26MB
+│  │          28数据备份与还原(SQL备份).wmv     54.63MB
+│  │          29数据备份与还原(增量备份).wmv     7.72MB
+│  │
+│  ├─mysql第六天
+│  │  └─video
+│  │          01回顾.wmv     32.95MB
+│  │          02事务(手动操作).wmv     58.7MB
+│  │          03事务(原理).wmv     23.41MB
+│  │          04事务(回滚点).wmv     28.91MB
+│  │          05事务(自动事务).wmv     19.4MB
+│  │          06事务(特性).wmv     36.69MB
+│  │          07变量(系统变量).wmv     42.77MB
+│  │          08变量(自定义变量).wmv     32.7MB
+│  │          09触发器(基本了解).wmv     14.91MB
+│  │          10触发器(创建).wmv     34.72MB
+│  │          11触发器(查看).wmv     16.15MB
+│  │          12触发器(使用).wmv     17.43MB
+│  │          13触发器(删除).wmv     5.13MB
+│  │          14触发器(记录).wmv     29.95MB
+│  │          15代码执行结构(if分支).wmv     27.29MB
+│  │          16代码执行结构(while循环).wmv     13.77MB
+│  │          17函数(系统函数).wmv     50.89MB
+│  │          18函数(定义函数).wmv     12.51MB
+│  │          19函数(查看函数).wmv     15.35MB
+│  │          20函数(删除).wmv     3.37MB
+│  │          21函数(参数).wmv     19.89MB
+│  │          22函数(作用域).wmv     24.18MB
+│  │          23存储过程(创建).wmv     9.32MB
+│  │          24存储过程(查看).wmv     8.28MB
+│  │          25存储过程(调用).wmv     5.62MB
+│  │          26存储过程(删除).wmv     3.94MB
+│  │          27存储过程(参数类型).wmv     52.36MB
+│  │
+│  └─mysql第四天
+│      └─video
+│              01回顾.wmv     24.36MB
+│              02连接查询(了解).wmv     12.46MB
+│              03连接查询(交叉连接).wmv     15.98MB
+│              04连接查询(内连接).wmv     37.12MB
+│              05连接查询(外连接).wmv     29.1MB
+│              06连接查询(自然连接).wmv     25.75MB
+│              07PHP操作mysql(准备).wmv     14.02MB
+│              08PHP操作mysql(基本操作).wmv     87.69MB
+│              09PHP操作mysql(写操作).wmv     75.45MB
+│              10PHP操作mysql(读操作).wmv     42.1MB
+│              11综合应用(登录功能).wmv     155.83MB
+│              12综合应用(首页显示).wmv     36.13MB
+│              13综合应用(分页功能).wmv     52.84MB
+│
+├─04.京东实战
+│  ├─01.京东项目第一天
+│  │  └─01.JD第一天
+│  │          01.JD第一天.rar     8.83MB
+│  │          JD第一天上午.wmv     210.43MB
+│  │          JD第一天下午.wmv     228.58MB
+│  │
+│  ├─02.京东项目第二天
+│  │  └─02.JD第二天
+│  │          02.JD第二天.rar     31.67MB
+│  │          JD第二天上午.wmv     247.95MB
+│  │          JD第二天下午.wmv     199.68MB
+│  │
+│  └─03.京东项目第三天
+│      └─03.JD第三天
+│              03.JD第三天.rar     2.34MB
+│              京东第三天上午-1.wmv     152.2MB
+│              京东第三天上午-2.wmv     194.56MB
+│              京东第三天下午.wmv     265.03MB
+│
+├─05-核心编程视频教程
+│  │  PHP核心编程笔记+源码.zip     25.55MB
+│  │
+│  ├─PHP核心编程1
+│  │      1-dreamweaver站点的建立.wmv     23.34MB
+│  │      10-删除笑话.wmv     26.32MB
+│  │      11-分页.wmv     86.15MB
+│  │      2-测试数据导入.wmv     47.51MB
+│  │      3-连接数据库的三种方法.wmv     42.7MB
+│  │      4-连接数据库.wmv     78.6MB
+│  │      5-取出数据，获取笑话的标题.wmv     113.51MB
+│  │      6-获取笑话内容.wmv     41.19MB
+│  │      7-显示后台管理页面.wmv     90.03MB
+│  │      8-添加笑话.wmv     71.68MB
+│  │      9-修改笑话.wmv     66.81MB
+│  │
+│  ├─PHP核心编程10
+│  │      1-回顾.wmv     38.4MB
+│  │      10-显示商品列表和封装万能的查询类.wmv     99.33MB
+│  │      11-添加商品类别.wmv     25.52MB
+│  │      12-更新商品类别.wmv     79.56MB
+│  │      13-删除商品类别.wmv     25.74MB
+│  │      2-多级联动分析.wmv     73.36MB
+│  │      3-最基本的二级联动数据取出.wmv     31.5MB
+│  │      4-二级联动一次取出所有数据.wmv     17.09MB
+│  │      5-递归获取无限级联动数据.wmv     56.75MB
+│  │      6-封装一个万能的insert语句.wmv     38.8MB
+│  │      7-封装一个万能的update语句.wmv     53.79MB
+│  │      8-将万能的insert语句封装到项目中.wmv     55.71MB
+│  │      9-将万能的update和del语句封装到项目中.wmv     17.26MB
+│  │
+│  ├─PHP核心编程11
+│  │      1-回顾.wmv     12.81MB
+│  │      10-添加商品——将页面连通起来.wmv     49.53MB
+│  │      11-在项目中封装Upload类.wmv     170.41MB
+│  │      12-在项目中封装Image类.wmv     120.19MB
+│  │      13-显示商品列表.wmv     25.19MB
+│  │      2-表单域和表单的enctype属性.wmv     39.29MB
+│  │      3-$_FILES.wmv     32.92MB
+│  │      4-$_FILES[]['error']、与上传有关的配置.wmv     66.32MB
+│  │      5-最简单的文件上传1.wmv     20.65MB
+│  │      5-最简单的文件上传2.wmv     9.55MB
+│  │      6-文件上传优化.wmv     164.28MB
+│  │      7-多文件上传.wmv     31.87MB
+│  │      8-生成缩略图.wmv     89.58MB
+│  │      9-等比缩略图.wmv     47.92MB
+│  │
+│  ├─PHP核心编程12
+│  │      1-回顾.wmv     29.58MB
+│  │      10-创建文件夹.wmv     18.17MB
+│  │      11-删除、重命名、移动文件夹.wmv     18.94MB
+│  │      12-打开文件夹，读文件夹.wmv     29.79MB
+│  │      13-file_put_contents()、file_get_contents().wmv     15.72MB
+│  │      14-文件操作.wmv     75.9MB
+│  │      15-诗歌分页.wmv     10.36MB
+│  │      16-新闻分页.wmv     74.39MB
+│  │      17-动态转静态.wmv     23.56MB
+│  │      18-PDO介绍.wmv     104.53MB
+│  │      19-预处理语句.wmv     80.84MB
+│  │      2-作业：修改商品.wmv     124.54MB
+│  │      20-异常处理.wmv     47.69MB
+│  │      21-在项目中使用异常.wmv     14.27MB
+│  │      3-作业：删除商品.wmv     15.09MB
+│  │      4-作业：分页.wmv     38.75MB
+│  │      5-错误处理介绍.wmv     61.83MB
+│  │      6-显示错误报告.wmv     74.28MB
+│  │      7-将错误报告显示在日志中.wmv     34.33MB
+│  │      8-用户自定义错误处理.wmv     32.65MB
+│  │      9-在项目中封装错误处理.wmv     26.98MB
+│  │
+│  ├─PHP核心编程2
+│  │      1-OOP介绍.wmv     56.49MB
+│  │      10-模拟垃圾回收机制销毁变量.wmv     23.42MB
+│  │      11-继承、调用父类的构造函数和parent关键字.wmv     51.95MB
+│  │      12-protected可以在这个继承链上访问.wmv     14.87MB
+│  │      13-子类给父类的构造函数赋值.wmv     11.28MB
+│  │      14-$this.wmv     9.08MB
+│  │      15-PHP不允许多重继承.wmv     7.3MB
+│  │      2-在PHP中实现类.wmv     27.34MB
+│  │      3-属性的操作.wmv     42.87MB
+│  │      4-方法的操作.wmv     11.54MB
+│  │      5-对象、类、方法、属性在内存中的分布.wmv     28.66MB
+│  │      6-访问修饰符.wmv     43.07MB
+│  │      7-封装.wmv     10.08MB
+│  │      8-构造函数.wmv     15.89MB
+│  │      9-析构函数.wmv     31.7MB
+│  │
+│  ├─PHP核心编程3
+│  │      1-回顾.wmv     45.14MB
+│  │      10-接口.wmv     41.26MB
+│  │      11-类常量.wmv     11.82MB
+│  │      12-参数约束.wmv     26.06MB
+│  │      13-自动加载类.wmv     41.29MB
+│  │      14-将类的地址映射到数组中加载.wmv     15.31MB
+│  │      15-利用类名规则加载类.wmv     16.24MB
+│  │      2-多态.wmv     49.5MB
+│  │      3-私有属性继承和重写的问题.wmv     18.17MB
+│  │      4-static.wmv     26.34MB
+│  │      5-self.wmv     57.67MB
+│  │      6-静态成员可以被继承.wmv     4.96MB
+│  │      7-确定当前对象.wmv     17.15MB
+│  │      8-final.wmv     14.79MB
+│  │      9-abstract.wmv     31.63MB
+│  │
+│  ├─PHP核心编程4
+│  │      1-回顾.wmv     34.65MB
+│  │      10-__call()、__callstatic().wmv     12.43MB
+│  │      11-迭代器.wmv     47MB
+│  │      12-数组的序列化与反序列化.wmv     20.26MB
+│  │      13-对象的序列化和反序列化.wmv     27.63MB
+│  │      14-单例模式实现连接数据库.wmv     69.15MB
+│  │      15-从表中获取所有数据.wmv     22.59MB
+│  │      16-获取记录的第一行，获取记录的第一行第一列.wmv     28.68MB
+│  │      17-冒泡法排序.wmv     33.54MB
+│  │      18-递归排序.wmv     23.55MB
+│  │      2-clone与__clone().wmv     27.03MB
+│  │      3-单例模式.wmv     36.33MB
+│  │      4-项目层面的单例模式.wmv     10.84MB
+│  │      5-工厂模式.wmv     11.19MB
+│  │      6-策略模式.wmv     11.57MB
+│  │      7-__tostring().wmv     7.65MB
+│  │      8-__invoke().wmv     5.97MB
+│  │      9-__set()、__get()、__unset()、__isset().wmv     28.02MB
+│  │
+│  ├─PHP核心编程5
+│  │      1-回顾.wmv     27.95MB
+│  │      2-MVC思想.wmv     33.04MB
+│  │      3-MVC演化一.wmv     71.62MB
+│  │      4-MVC演化二.wmv     19.48MB
+│  │      5-MVC演化三.wmv     20.83MB
+│  │      6-MVC演化四.wmv     17.9MB
+│  │      7-MVC演化五.wmv     37.19MB
+│  │      8-删除商品.wmv     30.44MB
+│  │
+│  ├─PHP核心编程6
+│  │      1-回顾.wmv     10.42MB
+│  │      2-netbeans介绍.wmv     50.61MB
+│  │      3-框架目录结构.wmv     28.11MB
+│  │      4-定义路径常量、加载配置文件，定制路由.wmv     135.8MB
+│  │      5-自动加载类.wmv     45MB
+│  │      6-完善框架.wmv     24.59MB
+│  │      7-完善删除商品功能.wmv     141.34MB
+│  │
+│  ├─PHP核心编程7
+│  │      1-回顾.wmv     26.41MB
+│  │      10-封装session入库.wmv     42.88MB
+│  │      2-cookie介绍.wmv     80.53MB
+│  │      3-设置cookie.wmv     117.51MB
+│  │      4-cookie的有效目录和支持子域名.wmv     69.24MB
+│  │      5-session介绍和session配置.wmv     198.29MB
+│  │      6-session入库.wmv     79.54MB
+│  │      7-垃圾回收.wmv     21.48MB
+│  │      8-禁用cookie.wmv     51.21MB
+│  │      9-思考题.wmv     23.93MB
+│  │
+│  ├─PHP核心编程8
+│  │      1-回顾.wmv     43.69MB
+│  │      2-ecshop安装.wmv     71.19MB
+│  │      3-用户登录界面实现.wmv     164.62MB
+│  │      4-登录的业务逻辑.wmv     55.09MB
+│  │      5-防止SQL注入.wmv     49.04MB
+│  │      6-防止翻墙.wmv     48.65MB
+│  │      7-更新登陆信息.wmv     24.88MB
+│  │      8-记住登陆信息.wmv     55.26MB
+│  │      9-退出和安全退出.wmv     44.29MB
+│  │
+│  └─PHP核心编程9
+│          1-回顾.wmv     25.88MB
+│          10-ob_clean()和text-transform.wmv     61.86MB
+│          2-验证码介绍.wmv     25.9MB
+│          3-创建最简单的图片.wmv     60.04MB
+│          4-imagefill().wmv     12.31MB
+│          5-自定义验证码.wmv     37.65MB
+│          6-模拟ecshop验证码.wmv     25.79MB
+│          7-验证码改错.wmv     77.78MB
+│          8-中文验证码.wmv     80.25MB
+│          9-在项目中封装验证码.wmv     69.99MB
+│
+├─06-BBS论坛系统项目实践
+│  ├─day1
+│  │  │  MySQL.docx     5.32MB
+│  │  │  web典型应用.docx     617KB
+│  │  │
+│  │  ├─code
+│  │  │      1danxuan.html     580B
+│  │  │      1danxuan.php     41B
+│  │  │      1duoxuan.html     980B
+│  │  │      1duoxuan.php     486B
+│  │  │      1test.php     125B
+│  │  │      bbs.rar     146KB
+│  │  │      MySQL.sql     29KB
+│  │  │
+│  │  └─video
+│  │          昨日回顾.avi     60.71MB
+│  │          第1讲 单选项表单和多选项表单.avi     173.34MB
+│  │          第2讲 项目流程简介.avi     68.74MB
+│  │          第3讲 安装ecshop.avi     126.83MB
+│  │          第40讲 MySQL错误调试函数和封装数据库连接函数.avi     164.88MB
+│  │          第41讲 PHP实现增删改查.avi     130.37MB
+│  │          第42讲 数据的备份.avi     170.96MB
+│  │          第43讲 用户权限管理.avi     225.91MB
+│  │
+│  ├─day2
+│  │  │  login.html     3KB
+│  │  │  web典型应用.docx     2.79MB
+│  │  │
+│  │  ├─code
+│  │  │      bbs.rar     154KB
+│  │  │
+│  │  └─video
+│  │          昨日回顾.avi     88.33MB
+│  │          第10讲 项目应用七：完成发帖功能.avi     175.54MB
+│  │          第11讲 项目应用八：完成显示帖子内容页的功能.avi     110.27MB
+│  │          第12讲 项目应用九：完成回复功能（上）.avi     86.49MB
+│  │          第4讲 项目应用一：初始化项目开发环境.avi     162.82MB
+│  │          第5讲 项目应用二：创建相关的数据表.avi     40.93MB
+│  │          第6讲 项目应用三：定义项目初始化文件和入口文件.avi     70.5MB
+│  │          第7讲 项目应用四：完成注册功能.avi     210.58MB
+│  │          第8讲 项目应用五：封装数据库连接文件.avi     64.1MB
+│  │          第9讲 项目应用五：完成登录功能.avi     74.84MB
+│  │
+│  ├─day3
+│  │  │  web.xlsx     10KB
+│  │  │  web典型应用.docx     4.91MB
+│  │  │
+│  │  ├─code
+│  │  │      16upload.html     661B
+│  │  │      16upload.php     364B
+│  │  │      17upload.html     661B
+│  │  │      17upload.php     1KB
+│  │  │      18test.html     659B
+│  │  │      18test.php     571B
+│  │  │      bbs.rar     158KB
+│  │  │      upload.php     2KB
+│  │  │
+│  │  └─video
+│  │          昨日回顾.avi     76.12MB
+│  │          第13讲 项目应用十：完成回复功能（下）.avi     206.84MB
+│  │          第14讲 项目应用十一：完成list_father.php中的分页功能.avi     239.02MB
+│  │          第15讲 项目应用十二：完善show.php中的分页功能.avi     107.8MB
+│  │          第16讲 文件上传.avi     209.18MB
+│  │          第17讲 验证上传的文件.avi     222.71MB
+│  │          第18讲 封装文件上传函数.avi     163.57MB
+│  │
+│  ├─day4
+│  │  │  web典型应用.docx     6.97MB
+│  │  │
+│  │  ├─code
+│  │  │      19cookie1.php     112B
+│  │  │      19cookie2.php     173B
+│  │  │      20cookie1.php     655B
+│  │  │      20cookie2.php     209B
+│  │  │      21anli.php     622B
+│  │  │      21cookie1.php     169B
+│  │  │      21cookie2.php     43B
+│  │  │      24session1.php     268B
+│  │  │      24session2.php     73B
+│  │  │      25get.php     62B
+│  │  │      25session.php     558B
+│  │  │      25test1.php     139B
+│  │  │      25test2.php     111B
+│  │  │      25test3.php     150B
+│  │  │      25test4.php     73B
+│  │  │      bbs.rar     159KB
+│  │  │
+│  │  └─video
+│  │          昨日回顾.avi     120.35MB
+│  │          第19讲 COOKIE技术初步.avi     119.88MB
+│  │          第20讲 COOKIE的属性.avi     250.33MB
+│  │          第21讲 COOKIE的其他语法.avi     58.22MB
+│  │          第22讲 项目应用十三：实现7天免登录功能.avi     57.26MB
+│  │          第23讲 项目应用十四：完成注销功能.avi     38.42MB
+│  │          第24讲 SESSION技术初步.avi     119.52MB
+│  │          第25讲 SESSION的属性及其他语法.avi     245.59MB
+│  │          第26讲 项目应用十五：解决以前全部默认用游客发帖和回复的问题.avi     84.11MB
+│  │
+│  ├─day5
+│  │  └─video
+│  │          昨日回顾.avi     99.93MB
+│  │          第27讲 项目应用十六：完善7天免登录和注销功能.avi     91.15MB
+│  │          第28讲 项目应用十七：防止脚本注入.avi     138.43MB
+│  │          第29讲 项目应用十九：完成头像上传功能.avi     295.14MB
+│  │          第29讲 项目应用十八：完成引用回复功能(续).avi     182.79MB
+│  │          第29讲 项目应用十八：完成引用回复功能.avi     214.35MB
+│  │          第30讲 项目应用十九：完成上传头像的功能.avi     108.79MB
+│  │          第32讲 项目应用二十一：在init.php中封装判断是否登录的函数.avi     34.94MB
+│  │
+│  ├─day6
+│  │  │  web典型应用.docx     9.99MB
+│  │  │
+│  │  ├─code
+│  │  │      34dir.php     971B
+│  │  │      34other.php     476B
+│  │  │      35bianli.php     641B
+│  │  │      36file.php     409B
+│  │  │      36read.php     236B
+│  │  │      36write.php     231B
+│  │  │      37read.php     483B
+│  │  │      37write.php     544B
+│  │  │      38other.php     219B
+│  │  │
+│  │  └─video
+│  │          昨日回顾.avi     81.71MB
+│  │          第33讲 项目应用二十二：完成搜索功能.avi     98.7MB
+│  │          第34讲 目录（文件夹）的基本操作.avi     213.26MB
+│  │          第35讲 递归遍历目录.avi     97.87MB
+│  │          第36讲 文件概述及相关操作.avi     176.98MB
+│  │          第37讲 PHP5以前的文件操作.avi     189.99MB
+│  │          第38讲 其他的文件操作函数.avi     35.27MB
+│  │          第39讲 项目应用二十三：上传新头像时删除旧头像.avi     44.63MB
+│  │
+│  ├─day7
+│  │  │  web典型应用.docx     11.02MB
+│  │  │
+│  │  ├─code
+│  │  │      44get.php     850B
+│  │  │      45post.php     1KB
+│  │  │      46test.php     49B
+│  │  │      47.php     188B
+│  │  │      47.txt     4B
+│  │  │      47xiazai.html     177B
+│  │  │      47xiazai.php     286B
+│  │  │
+│  │  └─video
+│  │          昨日回顾.avi     66.99MB
+│  │          第40讲 TCP IP协议简介.avi     90.88MB
+│  │          第41讲 HTTP协议的特点与组成.avi     51.33MB
+│  │          第42讲 HTTP请求协议.avi     174.42MB
+│  │          第43讲 客户端模拟HTTP请求.avi     90.41MB
+│  │          第44讲 PHP模拟HTTP的GET请求.avi     152.46MB
+│  │          第45讲 PHP模拟HTTP的POST请求.avi     113.36MB
+│  │          第46讲 HTTP响应协议.avi     91.37MB
+│  │          第47讲 PHP模拟HTTP响应.avi     158.42MB
+│  │
+│  └─day8
+│      │  web典型应用.docx     12.22MB
+│      │
+│      ├─code
+│      │      49gd.php     584B
+│      │      50captcha.php     1KB
+│      │      52cncaptcha.php     2KB
+│      │      bbs.rar     827KB
+│      │      STHUPO.TTF     3.54MB
+│      │
+│      └─video
+│              昨日回顾.avi     56.64MB
+│              第48讲 验证码简介.avi     30.9MB
+│              第49讲 GD图片的制作.avi     135.6MB
+│              第50讲 制作验证码.avi     176.67MB
+│              第51讲 项目应用二十四：实现验证码功能.avi     90.9MB
+│              第52讲 中文验证码的制作.avi     146.83MB
+│              第53讲 项目应用二十五：完善MySQLDB.php文件.avi     123.99MB
+│              第54讲 项目应用二十六：封装分页函数.avi     147.18MB
+│
+├─07-PHP面向对象
+│  ├─day1-video
+│  │      第1讲 面向对象编程思想简介.wmv     112.77MB
+│  │      第2讲 面向对象的基本概念.wmv     119.54MB
+│  │      第3讲 方法中的$this关键字.wmv     73.14MB
+│  │      第4讲 使用OOP完成报名过程.wmv     70.55MB
+│  │      第5讲 构造方法.wmv     63.02MB
+│  │      第6讲 析构方法.wmv     69.64MB
+│  │      第7讲 对象的传值与克隆.wmv     82.54MB
+│  │      第8讲 MySQLDB类初步.wmv     79.82MB
+│  │
+│  ├─day2-video
+│  │      昨日回顾.wmv     47.05MB
+│  │      第10讲 静态成员——静态方法.wmv     47.4MB
+│  │      第11讲 类常量.wmv     35.06MB
+│  │      第12讲 类文件的自动加载机制.wmv     130.96MB
+│  │      第13讲 对象的序列化与反序列化.wmv     163.14MB
+│  │      第14讲 类的继承.wmv     88.88MB
+│  │      第15讲 override重写.wmv     90.52MB
+│  │      第9讲 静态成员——静态属性.wmv     62.88MB
+│  │
+│  ├─day3-video
+│  │      昨日回顾.wmv     47.66MB
+│  │      第16讲 访问控制修饰符.wmv     49.94MB
+│  │      第17讲 提高MySQLDB类的封装性和功能.wmv     130.9MB
+│  │      第18讲 final最终类和最终方法.wmv     39.49MB
+│  │      第19讲 abstract抽象类.wmv     42.93MB
+│  │      第20讲 interface接口.wmv     122.79MB
+│  │      第21讲 overload重载简介.wmv     23.47MB
+│  │      第22讲 属性重载（上）.wmv     93.42MB
+│  │      第23讲 属性重载（下）.wmv     43.73MB
+│  │      第24讲 方法重载.wmv     61.8MB
+│  │
+│  ├─day4-video
+│  │      昨日回顾.wmv     31.73MB
+│  │      第25讲 魔术方法与魔术常量.wmv     79.81MB
+│  │      第26讲 后期静态绑定.wmv     46.46MB
+│  │      第27讲 单例模式.wmv     63.43MB
+│  │      第28讲 MySQLDB类的单例模式.wmv     41.18MB
+│  │      第29讲 工厂模式.wmv     44.81MB
+│  │      第30讲 对象的一般遍历.wmv     25.88MB
+│  │      第31讲 对象的自定义遍历.wmv     95.93MB
+│  │      第32讲 类型约束.wmv     37.24MB
+│  │      第33讲 类和对象的相关函数.wmv     42.75MB
+│  │      第34讲 命名空间初步.wmv     63.97MB
+│  │      第35讲 空间成员和子空间.wmv     36.11MB
+│  │      第36讲 空间成员的访问.wmv     35.73MB
+│  │      第37讲 空间引入.wmv     49.03MB
+│  │      第38讲 全局空间.wmv     14.59MB
+│  │
+│  └─面向对象源码+笔记+模版
+│      ├─day1源码笔记
+│      │  │  PHP面向对象.docx     2.05MB
+│      │  │  PHP面向对象.vsdx     58KB
+│      │  │
+│      │  └─code
+│      │          2class.php     559B
+│      │          2test.php     55B
+│      │          3class.php     729B
+│      │          3this.php     713B
+│      │          4baoming.php     2KB
+│      │          5construct.php     752B
+│      │          5test.php     1KB
+│      │          6destruct.php     704B
+│      │          6test.php     590B
+│      │          7chuanzhi.php     542B
+│      │          7clone.php     768B
+│      │          8test.php     263B
+│      │          MySQLDB.class.php     2KB
+│      │
+│      ├─day2源码笔记
+│      │  │  PHP面向对象.docx     4.46MB
+│      │  │  PHP面向对象.vsdx     75KB
+│      │  │
+│      │  └─code
+│      │          10static.php     1KB
+│      │          10test.php     463B
+│      │          11const.php     467B
+│      │          12autoload.php     322B
+│      │          12obj.php     949B
+│      │          12register.php     1KB
+│      │          12test.php     160B
+│      │          12test1.php     346B
+│      │          12test2.php     229B
+│      │          13.txt     63B
+│      │          13obj.txt     167B
+│      │          13objread.php     593B
+│      │          13objwrite.php     530B
+│      │          13read.php     143B
+│      │          13write.php     255B
+│      │          14extends.php     171B
+│      │          14test.php     821B
+│      │          15override.php     851B
+│      │          15test.php     796B
+│      │          15test2.php     118B
+│      │          9static.php     1KB
+│      │          9test.php     156B
+│      │          list.class.php     86B
+│      │          MySQLDB.class.php     3KB
+│      │          MySQLDB1.class.php     2KB
+│      │          Student.class.php     331B
+│      │
+│      ├─day3源码笔记
+│      │  │  PHP面向对象.docx     6.86MB
+│      │  │
+│      │  └─code
+│      │          16fengzhuang.php     607B
+│      │          16test.php     679B
+│      │          16zhuyi.php     143B
+│      │          17test.php     709B
+│      │          18final.php     678B
+│      │          19abstract.php     812B
+│      │          19test.php     5KB
+│      │          20interface.php     564B
+│      │          20test.php     4KB
+│      │          21test.php     489B
+│      │          22overload.php     793B
+│      │          22test.php     2KB
+│      │          23anli.php     918B
+│      │          23overload.php     450B
+│      │
+│      └─day4-源码笔记
+│          │  PHP面向对象.docx     9.46MB
+│          │  PHP面向对象.vsdx     77KB
+│          │
+│          └─code
+│                  25moshu.php     1KB
+│                  26test.php     270B
+│                  27danli.php     704B
+│                  28test.php     239B
+│                  29.php     722B
+│                  29factory.php     399B
+│                  30bianli.php     636B
+│                  31bianli.php     1KB
+│                  32yuesu.php     453B
+│                  33func.php     730B
+│                  34ns1.php     633B
+│                  35ns1.php     504B
+│                  35ns2.php     216B
+│                  36ns1.php     730B
+│                  37ns1.php     264B
+│                  37ns2.php     152B
+│                  37ns3.php     506B
+│                  38ns1.php     106B
+│                  38ns2.php     176B
+│                  list.class.php     86B
+│                  MySQLDB.class.php     5KB
+│
+├─08-PDO视频
+│  │  第1讲 PDO概述.wmv     53.91MB
+│  │  第2讲 PDO的实例化.wmv     37.78MB
+│  │  第3讲 使用PDO实现增删改操作.wmv     34.16MB
+│  │  第4讲 使用PDO实现查询操作.wmv     68.95MB
+│  │  第5讲 MySQL的预处理技术.wmv     93.35MB
+│  │  第6讲 PDO中的预处理.wmv     155.74MB
+│  │  第7讲 PDO事务处理.wmv     116.4MB
+│  │  第8讲 PDO的相关属性（参数）.wmv     49.17MB
+│  │  第9讲 PDO异常处理.wmv     69.1MB
+│  │
+│  └─PDO源码笔记
+│      │  PDO.docx     1.62MB
+│      │  PDO.vsdx     32KB
+│      │  smarty-3.1.29.zip     366KB
+│      │
+│      └─code
+│          └─pdo
+│                  2new_pdo.php     432B
+│                  3pdo_op.php     889B
+│                  4pdo_fetchColumn.php     777B
+│                  4pdo_fetchObject.php     670B
+│                  4pdo_query.php     2KB
+│                  6prepare.php     2KB
+│                  7shiwu.php     1KB
+│                  8shuxing.php     697B
+│                  9pdo_yichang.php     964B
+│                  9yichang.php     668B
+│
+├─09-smarty视频
+│  │  20141103-Smarty-01-介绍.wmv     18.85MB
+│  │  20141103-Smarty-02-迷你模板引擎开发.wmv     52.9MB
+│  │  20141103-Smarty-03-变量信息的处理.wmv     47.53MB
+│  │  20141103-Smarty-04-模板引擎优化处理.wmv     77.89MB
+│  │  20141103-Smarty-05-成熟模板引擎使用.wmv     69.53MB
+│  │  20141103-Smarty-06-保留变量使用.wmv     57.04MB
+│  │  20141103-Smarty-07-配置变量使用.wmv     59.25MB
+│  │  20141103-Smarty-08-数组元素访问及foreach遍历.wmv     68.28MB
+│  │  20141103-Smarty-09-分支结构语句.wmv     11.89MB
+│  │  20141103-Smarty-10-复选框-下拉列表应用.wmv     62.27MB
+│  │  20141103-Smarty-11-已有模板与smarty结合.wmv     90.17MB
+│  │  20141105-Smarty-12-昨天内容回顾.wmv     35.99MB
+│  │  20141105-Smarty-13-昨天作业总结.wmv     34.63MB
+│  │  20141105-Smarty-14-布局继承使用.wmv     37.03MB
+│  │  20141105-Smarty-15-布局继承扩展使用.wmv     97MB
+│  │  20141105-Smarty-16-变量调节器使用.wmv     79.85MB
+│  │  20141105-Smarty-17-缓存介绍.wmv     32.9MB
+│  │  20141105-Smarty-18-缓存设置及更新.wmv     53.28MB
+│  │  20141105-Smarty-19-caching=1或2区别.wmv     56.61MB
+│  │  20141105-Smarty-20-单模板多缓存制作.wmv     19.89MB
+│  │  20141105-Smarty-21-局部不缓存.wmv     20.53MB
+│  │  20141105-Smarty-22-缓存集合使用.wmv     73.18MB
+│  │  20141105-Smarty-23-与已有项目结合.wmv     76.09MB
+│  │
+│  └─smarty笔记+模版+ppt
+│      │  2017黑马PHP珍贵学习资源.zip     2KB
+│      │  PHP学习求助说明.txt     98B
+│      │  PHP学习路线图更新说明.txt     165B
+│      │
+│      ├─20141103
+│      │      02-Smarty.ppt     304KB
+│      │      Smarty 3 中文手册官方翻译版.chm     369KB
+│      │      Smarty-20141103.doc     1.61MB
+│      │      代码-各个知识点.rar     219KB
+│      │      代码-已有模板与smarty结合.rar     349KB
+│      │      模板-好玩网.rar     167KB
+│      │      模板-注册页面.rar     1.27MB
+│      │      迷你Smarty.rar     4KB
+│      │
+│      └─20141105
+│              02-Smarty.ppt     407KB
+│              eshop集成好的.rar     8.79MB
+│              Eshop项目.rar     8.6MB
+│              Smarty 3 中文手册官方翻译版.chm     369KB
+│              Smarty-20141105.doc     1.25MB
+│              Smarty-3.1.16.zip     275KB
+│              Smarty-图解.xls     17KB
+│              代码.rar     1.49MB
+│
+├─10-MVC博客项目
+│  ├─MVC博客项目video
+│  │  ├─day1-video
+│  │  │      第10讲 平台platform的分发参数p.wmv     24.6MB
+│  │  │      第11讲 自动加载实现.wmv     73.17MB
+│  │  │      第1讲 MVC架构的基本思想.wmv     126.92MB
+│  │  │      第2讲 模型类.wmv     73.86MB
+│  │  │      第3讲 基础模型类.wmv     29.18MB
+│  │  │      第4讲 模型类的单例模式.wmv     38.73MB
+│  │  │      第5讲 控制器类.wmv     37.97MB
+│  │  │      第6讲 动作action分发参数a.wmv     62.27MB
+│  │  │      第7讲 控制器controller的分发参数c.wmv     55.67MB
+│  │  │      第8讲 基础控制器类.wmv     22.1MB
+│  │  │      第9讲 目录布局.wmv     101.55MB
+│  │  │
+│  │  ├─day2-video
+│  │  │      昨日回顾.wmv     68.84MB
+│  │  │      第12讲 定义目录常量.wmv     57.94MB
+│  │  │      第13讲 创建框架初始化类.wmv     101.52MB
+│  │  │      第14讲 创建配置文件.wmv     77.56MB
+│  │  │      第15讲 引入PDO.wmv     84.52MB
+│  │  │      第15讲 引入PDO（续）.wmv     59.58MB
+│  │  │      第16讲 引入Smarty.wmv     105.98MB
+│  │  │      第17讲 项目应用一：初始化项目开发环境.wmv     129.36MB
+│  │  │      第18讲 项目应用二：实现后台登录功能.wmv     114.07MB
+│  │  │
+│  │  ├─day3-video
+│  │  │      昨日回顾.wmv     93.57MB
+│  │  │      第19讲 项目应用三：封装跳转动作.wmv     83.3MB
+│  │  │      第20讲 项目应用四：封装验证码类.wmv     98.42MB
+│  │  │      第21讲 项目应用五：完善后台登录功能.wmv     83.98MB
+│  │  │      第22讲 项目应用六：防止用户翻墙.wmv     101.88MB
+│  │  │      第23讲 项目应用七：防止SQL注入.wmv     73.37MB
+│  │  │      第24讲 项目应用八：完善后台首页显示.wmv     125.46MB
+│  │  │      第25讲 项目应用九：完成后台注销功能.wmv     24.42MB
+│  │  │
+│  │  ├─day4-video
+│  │  │      昨日回顾.wmv     64.76MB
+│  │  │      第26讲 无限极分类原理.wmv     126.13MB
+│  │  │      第27讲 项目应用十：实现无限极分类（上）.wmv     125.12MB
+│  │  │      第28讲 项目应用十一：实现无限极分类（下）.wmv     97.99MB
+│  │  │      第29讲 项目应用十二：实现添加分类的功能.wmv     147.9MB
+│  │  │      第30讲 项目应用十三：实现修改分类的功能.wmv     154.03MB
+│  │  │      第31讲 项目应用十四：实现删除分类功能.wmv     111.18MB
+│  │  │
+│  │  ├─day5-video
+│  │  │      昨日回顾.wmv     73.9MB
+│  │  │      第32讲 项目应用十五：实现文章首页功能.wmv     38.68MB
+│  │  │      第33讲 项目应用十六：实现文章添加功能.wmv     71.46MB
+│  │  │      第34讲 项目应用十七：实现文章添加功能（下）.wmv     50.95MB
+│  │  │      第35讲 项目应用十八：实现文章展示功能.wmv     50.92MB
+│  │  │      第36讲 项目应用十九：封装并应用文件上传类.wmv     97.92MB
+│  │  │      第37讲 在线编辑器Ckeditor概述.wmv     57.22MB
+│  │  │      第38讲 Ckeditor的安装与使用.wmv     141.34MB
+│  │  │      第39讲 Ckfinder的安装与使用.wmv     143.43MB
+│  │  │      第40讲 项目应用二十：整合在线编辑器.wmv     120.63MB
+│  │  │
+│  │  ├─day6-video
+│  │  │      昨日回顾.wmv     73.24MB
+│  │  │      第41讲 项目应用二十一：实现文章修改功能（上）.wmv     107.32MB
+│  │  │      第42讲 项目应用二十二：实现文章修改功能（下）.wmv     56.16MB
+│  │  │      第43讲 项目应用二十三：实现文章逻辑删除功能.wmv     75.29MB
+│  │  │      第44讲 项目应用二十四：实现文章回收站功能.wmv     123.72MB
+│  │  │      第45讲 项目应用二十五：封装分页类.wmv     140.9MB
+│  │  │      第46讲 项目应用二十六：应用分页类.wmv     88.94MB
+│  │  │      第47讲 项目应用二十七：完成前台首页显示的功能.wmv     113.52MB
+│  │  │
+│  │  ├─day7-video
+│  │  │      昨日回顾.wmv     73.72MB
+│  │  │      第48讲 项目应用二十八：完成前台首页推荐文章功能.wmv     128.09MB
+│  │  │      第49讲 项目应用二十九：完成前台首页站长信息功能.wmv     185.52MB
+│  │  │      第50讲 项目应用三十：实现百度分享功能.wmv     104.15MB
+│  │  │      第51讲 项目应用三十一：完成首页其他信息.wmv     64.75MB
+│  │  │      第52讲 项目应用三十二：完成前台栏目页（上）.wmv     123.12MB
+│  │  │      第53讲 项目应用三十三：完成前台栏目页（中）.wmv     208.06MB
+│  │  │      第53讲 项目应用三十三：完成前台栏目页（中）同学问题.wmv     18.54MB
+│  │  │
+│  │  ├─day8-video
+│  │  │      昨日回顾.wmv     69.86MB
+│  │  │      第54讲 项目应用三十四：完成栏目页面包屑导航功能.wmv     72.98MB
+│  │  │      第55讲 项目应用三十五：完成栏目页点击排行和栏目推荐功能.wmv     86.02MB
+│  │  │      第56讲 项目应用三十六：完成文章内容页.wmv     233.77MB
+│  │  │      第57讲 项目应用三十七：完成浏览次数和上一篇下一篇功能.wmv     156.77MB
+│  │  │      第58讲 项目应用三十八：完成单页面功能.wmv     164.82MB
+│  │  │      第59讲 项目应用三十九：完成在前台显示单页面功能.wmv     80.58MB
+│  │  │      第60讲 项目应用四十：把meta标签的公共数据放到PlatformController.wmv     43.62MB
+│  │  │
+│  │  └─day9-video
+│  │          昨日回顾.wmv     36.85MB
+│  │          第61讲 项目应用四十一：完成会员注册功能.wmv     146.6MB
+│  │          第62讲 项目应用四十二：完成会员登录与退出功能.wmv     110.58MB
+│  │          第63讲 项目应用四十三：完成评论功能.wmv     138.91MB
+│  │          第64讲 项目应用四十四：完成提取评论数功能.wmv     74.19MB
+│  │          第65讲 缩略图.wmv     118.57MB
+│  │          第66讲 等比例缩略图.wmv     92.02MB
+│  │          第67讲 项目应用四十五：封装图像处理类.wmv     148.08MB
+│  │
+│  └─MVC博客项目源码+笔记+模版
+│      ├─day1
+│      │  │  MVC.docx     2.34MB
+│      │  │  MVC.vsdx     34KB
+│      │  │
+│      │  └─code
+│      │      │  MVC.xlsx     12KB
+│      │      │
+│      │      ├─v1
+│      │      │      MySQLDB.class.php     5KB
+│      │      │      stu.php     1KB
+│      │      │
+│      │      ├─v10
+│      │      │  │  Controller.class.php     281B
+│      │      │  │  Factory.class.php     616B
+│      │      │  │  index.php     1021B
+│      │      │  │  Model.class.php     523B
+│      │      │  │  MySQLDB.class.php     5KB
+│      │      │  │  StuController.class.php     1003B
+│      │      │  │  StuModel.class.php     562B
+│      │      │  │  TeaController.class.php     327B
+│      │      │  │
+│      │      │  └─View
+│      │      │          .htaccess     13B
+│      │      │          stu_v.html     938B
+│      │      │
+│      │      ├─v11
+│      │      │  │  index.php     766B
+│      │      │  │
+│      │      │  ├─App
+│      │      │  │  ├─Back
+│      │      │  │  │  ├─Controller
+│      │      │  │  │  ├─Model
+│      │      │  │  │  └─View
+│      │      │  │  ├─Home
+│      │      │  │  │  ├─Controller
+│      │      │  │  │  ├─Model
+│      │      │  │  │  └─View
+│      │      │  │  └─Test
+│      │      │  │      ├─Controller
+│      │      │  │      │      StuController.class.php     1KB
+│      │      │  │      │      TeaController.class.php     333B
+│      │      │  │      │
+│      │      │  │      ├─Model
+│      │      │  │      │      StuModel.class.php     568B
+│      │      │  │      │
+│      │      │  │      └─View
+│      │      │  │              .htaccess     13B
+│      │      │  │              stu_v.html     938B
+│      │      │  │
+│      │      │  └─Frame
+│      │      │          Controller.class.php     281B
+│      │      │          Factory.class.php     631B
+│      │      │          Model.class.php     529B
+│      │      │          MySQLDB.class.php     5KB
+│      │      │
+│      │      ├─v12
+│      │      │  │  index.php     930B
+│      │      │  │
+│      │      │  ├─App
+│      │      │  │  ├─Back
+│      │      │  │  │  ├─Controller
+│      │      │  │  │  ├─Model
+│      │      │  │  │  └─View
+│      │      │  │  ├─Home
+│      │      │  │  │  ├─Controller
+│      │      │  │  │  ├─Model
+│      │      │  │  │  └─View
+│      │      │  │  └─Test
+│      │      │  │      ├─Controller
+│      │      │  │      │      StuController.class.php     1KB
+│      │      │  │      │      TeaController.class.php     333B
+│      │      │  │      │
+│      │      │  │      ├─Model
+│      │      │  │      │      StuModel.class.php     568B
+│      │      │  │      │
+│      │      │  │      └─View
+│      │      │  │              .htaccess     13B
+│      │      │  │              stu_v.html     952B
+│      │      │  │
+│      │      │  └─Frame
+│      │      │          Controller.class.php     281B
+│      │      │          Factory.class.php     631B
+│      │      │          Model.class.php     529B
+│      │      │          MySQLDB.class.php     5KB
+│      │      │
+│      │      ├─v13
+│      │      │  │  index.php     2KB
+│      │      │  │
+│      │      │  ├─App
+│      │      │  │  ├─Back
+│      │      │  │  │  ├─Controller
+│      │      │  │  │  ├─Model
+│      │      │  │  │  └─View
+│      │      │  │  ├─Home
+│      │      │  │  │  ├─Controller
+│      │      │  │  │  ├─Model
+│      │      │  │  │  └─View
+│      │      │  │  └─Test
+│      │      │  │      ├─Controller
+│      │      │  │      │      StuController.class.php     789B
+│      │      │  │      │      TeaController.class.php     263B
+│      │      │  │      │
+│      │      │  │      ├─Model
+│      │      │  │      │      StuModel.class.php     506B
+│      │      │  │      │
+│      │      │  │      └─View
+│      │      │  │              .htaccess     13B
+│      │      │  │              stu_v.html     952B
+│      │      │  │
+│      │      │  └─Frame
+│      │      │          Controller.class.php     281B
+│      │      │          Factory.class.php     564B
+│      │      │          Model.class.php     466B
+│      │      │          MySQLDB.class.php     5KB
+│      │      │
+│      │      ├─v2
+│      │      │  │  MySQLDB.class.php     5KB
+│      │      │  │  stu.php     483B
+│      │      │  │
+│      │      │  └─templates
+│      │      │          .htaccess     13B
+│      │      │          stu.html     762B
+│      │      │
+│      │      ├─v3
+│      │      │  │  MySQLDB.class.php     5KB
+│      │      │  │  stu_c.php     209B
+│      │      │  │  stu_m.php     376B
+│      │      │  │
+│      │      │  └─View
+│      │      │          .htaccess     13B
+│      │      │          stu_v.html     762B
+│      │      │
+│      │      ├─v4
+│      │      │  │  MySQLDB.class.php     5KB
+│      │      │  │  StuModel.class.php     850B
+│      │      │  │  stu_c.php     308B
+│      │      │  │
+│      │      │  └─View
+│      │      │          .htaccess     13B
+│      │      │          stu_v.html     762B
+│      │      │
+│      │      ├─v5
+│      │      │  │  Model.class.php     523B
+│      │      │  │  MySQLDB.class.php     5KB
+│      │      │  │  StuModel.class.php     562B
+│      │      │  │  stu_c.php     308B
+│      │      │  │
+│      │      │  └─View
+│      │      │          .htaccess     13B
+│      │      │          stu_v.html     762B
+│      │      │
+│      │      ├─v6
+│      │      │  │  Factory.class.php     616B
+│      │      │  │  Model.class.php     523B
+│      │      │  │  MySQLDB.class.php     5KB
+│      │      │  │  stu2_c.php     389B
+│      │      │  │  StuModel.class.php     562B
+│      │      │  │  stu_c.php     330B
+│      │      │  │
+│      │      │  └─View
+│      │      │          .htaccess     13B
+│      │      │          stu_v.html     762B
+│      │      │
+│      │      ├─v7
+│      │      │  │  Factory.class.php     616B
+│      │      │  │  index.php     192B
+│      │      │  │  Model.class.php     523B
+│      │      │  │  MySQLDB.class.php     5KB
+│      │      │  │  StuController.class.php     679B
+│      │      │  │  StuModel.class.php     562B
+│      │      │  │
+│      │      │  └─View
+│      │      │          .htaccess     13B
+│      │      │          stu_v.html     762B
+│      │      │
+│      │      ├─v8
+│      │      │  │  Factory.class.php     616B
+│      │      │  │  index.php     431B
+│      │      │  │  Model.class.php     523B
+│      │      │  │  MySQLDB.class.php     5KB
+│      │      │  │  StuController.class.php     1022B
+│      │      │  │  StuModel.class.php     562B
+│      │      │  │  TeaController.class.php     241B
+│      │      │  │
+│      │      │  └─View
+│      │      │          .htaccess     13B
+│      │      │          stu_v.html     867B
+│      │      │
+│      │      └─v9
+│      │          │  Factory.class.php     616B
+│      │          │  index.php     1021B
+│      │          │  Model.class.php     523B
+│      │          │  MySQLDB.class.php     5KB
+│      │          │  StuController.class.php     1022B
+│      │          │  StuModel.class.php     562B
+│      │          │  TeaController.class.php     241B
+│      │          │
+│      │          └─View
+│      │                  .htaccess     13B
+│      │                  stu_v.html     938B
+│      │
+│      ├─day2
+│      │  │  MVC.docx     4.89MB
+│      │  │  MVC.vsdx     50KB
+│      │  │  博客模板.rar     2.06MB
+│      │  │
+│      │  └─code
+│      │          code.rar     2.59MB
+│      │
+│      ├─day3
+│      │  │  MVC.docx     6.54MB
+│      │  │  MVC.vsdx     50KB
+│      │  │
+│      │  └─code
+│      │          code.rar     4.61MB
+│      │
+│      ├─day4
+│      │  │  MVC.docx     8.82MB
+│      │  │
+│      │  └─code
+│      │          code.rar     4.64MB
+│      │
+│      ├─day5
+│      │  │  ckeditor_4.4.5_standard.zip     1012KB
+│      │  │  ckfinder_php_2.4.2.zip     1.99MB
+│      │  │  MVC.docx     11.4MB
+│      │  │  关联ckfinder代码.txt     558B
+│      │  │  应用随机文件名代码.txt     132B
+│      │  │
+│      │  └─code
+│      │          code.rar     10.63MB
+│      │
+│      ├─day6
+│      │  │  MVC.docx     13.51MB
+│      │  │  MVC.xlsx     13KB
+│      │  │
+│      │  └─code
+│      │          code.rar     8.32MB
+│      │
+│      ├─day7
+│      │  │  MVC.docx     15.8MB
+│      │  │
+│      │  └─code
+│      │          code.rar     8.68MB
+│      │
+│      ├─day8
+│      │  │  MVC.docx     17.79MB
+│      │  │  new.html     9KB
+│      │  │
+│      │  └─code
+│      │      │  v28.rar     9.25MB
+│      │      │
+│      │      └─v28
+│      │          └─App
+│      │              └─Back
+│      │                  └─Public
+│      │                      └─ckeditor
+│      │                          └─samples
+│      │                              └─plugins
+│      └─day9
+│          │  MVC.docx     23.18MB
+│          │  MVC.vsdx     471KB
+│          │
+│          └─code
+│                  v29.rar     10.43MB
+│
+├─11-JavaScript核心
+│      01 面向对象第一天.rar     1.55GB
+│      02 面向对象第二天.rar     1.19GB
+│      03 面向对象第三天.rar     1004.14MB
+│      04 面向对象第四天.rar     1019.54MB
+│      05 面向对象第五天.rar     520.37MB
+│      06 面向对象第六天.rar     640.5MB
+│      07 面向对象第七天.rar     625.32MB
+│
+├─12-JavaScript高级
+│      01 框架第一天.zip     552.58MB
+│      02 框架第二天.zip     300.59MB
+│      03 框架第三天.zip     571.66MB
+│      04 运动框架 - 函数版本.zip     535.46MB
+│      05 动画框架 - 对象版本.zip     483.66MB
+│      06 框架封装基础.zip     513.59MB
+│
+├─13-jQuery
+│      01-jQuery基础第一天（jQuery使用和选择器）.rar     1.16GB
+│      02-jQuery基础第二天.rar     1.24GB
+│      03-jQuery基础第三天（jQueryUI）.rar     1.02GB
+│      jQuery.rar     364.9MB
+│
+├─14-Ajax(重点)
+│  ├─2017Ajax源码笔记
+│  │  │  2017黑马PHP珍贵学习资源.zip     2KB
+│  │  │  ajax2.docx     750KB
+│  │  │  day1_AJAX1.docx     761KB
+│  │  │  PHP学习求助说明.txt     98B
+│  │  │  PHP学习路线图更新说明.txt     165B
+│  │  │
+│  │  ├─day1_例题
+│  │  │  ├─判断用户名是否存在
+│  │  │  │  │  index.php     106B
+│  │  │  │  │
+│  │  │  │  ├─Application
+│  │  │  │  │  ├─Common
+│  │  │  │  │  │  │  index.html     1B
+│  │  │  │  │  │  │
+│  │  │  │  │  │  ├─Common
+│  │  │  │  │  │  │      index.html     1B
+│  │  │  │  │  │  │
+│  │  │  │  │  │  └─Conf
+│  │  │  │  │  │          config.php     445B
+│  │  │  │  │  │          index.html     1B
+│  │  │  │  │  │
+│  │  │  │  │  ├─Home
+│  │  │  │  │  │  │  index.html     1B
+│  │  │  │  │  │  │
+│  │  │  │  │  │  ├─Common
+│  │  │  │  │  │  │      index.html     1B
+│  │  │  │  │  │  │
+│  │  │  │  │  │  ├─Conf
+│  │  │  │  │  │  │      config.php     50B
+│  │  │  │  │  │  │      index.html     1B
+│  │  │  │  │  │  │
+│  │  │  │  │  │  ├─Controller
+│  │  │  │  │  │  │      index.html     1B
+│  │  │  │  │  │  │      IndexController.class.php     324B
+│  │  │  │  │  │  │
+│  │  │  │  │  │  ├─Model
+│  │  │  │  │  │  │      index.html     1B
+│  │  │  │  │  │  │
+│  │  │  │  │  │  └─View
+│  │  │  │  │  │      │  index.html     1B
+│  │  │  │  │  │      │
+│  │  │  │  │  │      └─Index
+│  │  │  │  │  │              register.html     1KB
+│  │  │  │  │  │
+│  │  │  │  │  └─Runtime
+│  │  │  │  │      │  index.html     1B
+│  │  │  │  │      │
+│  │  │  │  │      ├─Cache
+│  │  │  │  │      │  │  index.html     1B
+│  │  │  │  │      │  │
+│  │  │  │  │      │  └─Home
+│  │  │  │  │      │          b39761fdd01eadcd4b8a82f371520558.php     706B
+│  │  │  │  │      │          e2f1e8739761dd1b07196da7c9136d50.php     1KB
+│  │  │  │  │      │          index.html     1B
+│  │  │  │  │      │
+│  │  │  │  │      ├─Data
+│  │  │  │  │      │      index.html     1B
+│  │  │  │  │      │
+│  │  │  │  │      ├─Logs
+│  │  │  │  │      │  │  index.html     1B
+│  │  │  │  │      │  │
+│  │  │  │  │      │  └─Home
+│  │  │  │  │      │          16_06_17.log     24KB
+│  │  │  │  │      │          index.html     1B
+│  │  │  │  │      │
+│  │  │  │  │      └─Temp
+│  │  │  │  │              index.html     1B
+│  │  │  │  │
+│  │  │  │  └─ThinkPHP
+│  │  │  │      │  LICENSE.txt     2KB
+│  │  │  │      │  logo.png     7KB
+│  │  │  │      │  ThinkPHP.php     5KB
+│  │  │  │      │
+│  │  │  │      ├─Common
+│  │  │  │      │      functions.php     53KB
+│  │  │  │      │
+│  │  │  │      ├─Conf
+│  │  │  │      │      convention.php     11KB
+│  │  │  │      │      debug.php     2KB
+│  │  │  │      │
+│  │  │  │      ├─Lang
+│  │  │  │      │      en-us.php     3KB
+│  │  │  │      │      pt-br.php     3KB
+│  │  │  │      │      zh-cn.php     3KB
+│  │  │  │      │      zh-tw.php     3KB
+│  │  │  │      │
+│  │  │  │      ├─Library
+│  │  │  │      │  ├─Behavior
+│  │  │  │      │  │      AgentCheckBehavior.class.php     1KB
+│  │  │  │      │  │      BorisBehavior.class.php     2KB
+│  │  │  │      │  │      BrowserCheckBehavior.class.php     2KB
+│  │  │  │      │  │      BuildLiteBehavior.class.php     4KB
+│  │  │  │      │  │      CheckActionRouteBehavior.class.php     8KB
+│  │  │  │      │  │      CheckLangBehavior.class.php     3KB
+│  │  │  │      │  │      ChromeShowPageTraceBehavior.class.php     18KB
+│  │  │  │      │  │      ContentReplaceBehavior.class.php     2KB
+│  │  │  │      │  │      CronRunBehavior.class.php     3KB
+│  │  │  │      │  │      FireShowPageTraceBehavior.class.php     70KB
+│  │  │  │      │  │      ParseTemplateBehavior.class.php     4KB
+│  │  │  │      │  │      ReadHtmlCacheBehavior.class.php     6KB
+│  │  │  │      │  │      RobotCheckBehavior.class.php     2KB
+│  │  │  │      │  │      ShowPageTraceBehavior.class.php     5KB
+│  │  │  │      │  │      ShowRuntimeBehavior.class.php     3KB
+│  │  │  │      │  │      TokenBuildBehavior.class.php     3KB
+│  │  │  │      │  │      UpgradeNoticeBehavior.class.php     5KB
+│  │  │  │      │  │      WriteHtmlCacheBehavior.class.php     1KB
+│  │  │  │      │  │
+│  │  │  │      │  ├─Org
+│  │  │  │      │  │  ├─Net
+│  │  │  │      │  │  │      Http.class.php     9KB
+│  │  │  │      │  │  │      IpLocation.class.php     9KB
+│  │  │  │      │  │  │
+│  │  │  │      │  │  └─Util
+│  │  │  │      │  │          ArrayList.class.php     6KB
+│  │  │  │      │  │          CodeSwitch.class.php     7KB
+│  │  │  │      │  │          Date.class.php     16KB
+│  │  │  │      │  │          Rbac.class.php     13KB
+│  │  │  │      │  │          Stack.class.php     1KB
+│  │  │  │      │  │          String.class.php     13KB
+│  │  │  │      │  │
+│  │  │  │      │  ├─Think
+│  │  │  │      │  │  │  App.class.php     13KB
+│  │  │  │      │  │  │  Auth.class.php     10KB
+│  │  │  │      │  │  │  Behavior.class.php     903B
+│  │  │  │      │  │  │  Build.class.php     7KB
+│  │  │  │      │  │  │  Cache.class.php     4KB
+│  │  │  │      │  │  │  Controller.class.php     11KB
+│  │  │  │      │  │  │  Crypt.class.php     2KB
+│  │  │  │      │  │  │  Db.class.php     6KB
+│  │  │  │      │  │  │  Dispatcher.class.php     15KB
+│  │  │  │      │  │  │  Exception.class.php     705B
+│  │  │  │      │  │  │  Hook.class.php     4KB
+│  │  │  │      │  │  │  Image.class.php     7KB
+│  │  │  │      │  │  │  Log.class.php     4KB
+│  │  │  │      │  │  │  Model.class.php     67KB
+│  │  │  │      │  │  │  Page.class.php     6KB
+│  │  │  │      │  │  │  Route.class.php     13KB
+│  │  │  │      │  │  │  Storage.class.php     1KB
+│  │  │  │      │  │  │  Template.class.php     28KB
+│  │  │  │      │  │  │  Think.class.php     12KB
+│  │  │  │      │  │  │  Upload.class.php     15KB
+│  │  │  │      │  │  │  Verify.class.php     16KB
+│  │  │  │      │  │  │  View.class.php     8KB
+│  │  │  │      │  │  │
+│  │  │  │      │  │  ├─Cache
+│  │  │  │      │  │  │  └─Driver
+│  │  │  │      │  │  │          Apachenote.class.php     4KB
+│  │  │  │      │  │  │          Apc.class.php     3KB
+│  │  │  │      │  │  │          Db.class.php     5KB
+│  │  │  │      │  │  │          Eaccelerator.class.php     2KB
+│  │  │  │      │  │  │          File.class.php     6KB
+│  │  │  │      │  │  │          Memcache.class.php     3KB
+│  │  │  │      │  │  │          Memcached.class.php     3KB
+│  │  │  │      │  │  │          Memcachesae.class.php     5KB
+│  │  │  │      │  │  │          Redis.class.php     4KB
+│  │  │  │      │  │  │          Shmop.class.php     6KB
+│  │  │  │      │  │  │          Sqlite.class.php     4KB
+│  │  │  │      │  │  │          Wincache.class.php     3KB
+│  │  │  │      │  │  │          Xcache.class.php     3KB
+│  │  │  │      │  │  │
+│  │  │  │      │  │  ├─Controller
+│  │  │  │      │  │  │      HproseController.class.php     2KB
+│  │  │  │      │  │  │      JsonRpcController.class.php     1KB
+│  │  │  │      │  │  │      RestController.class.php     9KB
+│  │  │  │      │  │  │      RpcController.class.php     2KB
+│  │  │  │      │  │  │      YarController.class.php     1KB
+│  │  │  │      │  │  │
+│  │  │  │      │  │  ├─Crypt
+│  │  │  │      │  │  │  └─Driver
+│  │  │  │      │  │  │          Base64.class.php     2KB
+│  │  │  │      │  │  │          Crypt.class.php     2KB
+│  │  │  │      │  │  │          Des.class.php     18KB
+│  │  │  │      │  │  │          Think.class.php     3KB
+│  │  │  │      │  │  │          Xxtea.class.php     4KB
+│  │  │  │      │  │  │
+│  │  │  │      │  │  ├─Db
+│  │  │  │      │  │  │  │  Driver.class.php     41KB
+│  │  │  │      │  │  │  │  Lite.class.php     15KB
+│  │  │  │      │  │  │  │
+│  │  │  │      │  │  │  └─Driver
+│  │  │  │      │  │  │          Firebird.class.php     6KB
+│  │  │  │      │  │  │          Mongo.class.php     29KB
+│  │  │  │      │  │  │          Mysql.class.php     7KB
+│  │  │  │      │  │  │          Oracle.class.php     6KB
+│  │  │  │      │  │  │          Pgsql.class.php     3KB
+│  │  │  │      │  │  │          Sqlite.class.php     3KB
+│  │  │  │      │  │  │          Sqlsrv.class.php     6KB
+│  │  │  │      │  │  │
+│  │  │  │      │  │  ├─Image
+│  │  │  │      │  │  │  └─Driver
+│  │  │  │      │  │  │          Gd.class.php     18KB
+│  │  │  │      │  │  │          GIF.class.php     15KB
+│  │  │  │      │  │  │          Imagick.class.php     19KB
+│  │  │  │      │  │  │
+│  │  │  │      │  │  ├─Log
+│  │  │  │      │  │  │  └─Driver
+│  │  │  │      │  │  │          File.class.php     2KB
+│  │  │  │      │  │  │          Sae.class.php     2KB
+│  │  │  │      │  │  │
+│  │  │  │      │  │  ├─Model
+│  │  │  │      │  │  │      AdvModel.class.php     20KB
+│  │  │  │      │  │  │      MergeModel.class.php     14KB
+│  │  │  │      │  │  │      MongoModel.class.php     13KB
+│  │  │  │      │  │  │      RelationModel.class.php     23KB
+│  │  │  │      │  │  │      ViewModel.class.php     10KB
+│  │  │  │      │  │  │
+│  │  │  │      │  │  ├─Session
+│  │  │  │      │  │  │  └─Driver
+│  │  │  │      │  │  │          Db.class.php     6KB
+│  │  │  │      │  │  │          Memcache.class.php     2KB
+│  │  │  │      │  │  │
+│  │  │  │      │  │  ├─Storage
+│  │  │  │      │  │  │  └─Driver
+│  │  │  │      │  │  │          File.class.php     4KB
+│  │  │  │      │  │  │          Sae.class.php     6KB
+│  │  │  │      │  │  │
+│  │  │  │      │  │  ├─Template
+│  │  │  │      │  │  │  │  TagLib.class.php     9KB
+│  │  │  │      │  │  │  │
+│  │  │  │      │  │  │  ├─Driver
+│  │  │  │      │  │  │  │      Ease.class.php     2KB
+│  │  │  │      │  │  │  │      Lite.class.php     1KB
+│  │  │  │      │  │  │  │      Mobile.class.php     1KB
+│  │  │  │      │  │  │  │      Smart.class.php     2KB
+│  │  │  │      │  │  │  │      Smarty.class.php     2KB
+│  │  │  │      │  │  │  │
+│  │  │  │      │  │  │  └─TagLib
+│  │  │  │      │  │  │          Cx.class.php     23KB
+│  │  │  │      │  │  │          Html.class.php     26KB
+│  │  │  │      │  │  │
+│  │  │  │      │  │  ├─Upload
+│  │  │  │      │  │  │  └─Driver
+│  │  │  │      │  │  │      │  Bcs.class.php     8KB
+│  │  │  │      │  │  │      │  Ftp.class.php     5KB
+│  │  │  │      │  │  │      │  Local.class.php     4KB
+│  │  │  │      │  │  │      │  Qiniu.class.php     3KB
+│  │  │  │      │  │  │      │  Sae.class.php     3KB
+│  │  │  │      │  │  │      │  Upyun.class.php     7KB
+│  │  │  │      │  │  │      │
+│  │  │  │      │  │  │      ├─Bcs
+│  │  │  │      │  │  │      │      bcs.class.php     49KB
+│  │  │  │      │  │  │      │      mimetypes.class.php     7KB
+│  │  │  │      │  │  │      │      requestcore.class.php     30KB
+│  │  │  │      │  │  │      │
+│  │  │  │      │  │  │      └─Qiniu
+│  │  │  │      │  │  │              QiniuStorage.class.php     11KB
+│  │  │  │      │  │  │
+│  │  │  │      │  │  └─Verify
+│  │  │  │      │  │      ├─bgs
+│  │  │  │      │  │      │      1.jpg     30KB
+│  │  │  │      │  │      │      2.jpg     29KB
+│  │  │  │      │  │      │      3.jpg     31KB
+│  │  │  │      │  │      │      4.jpg     28KB
+│  │  │  │      │  │      │      5.jpg     27KB
+│  │  │  │      │  │      │      6.jpg     31KB
+│  │  │  │      │  │      │      7.jpg     30KB
+│  │  │  │      │  │      │      8.jpg     29KB
+│  │  │  │      │  │      │
+│  │  │  │      │  │      ├─ttfs
+│  │  │  │      │  │      │      1.ttf     56KB
+│  │  │  │      │  │      │      2.ttf     28KB
+│  │  │  │      │  │      │      3.ttf     38KB
+│  │  │  │      │  │      │      4.ttf     34KB
+│  │  │  │      │  │      │      5.ttf     32KB
+│  │  │  │      │  │      │      6.ttf     27KB
+│  │  │  │      │  │      │
+│  │  │  │      │  │      └─zhttfs
+│  │  │  │      │  └─Vendor
+│  │  │  │      │      │  README.txt     27B
+│  │  │  │      │      │
+│  │  │  │      │      ├─Boris
+│  │  │  │      │      │      Boris.php     5KB
+│  │  │  │      │      │      CLIOptionsHandler.php     2KB
+│  │  │  │      │      │      ColoredInspector.php     7KB
+│  │  │  │      │      │      Config.php     2KB
+│  │  │  │      │      │      DumpInspector.php     338B
+│  │  │  │      │      │      EvalWorker.php     6KB
+│  │  │  │      │      │      ExportInspector.php     306B
+│  │  │  │      │      │      Inspector.php     384B
+│  │  │  │      │      │      ReadlineClient.php     3KB
+│  │  │  │      │      │      ShallowParser.php     6KB
+│  │  │  │      │      │
+│  │  │  │      │      ├─EaseTemplate
+│  │  │  │      │      │      template.core.php     26KB
+│  │  │  │      │      │      template.ease.php     1KB
+│  │  │  │      │      │
+│  │  │  │      │      ├─Hprose
+│  │  │  │      │      │      HproseClassManager.php     2KB
+│  │  │  │      │      │      HproseClient.php     5KB
+│  │  │  │      │      │      HproseCommon.php     29KB
+│  │  │  │      │      │      HproseFormatter.php     2KB
+│  │  │  │      │      │      HproseHttpClient.php     13KB
+│  │  │  │      │      │      HproseHttpServer.php     20KB
+│  │  │  │      │      │      HproseIO.php     1KB
+│  │  │  │      │      │      HproseIOStream.php     11KB
+│  │  │  │      │      │      HproseReader.php     25KB
+│  │  │  │      │      │      HproseTags.php     2KB
+│  │  │  │      │      │      HproseWriter.php     12KB
+│  │  │  │      │      │
+│  │  │  │      │      ├─jsonRPC
+│  │  │  │      │      │      jsonRPCClient.php     4KB
+│  │  │  │      │      │      jsonRPCServer.php     2KB
+│  │  │  │      │      │
+│  │  │  │      │      ├─phpRPC
+│  │  │  │      │      │  │  bigint.php     19KB
+│  │  │  │      │      │  │  compat.php     9KB
+│  │  │  │      │      │  │  dhparams.php     3KB
+│  │  │  │      │      │  │  phprpc_client.php     21KB
+│  │  │  │      │      │  │  phprpc_date.php     17KB
+│  │  │  │      │      │  │  phprpc_server.php     17KB
+│  │  │  │      │      │  │  xxtea.php     5KB
+│  │  │  │      │      │  │
+│  │  │  │      │      │  ├─dhparams
+│  │  │  │      │      │  │      1024.dhp     32KB
+│  │  │  │      │      │  │      128.dhp     18KB
+│  │  │  │      │      │  │      1536.dhp     28KB
+│  │  │  │      │      │  │      160.dhp     14KB
+│  │  │  │      │      │  │      192.dhp     12KB
+│  │  │  │      │      │  │      2048.dhp     25KB
+│  │  │  │      │      │  │      256.dhp     10KB
+│  │  │  │      │      │  │      3072.dhp     28KB
+│  │  │  │      │      │  │      4096.dhp     25KB
+│  │  │  │      │      │  │      512.dhp     35KB
+│  │  │  │      │      │  │      768.dhp     40KB
+│  │  │  │      │      │  │      96.dhp     20KB
+│  │  │  │      │      │  │
+│  │  │  │      │      │  └─pecl
+│  │  │  │      │      │      └─xxtea
+│  │  │  │      │      │          │  config.m4     242B
+│  │  │  │      │      │          │  config.w32     125B
+│  │  │  │      │      │          │  CREDITS     53B
+│  │  │  │      │      │          │  INSTALL     2KB
+│  │  │  │      │      │          │  LICENSE     3KB
+│  │  │  │      │      │          │  php_xxtea.c     6KB
+│  │  │  │      │      │          │  php_xxtea.dsp     9KB
+│  │  │  │      │      │          │  php_xxtea.h     2KB
+│  │  │  │      │      │          │  php_xxtea.sln     1KB
+│  │  │  │      │      │          │  php_xxtea.vcproj     12KB
+│  │  │  │      │      │          │  README     707B
+│  │  │  │      │      │          │  xxtea.c     2KB
+│  │  │  │      │      │          │  xxtea.h     1KB
+│  │  │  │      │      │          │
+│  │  │  │      │      │          └─test
+│  │  │  │      │      │                  test.php     359B
+│  │  │  │      │      │
+│  │  │  │      │      ├─SmartTemplate
+│  │  │  │      │      │      class.smarttemplate.php     9KB
+│  │  │  │      │      │      class.smarttemplatedebugger.php     13KB
+│  │  │  │      │      │      class.smarttemplateparser.php     11KB
+│  │  │  │      │      │
+│  │  │  │      │      ├─Smarty
+│  │  │  │      │      │  │  debug.tpl     3KB
+│  │  │  │      │      │  │  Smarty.class.php     44KB
+│  │  │  │      │      │  │  SmartyBC.class.php     13KB
+│  │  │  │      │      │  │
+│  │  │  │      │      │  ├─plugins
+│  │  │  │      │      │  │      block.textformat.php     3KB
+│  │  │  │      │      │  │      function.counter.php     2KB
+│  │  │  │      │      │  │      function.cycle.php     3KB
+│  │  │  │      │      │  │      function.fetch.php     9KB
+│  │  │  │      │      │  │      function.html_checkboxes.php     7KB
+│  │  │  │      │      │  │      function.html_image.php     5KB
+│  │  │  │      │      │  │      function.html_options.php     6KB
+│  │  │  │      │      │  │      function.html_radios.php     6KB
+│  │  │  │      │      │  │      function.html_select_date.php     15KB
+│  │  │  │      │      │  │      function.html_select_time.php     13KB
+│  │  │  │      │      │  │      function.html_table.php     5KB
+│  │  │  │      │      │  │      function.mailto.php     5KB
+│  │  │  │      │      │  │      function.math.php     3KB
+│  │  │  │      │      │  │      modifier.capitalize.php     3KB
+│  │  │  │      │      │  │      modifier.date_format.php     2KB
+│  │  │  │      │      │  │      modifier.debug_print_var.php     4KB
+│  │  │  │      │      │  │      modifier.escape.php     6KB
+│  │  │  │      │      │  │      modifier.regex_replace.php     2KB
+│  │  │  │      │      │  │      modifier.replace.php     944B
+│  │  │  │      │      │  │      modifier.spacify.php     762B
+│  │  │  │      │      │  │      modifier.truncate.php     2KB
+│  │  │  │      │      │  │      modifiercompiler.cat.php     665B
+│  │  │  │      │      │  │      modifiercompiler.count_characters.php     975B
+│  │  │  │      │      │  │      modifiercompiler.count_paragraphs.php     699B
+│  │  │  │      │      │  │      modifiercompiler.count_sentences.php     751B
+│  │  │  │      │      │  │      modifiercompiler.count_words.php     1023B
+│  │  │  │      │      │  │      modifiercompiler.default.php     819B
+│  │  │  │      │      │  │      modifiercompiler.escape.php     3KB
+│  │  │  │      │      │  │      modifiercompiler.from_charset.php     857B
+│  │  │  │      │      │  │      modifiercompiler.indent.php     742B
+│  │  │  │      │      │  │      modifiercompiler.lower.php     824B
+│  │  │  │      │      │  │      modifiercompiler.noprint.php     431B
+│  │  │  │      │      │  │      modifiercompiler.string_format.php     610B
+│  │  │  │      │      │  │      modifiercompiler.strip.php     820B
+│  │  │  │      │      │  │      modifiercompiler.strip_tags.php     765B
+│  │  │  │      │      │  │      modifiercompiler.to_charset.php     851B
+│  │  │  │      │      │  │      modifiercompiler.unescape.php     1KB
+│  │  │  │      │      │  │      modifiercompiler.upper.php     783B
+│  │  │  │      │      │  │      modifiercompiler.wordwrap.php     2KB
+│  │  │  │      │      │  │      outputfilter.trimwhitespace.php     3KB
+│  │  │  │      │      │  │      shared.escape_special_chars.php     2KB
+│  │  │  │      │      │  │      shared.literal_compiler_param.php     1KB
+│  │  │  │      │      │  │      shared.make_timestamp.php     1KB
+│  │  │  │      │      │  │      shared.mb_str_replace.php     2KB
+│  │  │  │      │      │  │      shared.mb_unicode.php     2KB
+│  │  │  │      │      │  │      shared.mb_wordwrap.php     3KB
+│  │  │  │      │      │  │      variablefilter.htmlspecialchars.php     459B
+│  │  │  │      │      │  │
+│  │  │  │      │      │  └─sysplugins
+│  │  │  │      │      │          smarty_cacheresource.php     11KB
+│  │  │  │      │      │          smarty_cacheresource_custom.php     8KB
+│  │  │  │      │      │          smarty_cacheresource_keyvaluestore.php     17KB
+│  │  │  │      │      │          smarty_config_source.php     3KB
+│  │  │  │      │      │          smarty_internal_cacheresource_file.php     10KB
+│  │  │  │      │      │          smarty_internal_compilebase.php     6KB
+│  │  │  │      │      │          smarty_internal_compile_append.php     2KB
+│  │  │  │      │      │          smarty_internal_compile_assign.php     3KB
+│  │  │  │      │      │          smarty_internal_compile_block.php     11KB
+│  │  │  │      │      │          smarty_internal_compile_break.php     2KB
+│  │  │  │      │      │          smarty_internal_compile_call.php     5KB
+│  │  │  │      │      │          smarty_internal_compile_capture.php     3KB
+│  │  │  │      │      │          smarty_internal_compile_config_load.php     2KB
+│  │  │  │      │      │          smarty_internal_compile_continue.php     2KB
+│  │  │  │      │      │          smarty_internal_compile_debug.php     1KB
+│  │  │  │      │      │          smarty_internal_compile_eval.php     2KB
+│  │  │  │      │      │          smarty_internal_compile_extends.php     5KB
+│  │  │  │      │      │          smarty_internal_compile_for.php     6KB
+│  │  │  │      │      │          smarty_internal_compile_foreach.php     9KB
+│  │  │  │      │      │          smarty_internal_compile_function.php     7KB
+│  │  │  │      │      │          smarty_internal_compile_if.php     9KB
+│  │  │  │      │      │          smarty_internal_compile_include.php     10KB
+│  │  │  │      │      │          smarty_internal_compile_include_php.php     3KB
+│  │  │  │      │      │          smarty_internal_compile_insert.php     5KB
+│  │  │  │      │      │          smarty_internal_compile_ldelim.php     1KB
+│  │  │  │      │      │          smarty_internal_compile_nocache.php     2KB
+│  │  │  │      │      │          smarty_internal_compile_private_block_plugin.php     3KB
+│  │  │  │      │      │          smarty_internal_compile_private_function_plugin.php     2KB
+│  │  │  │      │      │          smarty_internal_compile_private_modifier.php     4KB
+│  │  │  │      │      │          smarty_internal_compile_private_object_function.php     3KB
+│  │  │  │      │      │          smarty_internal_compile_private_print_expression.php     7KB
+│  │  │  │      │      │          smarty_internal_compile_private_registered_block.php     6KB
+│  │  │  │      │      │          smarty_internal_compile_private_registered_function.php     3KB
+│  │  │  │      │      │          smarty_internal_compile_private_special_variable.php     4KB
+│  │  │  │      │      │          smarty_internal_compile_rdelim.php     1KB
+│  │  │  │      │      │          smarty_internal_compile_section.php     7KB
+│  │  │  │      │      │          smarty_internal_compile_setfilter.php     2KB
+│  │  │  │      │      │          smarty_internal_compile_while.php     4KB
+│  │  │  │      │      │          smarty_internal_config.php     10KB
+│  │  │  │      │      │          smarty_internal_configfilelexer.php     22KB
+│  │  │  │      │      │          smarty_internal_configfileparser.php     34KB
+│  │  │  │      │      │          smarty_internal_config_file_compiler.php     4KB
+│  │  │  │      │      │          smarty_internal_data.php     17KB
+│  │  │  │      │      │          smarty_internal_debug.php     6KB
+│  │  │  │      │      │          smarty_internal_filter_handler.php     3KB
+│  │  │  │      │      │          smarty_internal_function_call_handler.php     2KB
+│  │  │  │      │      │          smarty_internal_get_include_path.php     916B
+│  │  │  │      │      │          smarty_internal_nocache_insert.php     2KB
+│  │  │  │      │      │          smarty_internal_parsetree.php     10KB
+│  │  │  │      │      │          smarty_internal_resource_eval.php     3KB
+│  │  │  │      │      │          smarty_internal_resource_extends.php     6KB
+│  │  │  │      │      │          smarty_internal_resource_file.php     3KB
+│  │  │  │      │      │          smarty_internal_resource_php.php     4KB
+│  │  │  │      │      │          smarty_internal_resource_registered.php     3KB
+│  │  │  │      │      │          smarty_internal_resource_stream.php     2KB
+│  │  │  │      │      │          smarty_internal_resource_string.php     3KB
+│  │  │  │      │      │          smarty_internal_smartytemplatecompiler.php     3KB
+│  │  │  │      │      │          smarty_internal_template.php     28KB
+│  │  │  │      │      │          smarty_internal_templatebase.php     32KB
+│  │  │  │      │      │          smarty_internal_templatecompilerbase.php     28KB
+│  │  │  │      │      │          smarty_internal_templatelexer.php     37KB
+│  │  │  │      │      │          smarty_internal_templateparser.php     157KB
+│  │  │  │      │      │          smarty_internal_utility.php     33KB
+│  │  │  │      │      │          smarty_internal_write_file.php     2KB
+│  │  │  │      │      │          smarty_resource.php     27KB
+│  │  │  │      │      │          smarty_resource_custom.php     3KB
+│  │  │  │      │      │          smarty_resource_recompiled.php     859B
+│  │  │  │      │      │          smarty_resource_uncompiled.php     1KB
+│  │  │  │      │      │          smarty_security.php     15KB
+│  │  │  │      │      │
+│  │  │  │      │      ├─spyc
+│  │  │  │      │      │  │  composer.json     607B
+│  │  │  │      │      │  │  COPYING     1KB
+│  │  │  │      │      │  │  README.md     900B
+│  │  │  │      │      │  │  Spyc.php     35KB
+│  │  │  │      │      │  │  spyc.yaml     4KB
+│  │  │  │      │      │  │
+│  │  │  │      │      │  ├─examples
+│  │  │  │      │      │  │      yaml-dump.php     999B
+│  │  │  │      │      │  │      yaml-load.php     411B
+│  │  │  │      │      │  │
+│  │  │  │      │      │  ├─php4
+│  │  │  │      │      │  │      5to4.php     744B
+│  │  │  │      │      │  │      spyc.php4     30KB
+│  │  │  │      │      │  │      test.php4     5KB
+│  │  │  │      │      │  │
+│  │  │  │      │      │  └─tests
+│  │  │  │      │      │          comments.yaml     70B
+│  │  │  │      │      │          DumpTest.php     5KB
+│  │  │  │      │      │          failing1.yaml     31B
+│  │  │  │      │      │          IndentTest.php     2KB
+│  │  │  │      │      │          indent_1.yaml     1KB
+│  │  │  │      │      │          ParseTest.php     13KB
+│  │  │  │      │      │          quotes.yaml     120B
+│  │  │  │      │      │          RoundTripTest.php     2KB
+│  │  │  │      │      │
+│  │  │  │      │      └─TemplateLite
+│  │  │  │      │          │  class.compiler.php     30KB
+│  │  │  │      │          │  class.config.php     4KB
+│  │  │  │      │          │  class.template.php     24KB
+│  │  │  │      │          │
+│  │  │  │      │          └─internal
+│  │  │  │      │                  compile.compile_config.php     2KB
+│  │  │  │      │                  compile.compile_custom_block.php     1KB
+│  │  │  │      │                  compile.compile_custom_function.php     968B
+│  │  │  │      │                  compile.compile_if.php     4KB
+│  │  │  │      │                  compile.generate_compiler_debug_output.php     1KB
+│  │  │  │      │                  compile.include.php     1KB
+│  │  │  │      │                  compile.parse_is_expr.php     2KB
+│  │  │  │      │                  compile.section_start.php     4KB
+│  │  │  │      │                  debug.tpl     5KB
+│  │  │  │      │                  template.build_dir.php     514B
+│  │  │  │      │                  template.config_loader.php     2KB
+│  │  │  │      │                  template.destroy_dir.php     1KB
+│  │  │  │      │                  template.fetch_compile_include.php     1KB
+│  │  │  │      │                  template.generate_debug_output.php     1KB
+│  │  │  │      │
+│  │  │  │      ├─Mode
+│  │  │  │      │  │  api.php     2KB
+│  │  │  │      │  │  common.php     3KB
+│  │  │  │      │  │  sae.php     3KB
+│  │  │  │      │  │
+│  │  │  │      │  ├─Api
+│  │  │  │      │  │      App.class.php     5KB
+│  │  │  │      │  │      Controller.class.php     3KB
+│  │  │  │      │  │      Dispatcher.class.php     10KB
+│  │  │  │      │  │      functions.php     37KB
+│  │  │  │      │  │
+│  │  │  │      │  └─Sae
+│  │  │  │      │          convention.php     2KB
+│  │  │  │      │
+│  │  │  │      └─Tpl
+│  │  │  │              dispatch_jump.tpl     2KB
+│  │  │  │              page_trace.tpl     5KB
+│  │  │  │              think_exception.tpl     2KB
+│  │  │  │
+│  │  │  └─基础例题
+│  │  │          1-获取AJAX对象.html     325B
+│  │  │          2-demo.php     97B
+│  │  │          2-建立连接并发送请求.html     537B
+│  │  │          3-demo.php     31B
+│  │  │          3-接受服务器返回的信息.html     580B
+│  │  │          4-demo.php     24B
+│  │  │          4-GET请求.html     685B
+│  │  │          5-demo.php     46B
+│  │  │          5-POST请求.html     711B
+│  │  │          6-demo.php     19B
+│  │  │          6-同步和异步的测试.html     441B
+│  │  │          7-demo.php     1KB
+│  │  │          7-分页.html     563B
+│  │  │          8-返回XML格式.html     1014B
+│  │  │          9-Ajax缓存.html     555B
+│  │  │          9-demo.php     106B
+│  │  │          stu.xml     176B
+│  │  │
+│  │  └─day2_例题
+│  │      ├─1-基础例题
+│  │      │  │  1-js操作json数据.html     795B
+│  │      │  │  2-PHP操作JSON.php     2KB
+│  │      │  │  3-demo.php     84B
+│  │      │  │  3-JS访问PHP的JSON数据接口.html     823B
+│  │      │  │  4-demo.php     584B
+│  │      │  │  4-JSON分页.html     1KB
+│  │      │  │  5-demo.php     24B
+│  │      │  │  5-FormData对象.html     838B
+│  │      │  │  6-demo.php     133B
+│  │      │  │  6-文件上传.html     854B
+│  │      │  │  7-Ajax进度条.html     1KB
+│  │      │  │  7-demo.php     0B
+│  │      │  │
+│  │      │  └─Uploads
+│  │      │          face.jpg     84KB
+│  │      │
+│  │      ├─2-聊天室
+│  │      │  │  conn.php     104B
+│  │      │  │  getMessage.php     224B
+│  │      │  │  index.html     9KB
+│  │      │  │  login.html     3KB
+│  │      │  │  sendMessage.php     265B
+│  │      │  │
+│  │      │  ├─css
+│  │      │  │      talk.css     1KB
+│  │      │  │
+│  │      │  └─images
+│  │      │          dl.gif     984B
+│  │      │          login_03.gif     5KB
+│  │      │          login_04.gif     19KB
+│  │      │          login_06.gif     14KB
+│  │      │          login_07.gif     2KB
+│  │      │          login_08.gif     5KB
+│  │      │          login_09.gif     22KB
+│  │      │
+│  │      ├─3-调用天气预报接口
+│  │      │      getWeather.php     82B
+│  │      │      index.html     796B
+│  │      │      test.html     489B
+│  │      │
+│  │      └─聊天室模板
+│  │          │  data.sql     3KB
+│  │          │
+│  │          └─聊天室
+│  │              │  index.html     7KB
+│  │              │  login.html     3KB
+│  │              │
+│  │              ├─css
+│  │              │      talk.css     1KB
+│  │              │
+│  │              └─images
+│  │                      dl.gif     984B
+│  │                      login_03.gif     5KB
+│  │                      login_04.gif     19KB
+│  │                      login_06.gif     14KB
+│  │                      login_07.gif     2KB
+│  │                      login_08.gif     5KB
+│  │                      login_09.gif     22KB
+│  │
+│  ├─day1_视频
+│  │      1-AJAX介绍.wmv     37.06MB
+│  │      10-分页.wmv     75.85MB
+│  │      2-同步和异步的介绍.wmv     18.64MB
+│  │      20-返回XML格式.wmv     31.36MB
+│  │      21-AJAX缓存.wmv     38.38MB
+│  │      22-判断用户名是否存在.wmv     45.14MB
+│  │      3-创建AJAX对象.wmv     33.15MB
+│  │      4-建立连接、发送请求.wmv     16.21MB
+│  │      5-例题.wmv     11.99MB
+│  │      6-接受服务器返回的数据.wmv     55.43MB
+│  │      7-get请求.wmv     32.46MB
+│  │      8-post请求.wmv     36.68MB
+│  │      9-同步和异步的测试.wmv     32.4MB
+│  │
+│  └─day2_视频
+│          1-回顾.wmv     27.1MB
+│          10-聊天室（获取聊天记录）.wmv     104.23MB
+│          11-聊天室（发送聊天记录）.wmv     81.8MB
+│          12-聊天室（优化界面）.wmv     81.99MB
+│          13-调用天气预报.wmv     128.22MB
+│          2-json介绍.wmv     22.39MB
+│          3-javascript操作JSON数据.wmv     15.55MB
+│          4-PHP生成JSON格式.wmv     85.59MB
+│          5-JS访问PHP的JSON数据.wmv     22.55MB
+│          6-JSON分页.wmv     57.32MB
+│          7-FormData对象.wmv     17.02MB
+│          8-Ajax实现上传.wmv     26.01MB
+│          9-文件上传的进度条.wmv     72.2MB
+│
+├─15-vue.js
+│  │  project.zip     7.51MB
+│  │  resource.zip     21MB
+│  │  第8章-项目实战-food商品详情页实现.zip     3.07GB
+│  │
+│  ├─十一章和十二章
+│  │      11章 nodejs调试和webpack配置介绍.mp4     84.23MB
+│  │      12章 课程总结.mp4     10.12MB
+│  │
+│  ├─第1章 课程简介
+│  │      1-1 课程简介.avi     77.85MB
+│  │      2-2 课程安排.avi     18.56MB
+│  │
+│  ├─第2章 Vuejs介绍
+│  │      2-1 Vuejs介绍.avi     12.94MB
+│  │      2-2 Vuejs介绍.avi     7.19MB
+│  │      2-3 Vuejs介绍.avi     60.98MB
+│  │      2-4 Vuejs介绍.avi     10.94MB
+│  │      2-5 Vuejs介绍.avi     20.18MB
+│  │
+│  ├─第3章 Vue-cli开启Vuejs项目
+│  │      3-1 Vue-cli介绍.avi     51.57MB
+│  │      3-2 Vue-cli安装.avi     102.66MB
+│  │      3-3 项目文件介绍.avi     129.33MB
+│  │      3-4 项目运行.avi     161.96MB
+│  │      3-5 webpack打包（上）.avi     74.04MB
+│  │      3-6 webpack打包（中）.avi     214.25MB
+│  │      3-7 webpack打包（下）.avi     82.7MB
+│  │
+│  ├─第4章 项目实战-准备工作
+│  │      4-1 需求分析.avi     111.7MB
+│  │      4-2 项目资源准备.avi     98.03MB
+│  │      4-3 图标字体制作.avi     82.65MB
+│  │      4-4 项目目录设计.avi     78.57MB
+│  │      4-5 mock数据（模拟后台数据）.avi     282.49MB
+│  │
+│  ├─第5章 项目实战-页面骨架开发
+│  │      5-1 组件拆分（上）.avi     162.23MB
+│  │      5-2 组件拆分（中）.avi     110.71MB
+│  │      5-3 组件拆分（下）.avi     173.13MB
+│  │      5-4 Vue-router（上）.avi     231.57MB
+│  │      5-4 Vue-router（下）.avi     206.58MB
+│  │      5-6 1像素border实现.avi     282.28MB
+│  │
+│  ├─第6章 项目实战-header组件开发
+│  │      6-1 Vue-resource应用（上）.avi     167.28MB
+│  │      6-10 详情弹层页（2）.avi     300.04MB
+│  │      6-11 详情弹层页（3）.avi     240.75MB
+│  │      6-12 详情弹层页（3）.avi     201.16MB
+│  │      6-13 详情弹层页（4）.avi     211.19MB
+│  │      6-14 详情弹层页（5）.avi     161MB
+│  │      6-15 详情弹层页（6）.avi     314.55MB
+│  │      6-16 详情弹层页（6）.avi     209.91MB
+│  │      6-2 Vue-resource应用（下）.avi     161.15MB
+│  │      6-3 外部组件（1）.avi     292.16MB
+│  │      6-4 外部组件（2）.avi     260.14MB
+│  │      6-5 外部组件（3）.avi     275.65MB
+│  │      6-6 外部组件（4）.avi     232.32MB
+│  │      6-7 外部组件（5）.avi     274.22MB
+│  │      6-8 外部组件（6）.avi     130.26MB
+│  │      6-9 详情弹层页（1）-实现弹出层.avi     256.27MB
+│  │
+│  ├─第7章 项目实战-goods 商品列表页开发
+│  │      7-1 布局编写.avi     308.69MB
+│  │      7-12 shopcart购物车组件(4).avi     192.17MB
+│  │      7-13 shopcart购物车组件(5).avi     195.44MB
+│  │      7-14 shopcart购物车组件(6).avi     219.34MB
+│  │      7-15 cartconcontrol组件(1).avi     272.94MB
+│  │      7-16 cartconcontrol组件(2).avi     137.73MB
+│  │      7-17 cartconcontrol组件(3).avi     213.85MB
+│  │      7-18 购物车小球动画实现(1).avi     193.49MB
+│  │      7-19 购物车小球动画实现(2).avi     140.36MB
+│  │      7-2 左侧menu布局.avi     235.94MB
+│  │      7-20 购物车小球动画实现(3).avi     196.65MB
+│  │      7-21 购物车详情页(1).avi     131.39MB
+│  │      7-22 购物车详情页(2).avi     267.59MB
+│  │      7-23 购物车详情页(3).avi     238.01MB
+│  │      7-3 右侧食品列表布局(1).avi     137.79MB
+│  │      7-4 右侧食品列表布局(2).avi     288.33MB
+│  │      7-5 右侧食品列表布局(3).avi     133.07MB
+│  │      7-5~7-24.zip     4.11GB
+│  │
+│  ├─第九章
+│  │      9.1 rating组件的开发 overview.mp4     85.66MB
+│  │      9.2 rating 组件开发 overview开发2.mp4     71.13MB
+│  │      9.3 rating组件开发 overview开发3.mp4     29.38MB
+│  │      9.4 ratings组件开发 评价列表.mp4     90.8MB
+│  │      9.5 ratings组件开发 评价列表2.mp4     68.15MB
+│  │      9.6 ratings组件开发 评价列表3.mp4     81.38MB
+│  │
+│  └─第十章
+│          10.1 seller组件开发overview开发（1）.mp4     56.41MB
+│          10.10 收藏商家 3.mp4     75.44MB
+│          10.11 体验优化.mp4     24.87MB
+│          10.2seller组件开发overview开发（2）.mp4     53.29MB
+│          10.3公告与活动开发 1.mp4     65.81MB
+│          10.4 公告与活动开发 2.mp4     47.88MB
+│          10.5 BScroll应用.mp4     39.99MB
+│          10.6 商家实景图.mp4     105.82MB
+│          10.7 商家信息.mp4     36.44MB
+│          10.8 收藏商家 1.mp4     72.57MB
+│          10.9 收藏商家 2.mp4     70.64MB
+│
+├─16-SVN（掌握）
+│  │  001_svn概述.avi     57.07MB
+│  │  002_svn服务端安装.avi     106.12MB
+│  │  003_svn服务端配置.avi     86.18MB
+│  │  004_svn客户端安装与配置.avi     125.57MB
+│  │  005_svn使用详解(1)-三大指令.avi     110.58MB
+│  │  006_svn使用详解(2)-图标集与忽略功能.avi     85.96MB
+│  │  007_svn使用详解(3)-版本回退.avi     80.76MB
+│  │  008_svn使用详解(4)-版本冲突.avi     82.23MB
+│  │  009_svn配置多仓库与权限控制.avi     98.81MB
+│  │  010_svn服务配置与管理.avi     96.98MB
+│  │  011_模拟真实开发环境.avi     86.95MB
+│  │  012_svn扩展程序.avi     82.66MB
+│  │
+│  └─SVN学习资料
+│          2017黑马PHP珍贵学习资源.zip     2KB
+│          PHP学习求助说明.txt     98B
+│          PHP学习路线图更新说明(1).txt     165B
+│          SVN学习资料.zip     48.74MB
+│
+├─17-Git
+│      01 第一天环境配置及工具使用 01-26.rar     795.2MB
+│      02 第二天git的介绍及使用 01-27.rar     864.34MB
+│      03 流行框架第3天 01-29.rar     961.42MB
+│      04 流行框架第4天 01-30.zip     834.26MB
+│      05 第五天 AngularJS 过滤器、服务、路由.rar     912.32MB
+│      06 流行框架第6天 2016-02-17.rar     948.01MB
+│      07 流行框架第7天 02-19.rar     995.18MB
+│
+├─18-XML（熟悉）
+│  ├─day1_视频
+│  │      1-XML简介.wmv     25.23MB
+│  │      10-ANY.wmv     16.19MB
+│  │      11-混合元素.wmv     12.42MB
+│  │      12-引用外部DTD.wmv     16.82MB
+│  │      13-属性的声明.wmv     49.34MB
+│  │      14-元素和属性声明的例题.wmv     12.75MB
+│  │      15-元素声明的练习.wmv     8.77MB
+│  │      16-预定义实体.wmv     37.32MB
+│  │      17-自定义实体.wmv     36.92MB
+│  │      18-参数实体.wmv     42.65MB
+│  │      19-命名空间.wmv     31.29MB
+│  │      2-XML文档结构和XML中节点的分类.wmv     24.65MB
+│  │      20-DTD总结.wmv     37.07MB
+│  │      3-创建XML文档的规则和注释.wmv     14.57MB
+│  │      4-介绍XMLSpy.wmv     22.45MB
+│  │      5-数据的分类.wmv     21.35MB
+│  │      6-格式良好和有效.wmv     20.34MB
+│  │      7-元素节点的声明.wmv     75.92MB
+│  │      8-内部DTD.wmv     16.54MB
+│  │      9-EMPTY.wmv     9.54MB
+│  │
+│  ├─day2_视频
+│  │      1-回顾.wmv     61.97MB
+│  │      10-SimpleXML.wmv     76.29MB
+│  │      11-RSS介绍.wmv     60.16MB
+│  │      12-rss实现.wmv     51.3MB
+│  │      13-web service.wmv     225.2MB
+│  │      2-XML取值.wmv     77.78MB
+│  │      3-生成XML文档.wmv     77.57MB
+│  │      4-遍历节点.wmv     20.59MB
+│  │      5-nodeValue、nodeType、nodeName.wmv     42.01MB
+│  │      6-通过递归遍历XML文档.wmv     41.66MB
+│  │      7-DOM增、删、改、查.wmv     77.28MB
+│  │      8-XPath.wmv     51.98MB
+│  │      9-验证DTD.wmv     24.61MB
+│  │
+│  └─XML配套笔记+相关资源
+│      │  2017黑马PHP珍贵学习资源.zip     2KB
+│      │  PHP学习求助说明.txt     98B
+│      │  PHP学习路线图更新说明.txt     165B
+│      │
+│      ├─day1
+│      │  │  day1_XML1.docx     587KB
+│      │  │  xhtml1-transitional.dtd     31KB
+│      │  │
+│      │  └─day1_例题
+│      │          1-demo.dtd     193B
+│      │          1-元素的声明.xml     351B
+│      │          10-demo.dtd     312B
+│      │          10-参数实体1.xml     261B
+│      │          10-参数实体2.xml     261B
+│      │          11-命名空间.xml     388B
+│      │          2-内部dtd.xml     492B
+│      │          3-EMPTY.xml     89B
+│      │          4-ANY.xml     377B
+│      │          5-混合元素.xml     242B
+│      │          6-demo.dtd     366B
+│      │          6-属性声明.xml     264B
+│      │          7-demo.dtd     265B
+│      │          7-元素和属性声明的例题.xml     198B
+│      │          8-预定义实体.xml     105B
+│      │          9-demo.dtd     303B
+│      │          9-元素、属性、实体、CDATA的综合练习.xml     397B
+│      │
+│      └─day2
+│          │  day2_XML2.docx     1.08MB
+│          │  XML操作类.vsdx     48KB
+│          │
+│          └─day2_例题
+│                  1-demo.dtd     193B
+│                  1-demo.xml     353B
+│                  1-读取XML元素节点.php     866B
+│                  10-查询航班.php     2KB
+│                  2-生成XML文档.php     799B
+│                  3-遍历节点.php     592B
+│                  4-递归遍历XML.php     860B
+│                  5-demo.php     880B
+│                  5-demo_add.php     1KB
+│                  5-demo_del.php     389B
+│                  5-demo_update.php     1KB
+│                  6-XPath.php     918B
+│                  7-验证DTD.php     499B
+│                  8-simpleXML.php     1KB
+│                  9-rss.php     1009B
+│                  books.xml     236B
+│                  rss.jpg     11KB
+│                  test.xml     193B
+│
+├─19-linux(重点)
+│  │  2017传智PHP珍贵学习资源.zip     1KB
+│  │  linux第一天视频.zip     452.01MB
+│  │  linux第三天视频.zip     1.46GB
+│  │  linux第二天视频.zip     597.37MB
+│  │
+│  └─3天linux视频源码笔记-杨
+│          2017黑马PHP珍贵学习资源.zip     2KB
+│          linux第一天笔记课件.zip     6.27MB
+│          linux第三天笔记课件.zip     72.43MB
+│          linux第二天笔记课件.zip     2.77MB
+│          PHP学习求助说明.txt     98B
+│          PHP学习路线图更新说明.txt     165B
+│
+├─20-ThinkPHP OA办公系统
+│      8天thinkphp完整版笔记+PPT.zip     27.57MB
+│      8天thinkPHP模板+源码.zip     51.32MB
+│      PHP珍贵学习资源.zip     2KB
+│      ThinkPHP_day1.zip     1.06GB
+│      ThinkPHP_day2.zip     1.21GB
+│      ThinkPHP_day3.zip     1.08GB
+│      ThinkPHP_day4.zip     1.4GB
+│      ThinkPHP_day5.zip     1.21GB
+│      ThinkPHP_day6.zip     1.2GB
+│      ThinkPHP_day7.zip     952.53MB
+│      ThinkPHP_day8.zip     794.2MB
+│
+├─21-轻松掌握Redis视频
+│  │  轻松掌握Redis视频.zip     376.96MB
+│  │
+│  └─redis视频相关笔记+ppt+其他资料
+│      │  09-Redis.ppt     1.22MB
+│      │  2017黑马PHP珍贵学习资源.zip     2KB
+│      │  PHP学习求助说明.txt     98B
+│      │  PHP学习路线图更新说明.txt     165B
+│      │  php相关操作文件.rar     772B
+│      │  Redis-资料.zip     4.06MB
+│      │  Redis.doc     1.94MB
+│      │  Redis安装教程66.doc     84KB
+│      │
+│      └─redisbin64
+│          │  09-Redis.ppt     1.22MB
+│          │  redis-benchmark.exe     123KB
+│          │  redis-check-aof.exe     94KB
+│          │  redis-check-dump.exe     101KB
+│          │  redis-cli.exe     163KB
+│          │  redis-server.exe     702KB
+│          │  redis.conf     26KB
+│          │  Redis.doc     1.94MB
+│          │
+│          └─logs
+├─22-mongodb实操视频教程
+│  │  mongodb实操视频.zip     787.3MB
+│  │
+│  └─mongodb实操视频学习资料
+│          mongodb实操视频学习资料.zip     36.48MB
+│
+├─23-sphinx进阶, Email邮件技术
+│  └─1
+│      │  1.lnmp环境安装.doc     594KB
+│      │  5.商城运行到集群上.doc     360KB
+│      │  lnmp-CentOS5.5环境搭建.zip     55.45MB
+│      │  集群相关技术介绍.xls     19KB
+│      │
+│      └─视频
+│              1.虚拟机中安装CentOS5.5.wmv     26.49MB
+│              2.在linux中安装lnmp环境.wmv     37.97MB
+│              3.把项目上传到LNMP环境下运行.wmv     136.74MB
+│              4.集群上常用的技术介绍.wmv     108.19MB
+│              5.商城运行到集群上.wmv     113.06MB
+│
+├─24-MySQL读写分离技术,PHP网上支付技术,Nginx服务器集群
+│  └─1
+│      │  1.7z     13.22MB
+│      │  dedecms1.doc     1.35MB
+│      │  mongo-1.1.4-php_mongo.dll.zip     436KB
+│      │  mongodb-win32-i386-2.0.3.zip     17.53MB
+│      │  MongoDB权威指南中文版.pdf     9.77MB
+│      │
+│      ├─视频
+│      │      1.dedecms入门.wmv     191.89MB
+│      │      2.dedecms前台模板以及如何使用arclist标签取电影.wmv     161.08MB
+│      │      3.内容页模板导入与评论畅言插件.wmv     115.41MB
+│      │      4.dedecms中的采集.wmv     196.69MB
+│      │      5.使用channel和include制作导航条-arclist标签的二次开发制作根据地区选择电影.wmv     134.02MB
+│      │
+│      └─资料
+│              DedeCMS-V5.7-UTF8-SP1.tar.gz     8.2MB
+│              电影网站前台模板页面.rar     1.09MB
+│              织梦CMS模板制作手册.chm     1.14MB
+│
+├─25-大型门户网站 核心技术(memcached、页面静态技术、MySQL优化)
+│  ├─01
+│  │  │  00-Memcache.ppt     1.05MB
+│  │  │  Memcache.doc     2.48MB
+│  │  │  Memcached 原理和使用详解.pdf     611KB
+│  │  │  memcached-1.2.6-win32-bin.zip     36KB
+│  │  │  memcached.pdf     930KB
+│  │  │  php_memcache.dll     81KB
+│  │  │  代码.zip     5KB
+│  │  │
+│  │  └─video
+│  │          www.zxit8.com_Memcache-01-核心优化概述.wmv     50.6MB
+│  │          www.zxit8.com_Memcache-02-与Redis的比较.wmv     17.41MB
+│  │          www.zxit8.com_Memcache-03-安装与开启服务.wmv     54.83MB
+│  │          www.zxit8.com_Memcache-04-开启php对应的扩展.wmv     21.73MB
+│  │          www.zxit8.com_Memcache-05-php操作有效期问题.wmv     70.31MB
+│  │          www.zxit8.com_Memcache-06-各种数据类型的存储.wmv     28.67MB
+│  │          www.zxit8.com_Memcache-07-php中其他方法介绍.wmv     18.88MB
+│  │          www.zxit8.com_Memcache-08-Telnet终端操作.wmv     60.74MB
+│  │          www.zxit8.com_Memcache-09-分布式设计.wmv     28.8MB
+│  │          www.zxit8.com_Memcache-10-分布式设计具体使用.wmv     43.32MB
+│  │          www.zxit8.com_Memcache-11-缓存失效.wmv     36.26MB
+│  │          www.zxit8.com_Memcache-12-session存储在memcache介绍.wmv     23.66MB
+│  │          www.zxit8.com_Memcache-13-session存储在memcache操作.wmv     33.4MB
+│  │          www.zxit8.com_Memcache-14-tp框架案例应用.wmv     108.17MB
+│  │
+│  ├─02
+│  │  │  00-Mysql优化.ppt     2.06MB
+│  │  │  emp.frm     9KB
+│  │  │  emp.MYD     130.46MB
+│  │  │  emp.MYI     1KB
+│  │  │  mysql_rel.sql     2KB
+│  │  │  Mysql优化.doc     1.53MB
+│  │  │
+│  │  ├─video-am
+│  │  │      www.zxit8.com_Mysql优化-01-昨天内容回顾.wmv     30.49MB
+│  │  │      www.zxit8.com_Mysql优化-02-优化概述及存储引擎介绍.wmv     28.66MB
+│  │  │      www.zxit8.com_Mysql优化-03-innodb和myisam表的具体特点.wmv     87.36MB
+│  │  │      www.zxit8.com_Mysql优化-04-myisam压缩技术.wmv     19.16MB
+│  │  │      www.zxit8.com_Mysql优化-05-myisam压缩技术和存储引擎选择.wmv     75.73MB
+│  │  │      www.zxit8.com_Mysql优化-06-字段类型选取.wmv     38.02MB
+│  │  │
+│  │  └─video-pm
+│  │          www.zxit8.com_Mysql优化-07-逆范式.wmv     41.83MB
+│  │          www.zxit8.com_Mysql优化-08-索引-是否使用的比较.wmv     24.93MB
+│  │          www.zxit8.com_Mysql优化-09-索引-什么是索引.wmv     31.31MB
+│  │          www.zxit8.com_Mysql优化-10-索引-具体操作(创建和删除).wmv     83.3MB
+│  │          www.zxit8.com_Mysql优化-11-索引-执行计划.wmv     18.1MB
+│  │          www.zxit8.com_Mysql优化-12-索引-适合场景.wmv     39.72MB
+│  │          www.zxit8.com_Mysql优化-13-索引-使用原则.wmv     69.57MB
+│  │
+│  ├─03
+│  │  │  01-Mysql优化.ppt     2.12MB
+│  │  │  mysql_rel.sql     9KB
+│  │  │  Mysql优化.doc     1.84MB
+│  │  │
+│  │  ├─video-am
+│  │  │      www.zxit8.com_Mysql优化-01-昨天内容回顾.wmv     36.28MB
+│  │  │      www.zxit8.com_Mysql优化-02-索引-设计依据.wmv     9.83MB
+│  │  │      www.zxit8.com_Mysql优化-03-索引-前缀.wmv     46.8MB
+│  │  │      www.zxit8.com_Mysql优化-04-索引-全文索引.wmv     54.73MB
+│  │  │      www.zxit8.com_Mysql优化-05-索引结构(非聚集).wmv     57.11MB
+│  │  │      www.zxit8.com_Mysql优化-06-索引结构(聚集).wmv     34.66MB
+│  │  │      www.zxit8.com_Mysql优化-07-查询缓存.wmv     59.67MB
+│  │  │
+│  │  └─video-pm
+│  │          www.zxit8.com_Mysql优化-08-分表分区概述.wmv     47.78MB
+│  │          www.zxit8.com_Mysql优化-09-四种分区算法.wmv     80.9MB
+│  │          www.zxit8.com_Mysql优化-10-分区增加减少管理.wmv     48.56MB
+│  │          www.zxit8.com_Mysql优化-11-物理分表设计.wmv     44.11MB
+│  │          www.zxit8.com_Mysql优化-12-垂直分表设计.wmv     30.23MB
+│  │          www.zxit8.com_Mysql优化-13-架构设计.wmv     29.02MB
+│  │          www.zxit8.com_Mysql优化-14-慢查询日志设置.wmv     29.44MB
+│  │
+│  └─04
+│      │  静态化.doc     2.23MB
+│      │  静态化.ppt     1006KB
+│      │
+│      ├─video-am
+│      │      www.zxit8.com_静态化-01-昨天内容回顾.wmv     30.81MB
+│      │      www.zxit8.com_静态化-02-大量数据写入优化.wmv     32.5MB
+│      │      www.zxit8.com_静态化-03-单表和多表查询.wmv     19.19MB
+│      │      www.zxit8.com_静态化-04-limit使用.wmv     45.78MB
+│      │      www.zxit8.com_静态化-05-强制不排序.wmv     12.62MB
+│      │      www.zxit8.com_静态化-06-介绍.wmv     31.47MB
+│      │      www.zxit8.com_静态化-07-简单实现静态化效果.wmv     72.23MB
+│      │      www.zxit8.com_静态化-08-相关函数.wmv     19.22MB
+│      │
+│      └─video-pm
+│              www.zxit8.com_伪静态化-12-配置及简单使用.wmv     43.67MB
+│              www.zxit8.com_伪静态化-13-带参数使用.wmv     26.52MB
+│              www.zxit8.com_伪静态化-14-隐藏入口文件.wmv     54.85MB
+│              www.zxit8.com_伪静态化-15-tp项目中三种伪静态体现.wmv     33.63MB
+│              www.zxit8.com_静态化-09-在tp项目中应用.wmv     140.82MB
+│              www.zxit8.com_静态化-10-通过ajax实现动态信息显示.wmv     47.4MB
+│              www.zxit8.com_静态化-11-与header-sessionstart-setcookie的关系.wmv     34.24MB
+│
+├─26-基于laravel框架的app软件开发
+│  └─视频+学习资料
+│          传智播放器.rar     22.37MB
+│          第一天video.zip     753.33MB
+│          第一天视频学习资料.zip     614.46MB
+│          第三天video.zip     700.72MB
+│          第三天视频学习资料.zip     1.48MB
+│          第二天video.zip     832.08MB
+│          第二天视频学习资料.zip     46.9MB
+│
+├─27-项目实训
+│  ├─01
+│  │  │  blog前后台模板.zip     700KB
+│  │  │  CodeIgniter-3.0.0.zip     2.01MB
+│  │  │  codeigniter_user_guide.zip     2.44MB
+│  │  │  www.CI.com.zip     28.4MB
+│  │  │  面试题：矩阵图形.php     2KB
+│  │  │
+│  │  └─视频
+│  │          1.ci中mvc的结构介绍.wmv     140.21MB
+│  │          2.CI操作日志表-添加和表单验证.wmv     164.61MB
+│  │          3.CI操作日志表-列表页-搜索-翻页-排序.wmv     147.89MB
+│  │          4.CI操作日志表-修改和删除.wmv     57.33MB
+│  │          5.防TP扩展CI的父模型.wmv     107.31MB
+│  │          6.矩阵面试题.wmv     50.08MB
+│  │
+│  ├─02
+│  │  │  1.MongoDb的快速入门.wmv     173.99MB
+│  │  │  2.MongoDb其他功能的介绍.wmv     129.52MB
+│  │  │  3.CI版代码生成器1-生成控制器.wmv     139.51MB
+│  │  │  4.CI版代码生成器2-生成模型.wmv     111.32MB
+│  │  │  5.CI版代码生成器3-生成视图文件.wmv     97.21MB
+│  │  │  mongodb使用介绍.doc     978KB
+│  │  │
+│  │  └─MongDB
+│  │          mongodb-win32-i386-2.0.3.zip     17.53MB
+│  │          mongodb使用介绍.doc     978KB
+│  │          MongoDB权威指南中文版.pdf     9.77MB
+│  │          php_mongo-1.3.2RC1.zip     885KB
+│  │
+│  └─03
+│      │  yiidemo.zip     13.1MB
+│      │
+│      └─视频
+│              1.YII入门.wmv     175.91MB
+│              2.YII制作日志的添加.wmv     188.48MB
+│              3.YII制作日志的修改、删除、翻页列表.wmv     141.59MB
+│              4.商城中实现EMAIL验证的功能.wmv     171.37MB
+│              YII.doc     1.29MB
+│
+├─28-中级项目
+│  │  中级项目资源.7z     68.95MB
+│  │
+│  ├─1
+│  │      shopcz.7z     643KB
+│  │      shopcz.sql     11KB
+│  │      www.zxit8.com_1.项目的意义-why.wmv     26.13MB
+│  │      www.zxit8.com_10.定义dispatch方法完成路由分发(1).wmv     10.33MB
+│  │      www.zxit8.com_11.实现自动加载并编写后台首页控制器测试之.wmv     57.99MB
+│  │      www.zxit8.com_12.加载视图.wmv     37.26MB
+│  │      www.zxit8.com_13.定义核心控制器.wmv     33.26MB
+│  │      www.zxit8.com_14.载入数据库模型（有难度，重点关注）.wmv     82.65MB
+│  │      www.zxit8.com_15.载入工具类模型及三种载入方式的对比说明.wmv     55.49MB
+│  │      www.zxit8.com_16.框架简单总结.wmv     18.5MB
+│  │      www.zxit8.com_17.数据库设计要点（数据类型和表间关系）.wmv     42.49MB
+│  │      www.zxit8.com_18.数据库设计之goods表、brand表和category表.wmv     51.66MB
+│  │      www.zxit8.com_19.数据库设计之attribute、goods_attr和goods_type表.wmv     44.71MB
+│  │      www.zxit8.com_2.项目的定位-what.wmv     39.51MB
+│  │      www.zxit8.com_3.项目整体架构.wmv     62.16MB
+│  │      www.zxit8.com_4.笑谈OOP思想.wmv     39.17MB
+│  │      www.zxit8.com_5.一张图读懂MVC思想.wmv     71.09MB
+│  │      www.zxit8.com_6.项目目录结构搭建及说明.wmv     30.13MB
+│  │      www.zxit8.com_7.编码规范说明.wmv     24.76MB
+│  │      www.zxit8.com_8.定义framework类初步及分析.wmv     23.46MB
+│  │      www.zxit8.com_9.定义init初始化方法.wmv     43.13MB
+│  │      中级项目.doc     1.79MB
+│  │      中级项目.ppt     1.7MB
+│  │      图解.xls     42KB
+│  │
+│  ├─2
+│  │      shopcz.7z     640KB
+│  │      shopcz.mwb     12KB
+│  │      www.zxit8.com_20.后台商品模块开发顺序说明.wmv     20.93MB
+│  │      www.zxit8.com_21.后台开发具体实施细节--11163.wmv     37.51MB
+│  │      www.zxit8.com_22.商品分类管理业务逻辑分析（无限分类是重点）.wmv     40.69MB
+│  │      www.zxit8.com_23.显示添加商品分类表单.wmv     10.8MB
+│  │      www.zxit8.com_24.完成商品分类添加动作.wmv     65.5MB
+│  │      www.zxit8.com_25.商品分类显示第一步--直接显示所有分类.wmv     34.06MB
+│  │      www.zxit8.com_26.无限分类重新排序原理--递归.wmv     65.34MB
+│  │      www.zxit8.com_27.无限分类显示完善--重新排序及缩进.wmv     49.43MB
+│  │      www.zxit8.com_28.显示修改分类表单.wmv     38.63MB
+│  │      www.zxit8.com_29.完成分类修改操作初步.wmv     31.94MB
+│  │      www.zxit8.com_30.分类修改操作完善-保证业务逻辑的正确性.wmv     47.87MB
+│  │      www.zxit8.com_31.商品分类删除.wmv     25.37MB
+│  │      中级项目.doc     4.09MB
+│  │      图解.xls     88KB
+│  │      无限分类流程图分析.xls     111KB
+│  │
+│  ├─3
+│  │      shopcz.zip     1013KB
+│  │      www.zxit8.com_32.后台登录管理功能分析.wmv     16.63MB
+│  │      www.zxit8.com_33.编写后台基础控制器BaseController实现登录的判断.wmv     24.36MB
+│  │      www.zxit8.com_34.编写LoginController完成登录控制.wmv     55.88MB
+│  │      www.zxit8.com_35.添加验证码防止恶意攻击.wmv     68.54MB
+│  │      www.zxit8.com_36.SQL注入攻击之万能密码攻防演练.wmv     35.43MB
+│  │      www.zxit8.com_37.SQL注入攻击之万能用户名攻防演练及get攻击防范.wmv     54.92MB
+│  │      www.zxit8.com_38.XSS攻击之攻防.wmv     47.23MB
+│  │      www.zxit8.com_39.定义辅助函数完成批量实体转义.wmv     39.74MB
+│  │      www.zxit8.com_40.关于错误及添加项目sql执行日志.wmv     88.54MB
+│  │      中级项目.doc     5.93MB
+│  │      图解.xls     92KB
+│  │
+│  ├─4
+│  │      shopcz.zip     1.03MB
+│  │      www.zxit8.com_41.商品类型添加操作.wmv     45.96MB
+│  │      www.zxit8.com_42.商品类型显示-带分页功能.wmv     100.25MB
+│  │      www.zxit8.com_43.商品属性业务逻辑分析.wmv     64.36MB
+│  │      www.zxit8.com_44.商品属性添加操作.wmv     68.74MB
+│  │      www.zxit8.com_45.商品属性显示第一步--显示指定类型下的所有属性.wmv     55.79MB
+│  │      www.zxit8.com_46.商品属性显示第二步--分页显示.wmv     27.53MB
+│  │      www.zxit8.com_47.商品属性显示第三步--按照类型筛选.wmv     35.22MB
+│  │      www.zxit8.com_48.显示添加商品页面初步.wmv     65.81MB
+│  │      www.zxit8.com_49.使用iframe实现局部刷新原理--即时判断用户是否可用.wmv     42.98MB
+│  │      www.zxit8.com_50.动态获取指定类型的属性.wmv     116.42MB
+│  │      中级项目.doc     9.13MB
+│  │      图解.xls     94KB
+│  │
+│  ├─5
+│  │      shopcz.zip     4.97MB
+│  │      www.zxit8.com_51.完成商品插入（重点是连表插入）.wmv     113.61MB
+│  │      www.zxit8.com_52.整合前台首页.wmv     40.66MB
+│  │      www.zxit8.com_53.商品分类三级展示效果分析.wmv     42.04MB
+│  │      www.zxit8.com_54.完成三级分类展示效果.wmv     53.52MB
+│  │      www.zxit8.com_55.又见递归.wmv     62.84MB
+│  │      www.zxit8.com_56.获取推荐商品.wmv     53.66MB
+│  │      www.zxit8.com_57.项目上线.wmv     87.61MB
+│  │      中级项目.doc     11.6MB
+│  │      图解.xls     183KB
+│  │
+│  └─6
+│          shopcz.zip     4.97MB
+│          www.zxit8.com_58.统计属性数（sql查询的综合运用）.wmv     70.42MB
+│          中级项目.doc     12.05MB
+│
+├─29-CSS3
+│      01-CSS3基础-第1天.rar     405.17MB
+│      02-CSS3基础-第2天.rar     356.95MB
+│      03-CSS3基础-第3天.rar     280.69MB
+│      04-CSS3基础-第4天.rar     548.82MB
+│      css 3d补课.rar     1.48GB
+│
+├─30-HTML5
+│      HTML5_01.rar     1.3GB
+│      HTML5_02.rar     1.61GB
+│
+├─31-canvas
+│      01-Canvas-第1天Canvas基础和面向对象铺垫.rar     524.27MB
+│      02-Canvas-第2天Canvas进阶与Konva框架使用.rar     527.28MB
+│      03-Canvas-第3天Konva框架与项目实战.rar     594.13MB
+│      资料.rar     217KB
+│
+├─32-移动web开发
+│      01-移动web开发_01.rar     632.73MB
+│      02-移动web开发_02.rar     502.75MB
+│      03-移动web开发_03.rar     738.8MB
+│      04_移动web开发_04.rar     1016.86MB
+│      05-移动web开发  05.rar     690.12MB
+│
+├─33-项目实训(电商)
+│  ├─01
+│  │  │  www.39.com.代码.zip     14.9MB
+│  │  │
+│  │  ├─笔记
+│  │  │      1.doc     1002KB
+│  │  │      总结：商品添加的流程.xls     174KB
+│  │  │
+│  │  ├─视频
+│  │  │      1.项目介绍与代码初始化.wmv     46.79MB
+│  │  │      2.规划后台目录以及导入后台模板.wmv     41.67MB
+│  │  │      3.商品表的操作-添加1.wmv     105.78MB
+│  │  │      4.商品添加时的几个问题.wmv     36.25MB
+│  │  │      5.使用钩子函数-使用在线编辑器-使用htmlpurifier过滤XSS.wmv     104.98MB
+│  │  │      6.添加商品时上传LOGO并生成缩略图.wmv     116.96MB
+│  │  │      7.添加商品的流程.wmv     42.18MB
+│  │  │
+│  │  └─资料
+│  │          htmlpurifier-4.6.0.zip     998KB
+│  │          htmlpurifier-xss.txt     618B
+│  │          umeditor1_2_2-utf8-php.zip     5.56MB
+│  │          wampserver2.2d-x32.exe     24.8MB
+│  │          ZendStudio-5_5_0.zip     68.18MB
+│  │          模板.zip     3.87MB
+│  │
+│  ├─02
+│  │  │  www.39.com.代码.zip     18.72MB
+│  │  │
+│  │  ├─笔记
+│  │  │      2.doc     1024KB
+│  │  │
+│  │  └─视频
+│  │          1.商品列表页-搜索-翻页-排序.wmv     130.03MB
+│  │          2.商品的修改.wmv     112.89MB
+│  │          3.商品的删除.wmv     14.63MB
+│  │          4.使用模板布局制作页头和页脚.wmv     45.2MB
+│  │          5.把图片的操作封装成函数，这样扩展性更好.wmv     81.58MB
+│  │          6.使用GII生成一个表的代码.wmv     58.52MB
+│  │
+│  ├─03
+│  │  │  www.39.com.代码.zip     13.14MB
+│  │  │
+│  │  ├─笔记
+│  │  │      3.doc     1.43MB
+│  │  │
+│  │  └─视频
+│  │          1.商品和品牌的关系-添加-修改.wmv     114.99MB
+│  │          2.根据品牌搜索商品.avi     16.11MB
+│  │          2.根据品牌搜索商品.wmv     12.5MB
+│  │          3.会员级别-和会员价格的添加.wmv     88MB
+│  │          4.商品表单优化.wmv     42.55MB
+│  │
+│  ├─04
+│  │  │  www.39.com.代码.zip     17.18MB
+│  │  │
+│  │  ├─笔记
+│  │  │      4.doc     1.13MB
+│  │  │
+│  │  └─视频
+│  │          1.无限级的商品分类.wmv     122.24MB
+│  │          2.分类的添加与修改.wmv     68.78MB
+│  │          3.商品与商品分类-主分类添加和修改.wmv     32.64MB
+│  │          4.商品列表页中连表取出主分类名称，以及根据主分类搜索商品.wmv     32.15MB
+│  │          5.商品扩展分类的添加和显示.wmv     84.74MB
+│  │          6.根据分类搜索商品时同时考虑主分类和扩展分类以及子分类.wmv     54.33MB
+│  │          7.商品分类的修改与删除.wmv     48.97MB
+│  │          8.锁机制，解决高并发下单、抢票时出错的问题.wmv     54.76MB
+│  │
+│  ├─05
+│  │  │  www.39.com.代码.zip     17.19MB
+│  │  │
+│  │  ├─笔记
+│  │  │      5.doc     1.69MB
+│  │  │      5.商品属性相关表结构图示.xls     63KB
+│  │  │
+│  │  └─视频
+│  │          1.商品属性和库存量相关表结构的设计.wmv     116.75MB
+│  │          2.商品属性相关表图解.wmv     28.27MB
+│  │          3.类型与属性管理.wmv     77.55MB
+│  │          4.在添加商品时使用AJAX制作属性的表单.wmv     89.38MB
+│  │          5.商品属性的添加.wmv     48.45MB
+│  │          6.添加商品时把类型ID保存到商品表中的type_id字段上.wmv     8.5MB
+│  │          7.商品属性的修改-制作属性修改的表单.wmv     88.15MB
+│  │          8.商品属性的修改-AJAX删除商品属性.wmv     121.26MB
+│  │
+│  ├─06
+│  │  │  6.doc     1.81MB
+│  │  │  www.39.com.代码.zip     20.43MB
+│  │  │
+│  │  └─视频
+│  │          1.商品库存量管理1-添加库存量.wmv     149.42MB
+│  │          2.库存量的修改与删除-商品模块完成！.wmv     62.43MB
+│  │          3.RBAC1-建表并生成三张主表的代码.wmv     146.87MB
+│  │          4.权限和角色关系的代码-添加.wmv     104.41MB
+│  │          5.管理员和角色的关系【最后15分钟没有用，忘关了】.wmv     117.32MB
+│  │          6.RBAC-权限的验证-后台完成！！.wmv     196.79MB
+│  │
+│  ├─07
+│  │  │  7.doc     1.54MB
+│  │  │  www.39.com.代码.zip     23.54MB
+│  │  │
+│  │  └─视频
+│  │          1.导入首页模板并获取前台导航条上分类的数据.wmv     260.78MB
+│  │          2.首页中间四个商品推荐的数据获取.wmv     126.69MB
+│  │          3.首页中间楼层数据的获取.wmv     144.49MB
+│  │          4.前台首页加静态缓存并解决TP中雪崩的问题.wmv     125.18MB
+│  │          5.商品详情页-浏览历史和面包屑导航.wmv     151.91MB
+│  │
+│  ├─08
+│  │  │  8.doc     2.22MB
+│  │  │  www.39.com.代码.zip     23.72MB
+│  │  │
+│  │  └─视频
+│  │          1.商品详情页数据获取.wmv     116.26MB
+│  │          2.取出商品的会员价格.wmv     17.38MB
+│  │          3.会员的登录、注册.wmv     74.39MB
+│  │          4.AJAX判断登录的状态.wmv     61.24MB
+│  │          5.AJAX计算会员价格.wmv     106.77MB
+│  │          6.购物车1-加入购物车.wmv     157.39MB
+│  │          7.购物车2-在登录时把COOKIE中的数据移动到数据库中.wmv     43.09MB
+│  │          8.购物车3-购物车列表页.wmv     97.12MB
+│  │          9.购物车4-导航条上AJAX显示购物车中的数据.wmv     41.76MB
+│  │
+│  ├─09
+│  │  │  9.doc     1.97MB
+│  │  │  www.39.com.代码.zip     23.88MB
+│  │  │
+│  │  └─视频
+│  │          1.下定单1-建表和定单模型.wmv     171.77MB
+│  │          2.下定单2-下单完成.wmv     111.27MB
+│  │          3.并发下单时的压力测试-上.wmv     69.93MB
+│  │          4.并发下单的处理能力-下.wmv     41.11MB
+│  │          5.网站集成支付宝1-生成支付按钮.wmv     92.7MB
+│  │          6.网站集成支付宝2-接收支付宝发过来消息.wmv     60.53MB
+│  │          7.我的定单.wmv     86.61MB
+│  │
+│  ├─10
+│  │  │  10.doc     1.14MB
+│  │  │  www.39.com.代码.zip     23.89MB
+│  │  │
+│  │  └─视频
+│  │          1.商品搜索页1-根据分类ID计算筛选条件.wmv     171.03MB
+│  │          2.商品搜索页2-商品筛选条件的链接地址和显示.wmv     122.03MB
+│  │          3.根据选择的条件搜索商品并翻页并根据销量排序.wmv     163.68MB
+│  │          4.四种排序.wmv     59.43MB
+│  │          5.根据搜索出来的商品计算筛选条件.wmv     78.15MB
+│  │          6.根据商品关键字搜索商品.wmv     122.57MB
+│  │
+│  ├─11
+│  │  │  11.doc     648KB
+│  │  │  www.39.com.代码.zip     24.07MB
+│  │  │
+│  │  └─视频
+│  │          1.AJAX发表评论.wmv     203.39MB
+│  │          2.jqueryui制作登录的对话框.wmv     86.72MB
+│  │          3.AJAX获取评论并AJAX翻页.wmv     125.02MB
+│  │          4.好评率和印象的数据.wmv     127.89MB
+│  │          5.评论回复的功能.wmv     231.87MB
+│  │
+│  └─12
+│      │  Connect_PHP_SDK_for_OAuth2_V1.0.zip     17KB
+│      │  coreseek-3.2.14-win32.zip     8.68MB
+│      │  sphinx_doc_zhcn_0.9全文检索.pdf     628KB
+│      │  www.39.com.代码.zip     24.12MB
+│      │
+│      └─视频
+│              1.sphinx快速入门.wmv     155.7MB
+│              2.sphinx的实时自动更新.wmv     77.2MB
+│              3.ajax跨域-jsonp.wmv     33.29MB
+│              4.修改数据库中的数据时更新sphinx中的属性并过滤.wmv     98.79MB
+│              5.网站上线-1.wmv     105.4MB
+│              6.网站实现QQ登录的功能.wmv     115.58MB
+│
+├─34-跨平台APP开发
+│      01-混合App开发基础.zip     537.69MB
+│      02-混合APP开发基础 2016-02-22.zip     357.89MB
+│      03-混合App开发基础 2016-02-23.zip     615.8MB
+│      04-混合App开发基础 2016-02-25.zip     787.93MB
+│      05-混合App开发基础 2016-02-26.zip     846.24MB
+│
+├─35-Node.Js
+│      01-node第一天 2016-03-02.rar     1.2GB
+│      02-node第二天 2016-03-03.rar     659.68MB
+│      03-node第三天 2016-03-06.rar     875.45MB
+│      04-node第四天 2016-03-08.rar     815.42MB
+│      05-node第五天 2016-03-09.rar     254.64MB
+│
+├─36-angular.js
+│  ├─11 双剑合璧Laravel，AngularJS全栈开发知乎
+│  │  │  Laravel-AngularJS.zip     10.02MB
+│  │  │
+│  │  ├─第一章 课程介绍
+│  │  │      1-1课程介绍.wmv     28.55MB
+│  │  │
+│  │  ├─第七章 评论API的实现
+│  │  │      7-1 增加评论API的实现（1）.wmv     27.87MB
+│  │  │      7-2 增加评论API的实现（2）.wmv     26.63MB
+│  │  │      7-3 查看评论API的实现.wmv     13.73MB
+│  │  │      7-4 删除API的实现.wmv     14.93MB
+│  │  │
+│  │  ├─第三章 Migration在本项目中的使用
+│  │  │      3-1migration在项目中的使用（1）.wmv     26.27MB
+│  │  │      3-2 migration在项目中的使用（2）.wmv     35.58MB
+│  │  │
+│  │  ├─第九章 后端总结
+│  │  │      9-1 API文档的建立.wmv     31.31MB
+│  │  │      9-2 课程总结.wmv     6.94MB
+│  │  │
+│  │  ├─第二十一章 问题修改模块
+│  │  │      21-1 21-2.wmv     164.42MB
+│  │  │
+│  │  ├─第二十章 评论模块
+│  │  │      20-2 20-3.wmv     135.6MB
+│  │  │
+│  │  ├─第二章 了解Composer的安装laravel的部署
+│  │  │      2-1composer的安装与laravel的部署.wmv     86.3MB
+│  │  │
+│  │  ├─第五章  问题API的实现
+│  │  │      5-1 Question Migration的建立.wmv     15.47MB
+│  │  │      5-2 增加问题API的实现.wmv     42.65MB
+│  │  │      5-3 更新问题API的实现.wmv     25.68MB
+│  │  │      5-4 查看问题API的实现.wmv     37.92MB
+│  │  │      5-5 删除问题API的实现.wmv     20.18MB
+│  │  │
+│  │  ├─第八章 通用API的实现
+│  │  │      8-1 通用API的实现（1）.wmv     21.61MB
+│  │  │      8-2 通用API的实现（2）.wmv     28.06MB
+│  │  │      8-3 通用API的实现(3).wmv     42.63MB
+│  │  │      8-4 通用API的实现（4）.wmv     36.04MB
+│  │  │      8-5 通用API的实现（5）.wmv     34.51MB
+│  │  │      8-6 通用API的实现（6）.wmv     47.6MB
+│  │  │      8-7 通用API的实现（7）.wmv     31.4MB
+│  │  │
+│  │  ├─第六章 回答API的实现
+│  │  │      6-1 添加回答API的实现.wmv     35.42MB
+│  │  │      6-2 更新回答API的实现.wmv     14.76MB
+│  │  │      6-3 查看回答API的实现.wmv     18.42MB
+│  │  │
+│  │  ├─第十一 章 路由的建立
+│  │  │      11-1 ui-router的部署及其使用方法.wmv     43.38MB
+│  │  │
+│  │  ├─第十七章 用户详情模块
+│  │  │      17-1API的建立（1）.wmv     59.72MB
+│  │  │      17-2API的建立（2）.wmv     68.85MB
+│  │  │      17-3 20-1.wmv     907.43MB
+│  │  │
+│  │  ├─第十三章 注册模块
+│  │  │      13-1 简单表单验证实现.wmv     53.93MB
+│  │  │      13-2 表单样式美化.wmv     60.13MB
+│  │  │      13-3 完善表单验证.wmv     73.55MB
+│  │  │
+│  │  ├─第十九章 回答模块   18章跟19章在那17-3跟20-1那段，合在一起了
+│  │  ├─第十二章 整体布局
+│  │  │      12-1 整体布局.wmv     73.25MB
+│  │  │
+│  │  ├─第十五章 添加问题模块
+│  │  │      15-1提问模块的实现.wmv     96.96MB
+│  │  │
+│  │  ├─第十八章 问题详情模块  18章跟19章在那17-3跟20-1那段，合在一起了
+│  │  ├─第十六章 首页模块
+│  │  │      16-1结构与样式实现（1）.wmv     122.51MB
+│  │  │      16-2结构与样式的实现（2）.wmv     93.64MB
+│  │  │      16-3结构与样式的实现（3）.wmv     70.98MB
+│  │  │      16-4补充接口.wmv     109.67MB
+│  │  │      16-5列表信息自动加载.wmv     84.08MB
+│  │  │      16-6代码整理.wmv     59.09MB
+│  │  │      16-7点赞、点踩功能（1）.wmv     111.13MB
+│  │  │      16-8点赞、点踩功能（2）.wmv     108.06MB
+│  │  │      16-9点赞、点踩功能（3）.wmv     81.28MB
+│  │  │
+│  │  ├─第十四章  登录模块
+│  │  │      14-1用户登陆模块的实现.wmv     48.02MB
+│  │  │
+│  │  ├─第十章 前端的部署
+│  │  │      10-1 Angular的安装及项目的部署.wmv     49.24MB
+│  │  │      10-2 Angular的部署及其基本概念.wmv     23.07MB
+│  │  │
+│  │  └─第四章 用户API实现
+│  │          4-1 user migration的建立.wmv     24.7MB
+│  │          4-2 注册API的实现（1）.wmv     27.19MB
+│  │          4-3 注册API的实现（2）.wmv     37.56MB
+│  │          4-4 登陆API的实现（1）.wmv     19.62MB
+│  │          4-5 登陆API的实现（2）.wmv     35.71MB
+│  │          4-6 登出API的实现.wmv     28.29MB
+│  │
+│  ├─22、Angular 4.0从入门到实战 打造股票管理系统
+│  │  │  project.zip     12KB
+│  │  │
+│  │  ├─第一章
+│  │  │      1-1 Angular课程介绍.mp4     47.5MB
+│  │  │      1-2 Angular简介.mp4     34.77MB
+│  │  │
+│  │  ├─第七章
+│  │  │      7-1 表单处理内容介绍.mp4     1.89MB
+│  │  │      7-10 表单处理实战.mp4     184.99MB
+│  │  │      7-11 表单处理小结.mp4     3.08MB
+│  │  │      7-2 表单简介.mp4     43.38MB
+│  │  │      7-3 模板式表单.mp4     153.4MB
+│  │  │      7-4 响应式表单.mp4     206.17MB
+│  │  │      7-5 响应式表单重构.mp4     108.13MB
+│  │  │      7-6 表单校验上.mp4     123.95MB
+│  │  │      7-7 表单校验下.mp4     289.88MB
+│  │  │      7-8 状态字段.mp4     137.08MB
+│  │  │      7-9 模板式表单校验.mp4     269.64MB
+│  │  │
+│  │  ├─第三章
+│  │  │      3-1路由内容介绍.mp4     19.15MB
+│  │  │      3-2路由基础.mp4     212.59MB
+│  │  │      3-3 在路由时传递数据.mp4     84.1MB
+│  │  │      3-4 重定向路由.mp4     27.73MB
+│  │  │      3-5 子路由.mp4     141.35MB
+│  │  │      3-6 辅助路由.mp4     111.01MB
+│  │  │      3-7 路由守卫.mp4     67.3MB
+│  │  │      3-8 resolve守卫.mp4     126.51MB
+│  │  │      3-9 改造在线竞拍应用.mp4     85.53MB
+│  │  │
+│  │  ├─第九章
+│  │  │      9-1 构建.mp4     40.52MB
+│  │  │      9-2 部署.mp4     90.62MB
+│  │  │      9-3 多环境.mp4     119.57MB
+│  │  │
+│  │  ├─第二章
+│  │  │      2-1 内容介绍.mp4     2.78MB
+│  │  │      2-10 开发stars组件.mp4     126.95MB
+│  │  │      2-11 小结.mp4     1.84MB
+│  │  │      2-2 Angular程序架构.mp4     11.09MB
+│  │  │      2-3 环境搭建.mp4     163.75MB
+│  │  │      2-4 启动Angular过程介绍.mp4     65.48MB
+│  │  │      2-5 开发准备.mp4     74.7MB
+│  │  │      2-6 开发app组件.mp4     13.13MB
+│  │  │      2-7 开发navbar和footer组件.mp4     75.16MB
+│  │  │      2-8 开发search和carouseI组件.mp4     84.26MB
+│  │  │      2-9 开发product组件.mp4     159.34MB
+│  │  │
+│  │  ├─第五章
+│  │  │      5-1 整章内容介绍.mp4     3.96MB
+│  │  │      5-2 事件绑定 .mp4     30.28MB
+│  │  │      5-3 Dom属性绑定.mp4     66.59MB
+│  │  │      5-4 html属性.mp4     139.48MB
+│  │  │      5-5 双向绑定.mp4     29.63MB
+│  │  │      5-6 响应式编程.mp4     29.58MB
+│  │  │      5-7 管道.mp4     86.3MB
+│  │  │      5-8 实战.mp4     139.48MB
+│  │  │
+│  │  ├─第八章
+│  │  │      8-1 与服务器通讯内容介绍.mp4     2.84MB
+│  │  │      8-2 web服务器.mp4     119.24MB
+│  │  │      8-3 http通讯.mp4     254.86MB
+│  │  │      8-4 web socket 通讯.mp4     187.13MB
+│  │  │      8-5 商品搜索功能上.mp4     280.6MB
+│  │  │      8-6 商品搜索功能下.mp4     293.77MB
+│  │  │      8-7 商品关注功能.mp4     451.95MB
+│  │  │      8-8 本章内容小结.mp4     2.81MB
+│  │  │
+│  │  ├─第六章
+│  │  │      6-1 组件间通讯内容介绍.mp4     6.73MB
+│  │  │      6-10 最后的钩子.mp4     119.49MB
+│  │  │      6-11 本章实战.mp4     305.86MB
+│  │  │      6-12 本章小结.mp4     15.18MB
+│  │  │      6-2 输入属性.mp4     65.37MB
+│  │  │      6-3 输出属性.mp4     131.59MB
+│  │  │      6-4 中间人模式.mp4     76.9MB
+│  │  │      6-5 组件生命周期钩子概述.mp4     120.08MB
+│  │  │      6-6 OnChanges钩子.mp4     82.91MB
+│  │  │      6-7 变更检测和DoCheck钩子.mp4     93.86MB
+│  │  │      6-8 view钩子.mp4     157.56MB
+│  │  │      6-9 ngContent指令.mp4     86.56MB
+│  │  │
+│  │  └─第四章
+│  │          4-1 依赖注入内容.mp4     4.96MB
+│  │          4-2 依赖注入的好处.mp4     29.14MB
+│  │          4-3 提供器入门.mp4     138.42MB
+│  │          4-4 使用工厂和值声明提供器.mp4     125.19MB
+│  │          4-5 注入器及其层级关系.mp4     84.18MB
+│  │          4-6 改造Auction.mp4     328.74MB
+│  │
+│  ├─AngularJS全栈开发知乎
+│  │  │  更多视频和源码.url     206B
+│  │  │  重要说明.txt     2KB
+│  │  │
+│  │  ├─第01章 课程介绍
+│  │  │      1-1课程介绍.wmv     28.55MB
+│  │  │
+│  │  ├─第02章 了解Composer的安装laravel的部署
+│  │  │      2-1composer的安装与laravel的部署.wmv     86.3MB
+│  │  │
+│  │  ├─第03章 Migration在本项目中的使用
+│  │  │      3-1migration在项目中的使用（1）.wmv     26.27MB
+│  │  │      3-2 migration在项目中的使用（2）.wmv     35.58MB
+│  │  │
+│  │  ├─第04章 用户API实现
+│  │  │      4-1 user migration的建立.wmv     24.7MB
+│  │  │      4-2 注册API的实现（1）.wmv     27.19MB
+│  │  │      4-3 注册API的实现（2）.wmv     37.56MB
+│  │  │      4-4 登陆API的实现（1）.wmv     19.62MB
+│  │  │      4-5 登陆API的实现（2）.wmv     35.71MB
+│  │  │      4-6 登出API的实现.wmv     28.29MB
+│  │  │
+│  │  ├─第05章 问题API的实现
+│  │  │      5-1 Question Migration的建立.wmv     15.47MB
+│  │  │      5-2 增加问题API的实现.wmv     42.65MB
+│  │  │      5-3 更新问题API的实现.wmv     25.68MB
+│  │  │      5-4 查看问题API的实现.wmv     37.92MB
+│  │  │      5-5 删除问题API的实现.wmv     20.18MB
+│  │  │
+│  │  ├─第06章 回答API的实现
+│  │  │      6-1 添加回答API的实现.wmv     35.42MB
+│  │  │      6-2 更新回答API的实现.wmv     14.76MB
+│  │  │      6-3 查看回答API的实现.wmv     18.42MB
+│  │  │
+│  │  ├─第07章 评论API的实现
+│  │  │      7-1 增加评论API的实现（1）.wmv     27.87MB
+│  │  │      7-2 增加评论API的实现（2）.wmv     26.63MB
+│  │  │      7-3 查看评论API的实现.wmv     13.73MB
+│  │  │      7-4 删除API的实现.wmv     14.93MB
+│  │  │
+│  │  ├─第08章 通用API的实现
+│  │  │      8-1 通用API的实现（1）.wmv     21.61MB
+│  │  │      8-2 通用API的实现（2）.wmv     28.06MB
+│  │  │      8-3 通用API的实现(3).wmv     42.63MB
+│  │  │      8-4 通用API的实现（4）.wmv     36.04MB
+│  │  │      8-5 通用API的实现（5）.wmv     34.51MB
+│  │  │      8-6 通用API的实现（6）.wmv     47.6MB
+│  │  │      8-7 通用API的实现（7）.wmv     31.4MB
+│  │  │
+│  │  ├─第09章 后端总结
+│  │  │      9-1 API文档的建立.wmv     31.31MB
+│  │  │      9-2 课程总结.wmv     6.94MB
+│  │  │
+│  │  ├─第10章 前端的部署
+│  │  │      10-1 Angular的安装及项目的部署.wmv     49.24MB
+│  │  │      10-2 Angular的部署及其基本概念.wmv     23.07MB
+│  │  │
+│  │  ├─第11章 路由的建立
+│  │  │      11-1 ui-router的部署及其使用方法.wmv     43.38MB
+│  │  │
+│  │  ├─第12章 整体布局
+│  │  │      12-1 整体布局.wmv     73.25MB
+│  │  │
+│  │  ├─第13章 注册模块
+│  │  │      13-1 简单表单验证实现.wmv     53.93MB
+│  │  │      13-2 表单样式美化.wmv     60.13MB
+│  │  │      13-3 完善表单验证.wmv     73.55MB
+│  │  │
+│  │  ├─第14章 登录模块
+│  │  │      14-1用户登陆模块的实现.wmv     48.02MB
+│  │  │
+│  │  ├─第15章 添加问题模块
+│  │  │      15-1提问模块的实现.wmv     96.96MB
+│  │  │
+│  │  ├─第16章 首页模块
+│  │  │      16-1结构与样式实现（1）.wmv     122.51MB
+│  │  │      16-2结构与样式的实现（2）.wmv     93.64MB
+│  │  │      16-3结构与样式的实现（3）.wmv     70.98MB
+│  │  │      16-4补充接口.wmv     109.67MB
+│  │  │      16-5列表信息自动加载.wmv     84.08MB
+│  │  │      16-6代码整理.wmv     59.09MB
+│  │  │      16-7点赞、点踩功能（1）.wmv     111.13MB
+│  │  │      16-8点赞、点踩功能（2）.wmv     108.06MB
+│  │  │      16-9点赞、点踩功能（3）.wmv     81.28MB
+│  │  │
+│  │  ├─第17章 用户详情模块
+│  │  │      17-1 API的建立（1）.wmv     59.72MB
+│  │  │      17-2 API的建立（2）.wmv     68.85MB
+│  │  │      17-3 模块的简历、数据的存储.mp4     109.55MB
+│  │  │      17-4 用户详情木块完善.mp4     39.84MB
+│  │  │
+│  │  ├─第18章 问题详情模块
+│  │  │      18-1 问答详情模块实现（1）.mp4     46.27MB
+│  │  │      18-2 问答详情模块实现（2）.mp4     93.86MB
+│  │  │      18-3 问答详情模块实现（3）.mp4     95.41MB
+│  │  │      18-4 问答详情模块实现（4）.mp4     78.04MB
+│  │  │      18-5 问答详情模块实现（5）.mp4     49.3MB
+│  │  │
+│  │  ├─第19章 回答模块
+│  │  │      19-1 回答详情模块的实现.mp4     78.2MB
+│  │  │      19-2 添加、更新.mp4     91.42MB
+│  │  │      19-3 删除，点赞完善.mp4     49.64MB
+│  │  │
+│  │  ├─第20章 评论模块
+│  │  │      20-1 评论模块实现（1）.mp4     65.91MB
+│  │  │      20-2 评论模块实现（2）.mp4     64.37MB
+│  │  │      20-3 评论模块实现（3）.mp4     59.14MB
+│  │  │
+│  │  └─第21章 问题修改模块
+│  │          21-1 问题修改木块的实现（1）.mp4     74.35MB
+│  │          21-2 问题修改木块的实现（2）.mp4     82.88MB
+│  │
+│  ├─angular基础教课程
+│  │  ├─1angular过滤器的使用
+│  │  │  │  课程笔记和源码获取.txt     225B
+│  │  │  │
+│  │  │  └─movie
+│  │  │          00 下午复习.avi     12.92MB
+│  │  │          00 复习.avi     99.42MB
+│  │  │          01 体验angular.avi     68.93MB
+│  │  │          02 ng-init初始化变量.avi     13.39MB
+│  │  │          04 获取应用程序 05 控制器定义作用域.avi     36.18MB
+│  │  │          06 事件.avi     57.72MB
+│  │  │          07 显隐页面.avi     32.91MB
+│  │  │          09 插值表达式.avi     11.55MB
+│  │  │          10 插值过滤器.avi     16.25MB
+│  │  │          11 filter过滤器.avi     27.48MB
+│  │  │          12 日期过滤器.avi     56.37MB
+│  │  │          13 日期案例.avi     41.41MB
+│  │  │          14 字符串过滤器.avi     9.39MB
+│  │  │          15 数字过滤器.avi     12.25MB
+│  │  │          16 数组过滤器.avi     24.29MB
+│  │  │          17 自定义过滤器.avi     63.32MB
+│  │  │
+│  │  ├─2angular指令
+│  │  │  │  课程笔记和源码获取.txt     225B
+│  │  │  │
+│  │  │  └─movie
+│  │  │          00 下午复习.avi     23.23MB
+│  │  │          00 复习.avi     69.09MB
+│  │  │          01 脏值检测.avi     89.22MB
+│  │  │          02 注册系统.avi     115.78MB
+│  │  │          03 disabled 04 readonly.avi     46.82MB
+│  │  │          05 checked.avi     12.8MB
+│  │  │          06 change事件.avi     34.48MB
+│  │  │          07 submit事件.avi     11.1MB
+│  │  │          08 run.avi     13.23MB
+│  │  │          09 作用域层级.avi     55.17MB
+│  │  │          10 href动态绑定.avi     40.5MB
+│  │  │          11 src动态绑定.avi     27.84MB
+│  │  │          12 类绑定.avi     20.13MB
+│  │  │          13 样式绑定.avi     18.73MB
+│  │  │          15 switch指令.avi     12.68MB
+│  │  │          16 循环模板.avi     16.07MB
+│  │  │          17 动态加载模板文件.avi     22.93MB
+│  │  │
+│  │  ├─3angular自定义指令与服务
+│  │  │  │  课程笔记和源码获取.txt     225B
+│  │  │  │
+│  │  │  └─movie
+│  │  │          00 下午复习.avi     51.88MB
+│  │  │          00 复习.avi     80.35MB
+│  │  │          01 自定义指令.avi     54.9MB
+│  │  │          02 作用域.avi     76.96MB
+│  │  │          03 模板作用域.avi     16.35MB
+│  │  │          04 @修饰符.avi     18.22MB
+│  │  │          05 =修饰符.avi     15.76MB
+│  │  │          06 link方法.avi     42.78MB
+│  │  │          07 内置指令实现.avi     28.36MB
+│  │  │          07 内置指令的实现.avi     33.33MB
+│  │  │          08 compile.avi     50.35MB
+│  │  │          08 transclude.avi     54.03MB
+│  │  │          11 require(3).avi     67.39MB
+│  │  │
+│  │  ├─angualr第1天
+│  │  │      01_Angular1技术栈入门和企业级项目开发.avi     170.79MB
+│  │  │      02_使用Bower来下载Angular.avi     102.66MB
+│  │  │      03_Angular的Hello World.avi     80.49MB
+│  │  │      04_双向数据绑定原理和双向数据绑定小案例1-调色板.avi     55.81MB
+│  │  │      05_双向数据绑定小案例2-微博发布框.avi     61.99MB
+│  │  │      06_双向数据绑定小案例3-模拟表格.avi     106.49MB
+│  │  │      07_比较难的ng-options指令.avi     52.86MB
+│  │  │      08_双向数据绑定小案例4-省市县联动.avi     91.58MB
+│  │  │      09_Angular表单验证.avi     120.33MB
+│  │  │
+│  │  ├─angualr第2天
+│  │  │      01_Angular中的服务-service函数.avi     95.53MB
+│  │  │      02_Angular中的服务-使用服务做个学生表单.avi     103.05MB
+│  │  │      03_Angular中的服务-factory()函数.avi     57.53MB
+│  │  │      04_Angular中的服务-constant()和value()函数.avi     30.63MB
+│  │  │      05_Angular中的服务-provider()函数.avi     82.75MB
+│  │  │      06_Angular中的指令-directive()函数和restrict属性.avi     34.1MB
+│  │  │      07_Angular中的指令-link属性和scope属性.avi     114.73MB
+│  │  │
+│  │  └─angualr第3天
+│  │          01_路由概述.avi     43.55MB
+│  │          02_ui-router的基本使用.avi     67.28MB
+│  │          03_ui-router中引入控制器和子状态.avi     64.02MB
+│  │          04_ui-router设计路由演示.avi     221.55MB
+│  │          05_为什么需要模块化开发管理工具.avi     30.97MB
+│  │          06_AMD规范.avi     65.5MB
+│  │          07_CMD规范.avi     91.29MB
+│  │
+│  └─angular拉勾项目
+│      │  project.zip     10.36MB
+│      │
+│      ├─第一章
+│      │      1.mp4     14.65MB
+│      │      2.mp4     6.55MB
+│      │      3.mp4     5.89MB
+│      │      4.mp4     9.11MB
+│      │
+│      ├─第七章
+│      │      7-2.mp4     23.68MB
+│      │      爱剪辑-7-1.mp4     135.76MB
+│      │
+│      ├─第三章
+│      │      爱剪辑-3-1.mp4     12.45MB
+│      │      爱剪辑-3-2.mp4     16.67MB
+│      │      爱剪辑-3-3.mp4     56.31MB
+│      │      爱剪辑-3-4.mp4     34.92MB
+│      │
+│      ├─第二章
+│      │      爱剪辑-2-1.mp4     7.3MB
+│      │      爱剪辑-2-2.mp4     31.74MB
+│      │      爱剪辑-2-3.mp4     51.41MB
+│      │      爱剪辑-2-4.mp4     32.16MB
+│      │      爱剪辑-2-5.mp4     19.68MB
+│      │      爱剪辑-2-6.mp4     10.51MB
+│      │
+│      ├─第五章
+│      │      5-1.mp4     241.42MB
+│      │      5-2.mp4     137.43MB
+│      │      爱剪辑-5-10.mp4     191.26MB
+│      │      爱剪辑-5-11.mp4     261.31MB
+│      │      爱剪辑-5-12.mp4     205.67MB
+│      │      爱剪辑-5-13.mp4     120.95MB
+│      │      爱剪辑-5-3.mp4     152.8MB
+│      │      爱剪辑-5-4.mp4     83.02MB
+│      │      爱剪辑-5-5.mp4     187.65MB
+│      │      爱剪辑-5-6.mp4     153.05MB
+│      │      爱剪辑-5-7.mp4     152.86MB
+│      │      爱剪辑-5-8.mp4     87.89MB
+│      │      爱剪辑-5-9.mp4     132.57MB
+│      │
+│      ├─第六章
+│      │      爱剪辑-6-1.mp4     356.57MB
+│      │      爱剪辑-6-10.mp4     272.51MB
+│      │      爱剪辑-6-2.mp4     165.3MB
+│      │      爱剪辑-6-3.mp4     121.67MB
+│      │      爱剪辑-6-4.mp4     127.64MB
+│      │      爱剪辑-6-5.mp4     418.8MB
+│      │      爱剪辑-6-6.mp4     216.58MB
+│      │      爱剪辑-6-7.mp4     163.26MB
+│      │      爱剪辑-6-8.mp4     145.2MB
+│      │      爱剪辑-6-9.mp4     116.21MB
+│      │
+│      └─第四章
+│              4-5.mp4     351.16MB
+│              4-9s.mp4     267.68MB
+│              爱剪辑-4-1.mp4     30.28MB
+│              爱剪辑-4-10.mp4     243.5MB
+│              爱剪辑-4-11.mp4     216.05MB
+│              爱剪辑-4-12.mp4     182.73MB
+│              爱剪辑-4-13.mp4     190.93MB
+│              爱剪辑-4-2.mp4     77.61MB
+│              爱剪辑-4-3.mp4     53.32MB
+│              爱剪辑-4-4.mp4     42.08MB
+│              爱剪辑-4-6.mp4     251.83MB
+│              爱剪辑-4-7.mp4     196.69MB
+│              爱剪辑-4-8.mp4     179.55MB
+│
+├─37-react. js
+│  └─React.js入门与实战
+│      │  1-8章.zip     6.95GB
+│      │  思维导图.jpg     4.75MB
+│      │  课程章节.txt     3KB
+│      │  项目演示地址.txt     673B
+│      │
+│      ├─9
+│      │      第九章1-4.mp4     787.88MB
+│      │      第九章5-6.mp4     323.33MB
+│      │
+│      ├─React课件
+│      │  │  sourcecode.zip     1009.37MB
+│      │  │
+│      │  └─课程思维导图
+│      │          LessonMindMap.png     4.59MB
+│      │
+│      ├─第一章
+│      │      第一章.mp4     110.07MB
+│      │
+│      ├─第七章
+│      │      第七章.mp4     410.77MB
+│      │
+│      ├─第三章
+│      │      第三章.mp4     112.64MB
+│      │
+│      ├─第九章
+│      │      第九章.zip     1.42GB
+│      │
+│      ├─第二章
+│      │      第二章.mp4     132.73MB
+│      │
+│      ├─第五章
+│      │      第五章.mp4     332.83MB
+│      │
+│      ├─第八章
+│      │      第八章1-3.mp4     385.67MB
+│      │      第八章4-6.mp4     651.69MB
+│      │
+│      ├─第六章
+│      │      第六章.mp4     162.47MB
+│      │
+│      ├─第十一章
+│      │      第十一章.mp4     976.55MB
+│      │
+│      ├─第十七章
+│      │      17-1.mp4     929.27MB
+│      │      react.js-zxit.html     372B
+│      │      react.js-zxit.jpg     220KB
+│      │
+│      ├─第十三章
+│      │      13-4到13-4.mp4     3.13GB
+│      │
+│      ├─第十九章
+│      │      19-1 点击加载更多-上拉刷新加载数据_慕课网 - Google Chrome 2017_3_19 20_54_01.mp4     1.4GB
+│      │      19-2 点击加载更多-下拉刷新加载数据_慕课网 - Google Chrome 2017_3_19 21_16_45.mp4     594.61MB
+│      │      19-3 Redux 简介与实例演示_慕课网 - Google Chrome 2017_3_19 21_25_10.mp4     1.4GB
+│      │      19-4 页面表单框架_慕课网 - Google Chrome 2017_3_19 21_45_54.mp4     102.48MB
+│      │      下载必看.txt     533B
+│      │      更多最新.jpg     220KB
+│      │      获取更多资源.html     372B
+│      │
+│      ├─第十二章
+│      │      更多最新IT视频教程--自学IT吧.jpg     220KB
+│      │      更多最新IT视频教程资源.html     372B
+│      │      第十二章.mp4     2.96GB
+│      │
+│      ├─第十五章
+│      │      15-1 PC 端详情页面开发（上）_慕课网 - Google Chrome 2017_3_4 14_50_24.mp4     838.84MB
+│      │      15-10 PC 端用户收藏功能开发（下）_慕课网 - Google Chrome 2017_3_4 16_54_26.mp4     287.51MB
+│      │      15-11 移动端用户收藏功能开发_慕课网 - Google Chrome 2017_3_4 16_58_31.mp4     190.07MB
+│      │      15-2 PC 端详情页面开发（中）_慕课网 - Google Chrome 2017_3_4 15_02_10.mp4     421.1MB
+│      │      15-3 PC 端详情页面开发（下）_慕课网 - Google Chrome 2017_3_4 15_08_19.mp4     423.26MB
+│      │      15-4 移动端详情页面开发_慕课网 - Google Chrome 2017_3_4 15_14_20.mp4     397.5MB
+│      │      15-5 评论模块开发（上）_慕课网 - Google Chrome 2017_3_4 15_19_46.mp4     644.79MB
+│      │      15-6 评论模块开发（中）_慕课网 - Google Chrome 2017_3_4 15_33_09.mp4     345.33MB
+│      │      15-7 评论模块开发（下）_慕课网 - Google Chrome 2017_3_4 16_32_09.mp4     572.62MB
+│      │      15-8 移动端评论模块开发_慕课网 - Google Chrome 2017_3_4 16_42_25.mp4     222.37MB
+│      │      15-9 PC 端用户收藏功能开发（上）_慕课网 - Google Chrome 2017_3_4 16_45_47.mp4     549.51MB
+│      │      react.js-zxit.html     372B
+│      │      react.js-zxit.jpg     220KB
+│      │
+│      ├─第十八章
+│      │      18-1 网页优化军规介绍（上）_慕课网 - Google Chrome 2017_3_19 20_39_56.mp4     566.28MB
+│      │      18-2 网页优化军规介绍、插件（下）_慕课网 - Google Chrome 2017_3_19 20_47_53.mp4     429.87MB
+│      │
+│      ├─第十六章
+│      │      16-1-5.mp4     3.72GB
+│      │      16-6 个人评论列表开发（上） .mp4     495.1MB
+│      │      16-7 个人评论列表开发（下）.mp4     437.65MB
+│      │
+│      ├─第十四章
+│      │      14-1.mp4     501.97MB
+│      │      14-2.mp4     309.41MB
+│      │      14-3.mp4     459.45MB
+│      │      14-4.mp4     718.63MB
+│      │      14-5.mp4     1.12GB
+│      │      14-6.mp4     1.09GB
+│      │      14-7.mp4     748.48MB
+│      │      14-8.mp4     253.09MB
+│      │      14-9.mp4     199.64MB
+│      │      更多最新IT视频教程--自学IT吧.jpg     220KB
+│      │      更多最新IT视频教程资源.html     372B
+│      │
+│      ├─第十章
+│      │      第十章.zip     669.04MB
+│      │
+│      └─第四章
+│              第四章.mp4     171.81MB
+│
+├─38-PHP微信开发
+│  ├─01
+│  │  ├─docs
+│  │  │      24e1a4ebcce74d994a5e983b1a75c77f.zip     1KB
+│  │  │      accesstoken     154B
+│  │  │      curl.php     1KB
+│  │  │      getqrcode.php     420B
+│  │  │      getticket.php     251B
+│  │  │      index.php     227B
+│  │  │      temp66.jpg     27KB
+│  │  │      wechat.inc.php     7KB
+│  │  │      weixinJS.html     4KB
+│  │  │      微信开发.docx     1.63MB
+│  │  │
+│  │  └─video
+│  │          01微信公众号以及curl.wmv     137.27MB
+│  │          02获取ticket和QRCode.wmv     243.81MB
+│  │          03被动回复文本信息以及聊天机器人.wmv     119.73MB
+│  │          04事件的简单处理以及菜单处理.wmv     286.1MB
+│  │
+│  └─02
+│      ├─docs
+│      │      1.jpg     68KB
+│      │      accesstoken     154B
+│      │      addimage.php     289B
+│      │      createmenu.php     832B
+│      │      curl.php     1KB
+│      │      deletemenu.php     286B
+│      │      getqrcode.php     420B
+│      │      getticket.php     251B
+│      │      getuserlist.php     307B
+│      │      index.php     2KB
+│      │      querymenu.php     290B
+│      │      sendall.php     304B
+│      │      temp66.jpg     27KB
+│      │      test.php     396B
+│      │      wechat.inc.php     16KB
+│      │      weixinJS.html     4KB
+│      │      微信开发.docx     781KB
+│      │
+│      └─video
+│              01菜单的处理.wmv     159.72MB
+│              02发送图文信息以及菜单按钮的处理.wmv     276.85MB
+│              03定位信息的简单处理以及程序优化.wmv     173.05MB
+│              04用户列表和群发信息.wmv     146.71MB
+│              05添加图片素材.wmv     53.91MB
+│              06搜索歌曲.wmv     181.91MB
+│
+└─39-微信小程序入门实战
+    │  post-detail.js     7KB
+    │  ReaderMovie.zip     1001KB
+    │  图片素材（全，包含电影部分）.zip     909KB
+    │  小程序源码.zip     911KB
+    │  小程序目录1-10章.txt     3KB
+    │  微信小程序源码.zip     911KB
+    │  效果图.zip     8.97MB
+    │  音乐素材.txt     37B
+    │
+    ├─微信小程序全套
+    │  │  微信小程序开发实战.rar     300.08MB
+    │  │  解压密码.txt     40B
+    │  │
+    │  ├─二、微信小程序视频教程
+    │  │  ├─第一阶段、微信小程序小白全套视频教程
+    │  │  │  ├─【教程】千锋教育微信小程序全套开发视频教程
+    │  │  │  ├─【教程】教0基础妹子做微信小程序
+    │  │  │  └─【教程】极客学院小程序视频教程（店主推荐）
+    │  │  │      │  4.4.2导航.mp4     47.43MB
+    │  │  │      │  5.4.3动画.mp4     155.2MB
+    │  │  │      │  5.4.4绘图.mp4     266.59MB
+    │  │  │      │
+    │  │  │      └─课件资料demo
+    │  │  ├─第三阶段、微信小程序高手全套视频教程
+    │  │  │  ├─【教程】东风老师微信小程序开发视频教程
+    │  │  │  └─【教程】小木课堂教程
+    │  │  │      │  20161012VIP直播实战.mp4     448.64MB
+    │  │  │      │  微信小程序-天气App.mp4     14.35MB
+    │  │  │      │  微信小程序-电影App.mp4     11.25MB
+    │  │  │      │  微信小程序实战-辩论赛计时器.mp4     22.34MB
+    │  │  │      │  微信小程序实战开发.mp4     812.61MB
+    │  │  │      │
+    │  │  │      └─小木天气开发实战教程
+    │  │  │          └─案例源码
+    │  │  │                  cal.zip     9KB
+    │  │  │
+    │  │  └─第二阶段、微信小程序进阶全套视频教程
+    │  │      ├─【教程】传播智客小程序实战
+    │  │      │  ├─传播智客
+    │  │      │  │  └─教程源码工具
+    │  │      │  │      │  README.pdf     867KB
+    │  │      │  │      │
+    │  │      │  │      └─开发工具
+    │  │      │  ├─前端福音！小程序实战开发第一天-video
+    │  │      │  └─前端福音！小程序实战开发第二天-video
+    │  │      ├─【教程】掘金直播课程
+    │  │      └─【教程】蓝欧手把手教你小程序
+    │  │          │  1-小程序windows版本安装.mp4     87.23MB
+    │  │          │  10-小程序事件处理详解.mp4     309.78MB
+    │  │          │  11-wxml中的引用.mp4     122.33MB
+    │  │          │  12-wxss.mp4     133.45MB
+    │  │          │  13-view组件-flex布局.mp4     166.19MB
+    │  │          │  15-swiper组件.mp4     225.13MB
+    │  │          │  16-基础内容组件.mp4     166.54MB
+    │  │          │  17-表单组件1.mp4     157.71MB
+    │  │          │  18-表单组件2.mp4     292.91MB
+    │  │          │  19-表单组件3.mp4     208.73MB
+    │  │          │  2-mac安装.mp4     84.45MB
+    │  │          │  20-表单组件4.mp4     193.6MB
+    │  │          │  21-操作反馈.mp4     201.2MB
+    │  │          │  22-导航.mp4     152.16MB
+    │  │          │  23-媒体组件1.mp4     286.58MB
+    │  │          │  24-地图.mp4     123.42MB
+    │  │          │  25-canvas.mp4     151.46MB
+    │  │          │  26-canvas-动画.mp4     139.42MB
+    │  │          │  27-贪吃蛇.mp4     134.61MB
+    │  │          │  28-贪吃蛇2.mp4     270.26MB
+    │  │          │  29-贪吃蛇3.mp4     266.73MB
+    │  │          │  3-小程序入门.mp4     182.24MB
+    │  │          │  30-豆瓣电影1.mp4     207.78MB
+    │  │          │  31-豆瓣电影2.mp4     222.21MB
+    │  │          │  32-豆瓣电影3.mp4     203.39MB
+    │  │          │  33-豆瓣电影4.mp4     275.11MB
+    │  │          │  6-作用范围及模块化.mp4     114.31MB
+    │  │          │  7-视图层.mp4     202.54MB
+    │  │          │  8-数据绑定.mp4     305.12MB
+    │  │          │  9-for详解.mp4     110.85MB
+    │  │          │
+    │  │          └─源代码
+    │  │                  豆瓣电影.zip     365KB
+    │  │                  贪吃蛇.zip     127KB
+    │  │                  随堂代码.zip     396KB
+    │  │
+    │  └─极客学院小程序视频
+    │      │  1.1微信小程序从基础到实战课程概要.mp4     142.44MB
+    │      │  2.1微信小程序简介.mp4     64.62MB
+    │      │  2.2.1微信小程序开发准备.mp4     16.24MB
+    │      │  2.2.2微信小程序开发工具的使用.mp4     126.18MB
+    │      │  2.2.3目录结构详解.mp4     115.33MB
+    │      │  2.3.1视图与渲染.mp4     317.95MB
+    │      │  2.3.2微信小程序事件.mp4     162.29MB
+    │      │  3.1微信小程序的配置详解.mp4     160.33MB
+    │      │  3.2.1微信小程序的生命周期与app对象的使用.mp4     81.12MB
+    │      │  3.2.2微信小程序页面的生命周期和参数传递.mp4     210.68MB
+    │      │  3.3综合案例 - 用户登录.mp4     177.52MB
+    │      │  4.1微信小程序的UI精讲.mp4     57.11MB
+    │      │  4.2布局基础 .mp4     458.57MB
+    │      │  4.3.1组件的使用.mp4     107.69MB
+    │      │  4.3.2视图容器组件.mp4     287.52MB
+    │      │  4.3.3基础内容组件.mp4     80.03MB
+    │      │  4.3.4表单组件.mp4     192.34MB
+    │      │  4.4.1操作反馈小工具.mp4     200.22MB
+    │      │  4.4.2导航.mp4     47.43MB
+    │      │  4.4.3多媒体.mp4     153.04MB
+    │      │  4.4.4地图与LBS.mp4     49.46MB
+    │      │  4.4.5画布与游戏.mp4     113.44MB
+    │      │  4.5综合案例 - 评测小程序首页的实现.mp4     511.87MB
+    │      │  5.1微信小程序的API开发简介.mp4     21.55MB
+    │      │  5.2.1请求服务器数据.mp4     140.23MB
+    │      │  5.2.2图片选择与调用微信拍照.mp4     116.69MB
+    │      │  5.2.3文件上传与下载.mp4     319.95MB
+    │      │  5.2.4 webSocket.mp4     332.65MB
+    │      │  5.2.5音乐的播放和控制.mp4     240.54MB
+    │      │  5.2.6缓存数据.mp4     100.32MB
+    │      │  5.2.7获取当前位置.mp4     104.98MB
+    │      │  5.3.1设备信息.mp4     96.06MB
+    │      │  5.4.1 交互反馈.mp4     109.57MB
+    │      │  5.4.2导航和导航条.mp4     134.05MB
+    │      │  5.4.3动画.mp4     155.2MB
+    │      │  5.4.4绘图.mp4     266.59MB
+    │      │  6.1课程介绍.mp4     45.88MB
+    │      │  6.2.1使用 Xmind 进行产品需求分析.mp4     50.6MB
+    │      │  6.2.2使用墨刀进行产品原型设计.mp4     172.77MB
+    │      │  6.3.1路由配置，完成底部 TabBar 设计.mp4     118.66MB
+    │      │  6.3.2产品层级、组件模块化设计.mp4     54.97MB
+    │      │  6.4.1组件讲解.mp4     135.5MB
+    │      │  6.4.2列表页开发.mp4     173.98MB
+    │      │  6.4.3主题页开发.mp4     107.04MB
+    │      │  6.4.4节点页面开发.mp4     68.2MB
+    │      │  6.4.5用户信息页面开发.mp4     69.53MB
+    │      │  6.4.6使用 WXSS 对页面组件进行美化.mp4     78.55MB
+    │      │  6.5.1wx.navigateTo、wx.redirectTo、wx.request 方法使用讲解.mp4     58MB
+    │      │  6.5.2使用 wx.navigateTo 完成页面跳转.mp4     172.61MB
+    │      │  6.5.3使用 wx.request 取云端数据.mp4     205.87MB
+    │      │  6.6V2EX 小程序发布及注意事项.mp4     64.06MB
+    │      │  微信小程序页面的生命周期和参数传递.rar     3KB
+    │      │  综合案例 - 用户登录.rar     1.51MB
+    │      │
+    │      └─课件资料demo
+    │              微信小程序事件.rar     3KB
+    │              微信小程序开发工具的使用.rar     7KB
+    │              微信小程序的生命周期与app对象的使用.rar     4KB
+    │              微信小程序的配置详解.rar     7KB
+    │              目录结构详解.rar     4KB
+    │              综合案例 - 快递查询.rar     3KB
+    │              视图与渲染.rar     4KB
+    │
+    ├─第一章
+    │      1-1.mp4     35.53MB
+    │      1-2.mp4     10.37MB
+    │      20170117_113209.mp4     12.76MB
+    │      20170117_115444.mp4     11.53MB
+    │
+    ├─第七章
+    │      7-1.mp4     182.71MB
+    │      7-11.mp4     53.85MB
+    │      7-12.mp4     132.07MB
+    │      7-13.mp4     262.72MB
+    │      7-14.mp4     207.51MB
+    │      7-15.mp4     135.15MB
+    │      7-16.mp4     102MB
+    │      7-2-3.mp4     26.06MB
+    │      7-4.5.6.mp4     52.04MB
+    │      7-7.mp4     47.14MB
+    │      7-8.mp4     32.29MB
+    │      7-9-10.mp4     256.35MB
+    │
+    ├─第三章
+    │      3-1-2.mp4     15.15MB
+    │      3-10.mp4     3.32MB
+    │      3-34.mp4     34.58MB
+    │      3-56.mp4     42.73MB
+    │      3-78.mp4     22.15MB
+    │      3-9.mp4     20.57MB
+    │
+    ├─第九章
+    │      9-1.2.mp4     265.34MB
+    │      9-10.mp4     308.12MB
+    │      9-11-12.mp4     89.54MB
+    │      9-3.4.5.mp4     325.6MB
+    │      9-6.mp4     204.31MB
+    │      9-7.mp4     197.02MB
+    │      9-8.9.mp4     341.73MB
+    │
+    ├─第二章
+    │      第二章.mp4     27.64MB
+    │
+    ├─第五章
+    │      第5章1-3.mp4     337.15MB
+    │
+    ├─第八章
+    │      8-1.mp4     106.7MB
+    │      8-2.mp4     56.68MB
+    │      8-3.mp4     282.63MB
+    │      8-4.mp4     145.95MB
+    │      8-5.mp4     416.45MB
+    │      8-6.7.mp4     351.42MB
+    │      8-8.9.mp4     502.08MB
+    │
+    ├─第六章
+    │      第六章1-3.mp4     430.88MB
+    │      第六章10-12.mp4     522.88MB
+    │      第六章13-14.mp4     192.49MB
+    │      第六章15-17.mp4     258.69MB
+    │      第六章4-6.mp4     439.84MB
+    │      第六章7-9.mp4     331.11MB
+    │
+    ├─第十一章
+    │      11-1.mp4     246.1MB
+    │      11-2.mp4     110.65MB
+    │      11-3.mp4     270.87MB
+    │      11-4.mp4     114.41MB
+    │
+    ├─第十章
+    │      10-1.mp4     83.89MB
+    │      10-2.3.4.5.mp4     328.89MB
+    │      10-6.mp4     233.15MB
+    │
+    └─第四章
+            4章1-2.mp4     27.06MB
+            4章10-11.mp4     145.07MB
+            4章3 .mp4     128.6MB
+            4章4 构建新闻列表.上.mp4     121.63MB
+            4章5 构建新闻列表.下.mp4     190.12MB
+            4章6-8.mp4     291.56MB
+            4章9.mp4     186.49MB
+
+
+
+本帖隐藏的内容
+链接: https://pan.baidu.com/s/1kLAk-jNMY5RhTzOodllm6w 提取码: yi52 复制这段内容后打开百度网盘手机App，操作更方便哦

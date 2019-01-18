@@ -1,0 +1,44 @@
+【课程内容】
+
+网站大访问量
+网站大数据存储
+网站加速技术
+网站服务监控
+网络数据转发原理
+Lvs Nat和ip-tun模式
+Lvs Dr模式和Lvs实验测试
+Squid代理服务器原理
+Squid普通代理实验测试
+Squid透明和反向代理
+MySQL grant用户授权
+MySQL bin-log日志和主从复制
+MySQL分区理论
+MySQL分区实验
+MySQL基础操作
+MySQL SQL语句技巧与优化
+Mysql索引优化
+数据库与服务器优化
+Snmp网络管理协议
+Mrtg系统监控
+Postfix邮件和Shell报警脚本
+Cacti系统监控
+Cacti邮件报警和压力测试
+Sphinx全文检索
+Sphinx安装与测试
+Coreseek安装与测试
+PHP搜索代码测试
+Sphinx实时索引
+Mongodb安装和使用
+Mongodb增加、删除和查询操作
+Mongodb高级查询操作
+Mongodb高级更改操作
+Mongodb固定集合与性能优化
+Mongodb数据库和架构管理
+
+【下载地址】
+
+本帖隐藏的内容
+付费内容 购买记录
+
+链接：https://pan.baidu.com/s/1dCGzpG 密码：dhwo
+解压密码：www.mukedaba.com

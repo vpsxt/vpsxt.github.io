@@ -1,0 +1,53 @@
+
+【课程内容】
+
+步骤1: HTML基础
+
+HTML基础
+HTML表格
+HTML表单
+案例搭建网页HTML结构
+HTML基础测试
+
+步骤2: CSS基础
+
+CSS选择的艺术
+CSS文本样式
+CSS背景和列表
+盒子模型
+float浮动
+CSS定位（position）
+CSS网页布局基础
+网页布局案例
+CSS基础测试
+
+步骤3: JavaScript基础
+
+JavaScript语法
+JavaScript流程控制语句
+JavaScript函数
+JavaScript内置对象
+JavaScript DOM基础
+JavaScript DOM事件
+JavaScript BOM基础
+JavaScript实现轮播特效
+JavaScript基础测试
+
+步骤4: jQuery基础
+
+jQuery选择的艺术
+jQuery DOM操作
+jQuery事件
+jQuery插件
+jQuery弹出层案例
+瀑布流布局案例
+jQuery基础测试
+
+步骤5: 实战案例
+
+Photoshop辅助工具
+统一挂号平台案例
+最终测试题
+
+链接：http://pan.baidu.com/s/1miqNvhI 密码：ys3a
+解压密码：www.mukedaba.com
