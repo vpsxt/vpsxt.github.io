@@ -1,0 +1,60 @@
+Web开发技术 Ajax高薪班教程
+https://www.mukedaba.com/thread-3821-1-1.html
+
+AJAX = Asynchronous JavaScript and XML（异步的 JavaScript 和 XML）。
+
+AJAX 不是新的编程语言，而是一种用于创建更好更快以及交互性更强的Web应用程序的技术。AJAX通过在后台与服务器进行少量数据交换，AJAX 可以使网页实现异步更新。这意味着可以在不重新加载整个网页的情况下，对网页的某部分进行更新。是与服务器交换数据并更新部分网页的艺术。
+
+在学习本套课程之前，你需要掌握：
+
+HTML / XHTML
+CSS
+JavaScript / DOM
+
+【课程内容】
+
+第一天
+
+Ajax简介
+异步的概念
+服务器环境的搭建
+第一个Ajax小程序
+XHR对象详解
+HTTP状态码的验证
+稍微熟悉PHP的知识
+GET和POST
+
+第二天
+
+函数思想
+把函数当参数
+函数重载
+向外暴露变量
+Ajax包的封装
+表单序列化
+
+第三天
+
+表单序列化BUG修复
+JSON解析
+网易用户名检测
+静态模板技术
+百度百家
+
+第四天
+
+百度百家完成
+JSONP跨域技术
+瀑布流
+
+百度云下载地址：
+链接：http://pan.baidu.com/s/1mi8ZNRy 密码：r311
+解压密码：www.mukedAbA.com/#提3eB7106C3477A60E6B高BF5DBFDE1DA59C
+
+不限速下载地址：
+[onlyvip]sync密钥：BVWH2HQGE6YLLU4BJM5JKP53R7QBZS3TY
+
+如何使用密钥下载资源？点击查看[/onlyvip]
+无法下载？遇到问题？点击发帖反馈
+
+

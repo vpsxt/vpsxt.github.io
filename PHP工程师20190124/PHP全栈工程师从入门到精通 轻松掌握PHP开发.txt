@@ -1,0 +1,80 @@
+https://www.mukedaba.com/thread-12993-1-1.html
+
+
+【课程内容】
+
+第1阶段：Web前端开发技术必知必会
+
+1.Web前端开发之HTML+CSS基础入门
+2.Javascript初步
+3.jquery基础应用
+
+第2阶段：Phpweb开发基础
+
+1.PHP语言编程基础
+2.PHP 面向对象基础
+3.mysql基础
+4.PHP和MySQL函数库的使用
+5.ajax入门
+6.Smarty模板引擎
+7.php博客系统开发
+
+第3阶段：Phpweb开发进阶
+
+1.Php语言编程进阶
+2.PHP画图
+3.Redis入门
+4.会话控制
+5.GD库
+6.WEB在线文件管理器
+7.文件目录函数库
+8.curl
+9.正则表达式
+10.mysql操作数据库与实战
+
+第4阶段：Phpweb项目实战
+
+1.ThinkPHP框架开发 - 多用户留言系统的设计
+2.项目实战二(未开课)
+3.Mysql进阶
+4.bootstrap入门
+5.Linux基础
+6.深入浅出LNMP生产环境优化及LVS集群
+7.Web应用安全
+8.Javascript 进阶
+9.Html5+css3
+10.大型网站项目优化
+11.千万级php电商秒杀项目实战
+
+第5阶段：Phpweb知识扩展
+
+1.PHP微信接口开发之基础篇
+2.PHP微信接口开发之高级篇
+3.yii框架入门
+4.yii项目：开发企业站点
+5.Laravel：地球上最好用的PHP框架 - 入门
+6.基于discuz快速建站全程讲解
+7.bootstrap综合实战
+8.Microsoft SQL Server 2014数据库基础知
+9.laravel实战
+10.ecshop独立网店二次开发
+11.服务器监控报警及压力测试
+12.dedecms仿站实战教程
+13.玩转Sphinx搜索引擎
+14.php服务器扩展
+15.Thinkphp5商城项目实战第一季
+16.百度地图接口开发
+17.带你走进YII框架
+18.php7.0新特性
+19.oop实战进阶
+20.调试工具使用
+21.PHP运行环境搭建(WAMP + LAMP)
+22.php-微博接口开发
+23.Php底层运行机制
+24.支付宝即时到账接口开发
+25.PHPCMS的使用以及二次开发
+26.jquery入门
+27.Git 与 GitHub
+
+链接：https://pan.baidu.com/s/1qZRid1i 密码：vcf5
+解压密码：www.mukedaba.com

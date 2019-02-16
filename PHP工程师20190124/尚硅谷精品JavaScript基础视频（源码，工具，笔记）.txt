@@ -1,0 +1,27 @@
+尚硅谷精品JavaScript基础视频（源码，工具，笔记）
+
+https://www.mukedaba.com/thread-9011-1-4.html
+
+
+【课程内容】
+
+基本语法 
+数据类型 
+类型转换 
+运算符 
+流程控制语句 
+对象与函数
+内建对象
+正则表达式
+DOM操作
+事件
+BOM操作
+定时器的应用
+轮播图练习
+二级菜单练习
+JSON操作
+
+【下载地址】
+
+链接：http://pan.baidu.com/s/1cjhgqa 密码：u8op
+解压密码：www.mukedaba.com
