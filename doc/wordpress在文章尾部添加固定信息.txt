@@ -1,0 +1,29 @@
+在模版functions.php文件中添加如下代码:
+
+function insertFootNote($content) {
+if(!is_feed() && !is_home()) {
+$content.= "<div class='sublast'>";
+$content.= "<p>如有问题请联系站长QQ:78025108   <a target='_blank' href='//shang.qq.com/wpa/qunwpa?idkey=06bc535431addacecaabcb4f4a524deb0fdbcf23277c993f01d64a937663f65b'>QQ群:253510359</a></p>";
+$content.= "</div>";
+}
+return $content;
+}
+add_filter ('the_content', 'insertFootNote');
+
+
+
+在模版style.css中添加如下代码:
+
+.sublast{
+    width:100%;
+    height:40px;
+    line-height:40px;
+    background:#eee;
+    text-align:center;
+    font-size:20px;
+    color:red;
+}
+.sublast a:link{
+    color:red;
+
+}

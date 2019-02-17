@@ -1,0 +1,208 @@
+大家可以保存有一下。
+accept 同意、接受
+access your account 登陆个人帐号
+ACCOUNT INFO 帐号信息
+Account Name 帐号名
+Additional 附加的
+Address 市内地址,一般不包含城市以上的信息
+address1 填写你的收款地址，原则是邮递员看得懂就行。请参照基础知识中的《如何翻译通讯地址》
+address2 第二收款地址，[address1]如果填不下可以填这里
+advertising 宣传,广告
+again 重复,再(输入一次)
+Age 年龄
+Alternate 补充
+Annual Household Income 年收入水平
+Annual Income 年收入
+Answer 答案
+Application form 申请表格
+at least 至少
+Authentication Information (证明)登录信息(选择用户名和密码)
+BALANCE 帐号余额
+BANNER 广告横幅,一个表现商家广告内容的图片,放置在广告商的页面上,通常大小为468*68,往往做成动画形式
+Become a Member 成为一名成员,会员
+Birth date 出生年月日
+Bonus 奖金,红利,多少不确定,而且不是一定能得到的
+business page 主页地址
+buy online 网上购物
+Category 类别
+characters 字符
+check 支票
+check all that apply 可以全部选择
+check your stats 查看您的收益
+citizen 国籍
+City 城市
+claim 领取
+CLICKS 点击次数,每一次当访客通过点击这个横幅广告访问一次商家网页,称点击一次。点击次数可以客观准确地反映广告效果
+CLICKS RATIO 点击率,是广告吸引力的一个标志。如果这个网页出现了一万次,而网页上的广告的点击次数为五百次,那么点击率为5%
+confirm 确认,再输入一遍
+Confirm Password 再输入一次密码
+construction 建设、制作
+continue 继续
+COST PER THOUSAND 每千人次访问收费,按访问人次收费已经成为网络广告的惯例。目前国际上每个CPM收费从到不等
+COUNTER 计数器
+Country 国家
+country code 国家代码(指电话),中国为86
+CPM 每千人次访问收费,按访问人次收费已经成为网络广告的惯例。目前国际上每个CPM收费从到不等
+Create An Account 申请一个新帐号
+day 白天
+delete 删除
+Description 对…的描述
+Do you currently have a Web page 是否有个人主页
+Do you have a credit card? 有信用卡吗
+Education 所受教育状况
+E-mail address 电子邮件地址
+Employment status 雇佣状况
+ethnicity 人种,中国人应填ASIAN
+evening 晚上
+Evolution 变化、变故
+Family status 家庭状况
+FAQ 疑问解答
+Fax 传真
+female 女性
+first 首先
+First Name 名字,用汉语拼音表示(不包含性)
+foreign 外国的
+forfeit 罚款,没收,封号
+forget 忘记
+gender 性别
+get paid to read e-mail 邮件赚钱
+get paid to surf the net 上网赚钱
+help 帮助
+HISTORY (交易)历史
+Home phone number 家庭电话
+Home Telephone 家庭电话
+household income 家庭年收入
+Howdidyouhearaboutus 你是如何知道我们的
+I AGREE 我同意(上述协议)
+IMPRESSION 投放次数,网页被访问的次数
+in the past year 去年
+income 收入状况
+Individual 特别的、个别的
+International 国际(上的)
+invite 邀请
+Is your home owned or rented? 您的住房是自己的还是租的?
+Job Category 工作类型
+join now 参加
+language 语言,中国人应填Chinese
+Last Name 姓氏,用汉语拼音表示(不包含名)
+Less than 不超过
+LOG IN 登陆
+LOG OUT 退出(帐号查询交易)系统
+Login 登录
+login name 用户名
+LOGO 图标,通常用来宣传商家的商标或特定标志,通常大小为81*33。
+Mailing Address 邮寄地址,通讯地址
+male 男性
+Marital Status 婚姻状况
+married 已婚
+members area 登录到会员区
+Membership 资格,权利
+Membership Agreement 登记表格
+methods 方式
+minimum payment 最低付款金额
+Minimum payment to send 支付时的最小数额
+Mr. 男士
+Mrs. 夫人
+Ms. 小姐
+must 必须
+must be valid 必须实事求是填写
+Name 姓名
+never 从不，切勿选择该项！
+never purchased online 从不，切勿选择该项！
+night 晚上
+No 否
+NTERTAINMENT 娱乐、乐趣
+number 号码
+Number of Vehicles 汽车数量
+occasionally 不定期
+Occupation 职业
+Optional 可选项,嫌麻烦的话可以省略不填
+PAGEVIEWS 综合浏览量,网站各网页被浏览的总次数。一个访客有可能创造十几个甚至更多的PAGEVIEWS。
+passphrase 代码,密码
+Password 密码
+pay rate 付费标准，费率
+Payment 支付报酬
+Payrate 支付率、支付等级
+phone 电话
+Points 点数,结算时根据广告公司的效益兑换成金钱,兑换率是不确定的
+PORTAL PAGE 点击广告后连到的页面,通常这个页面不是商家网站的首页,而是针对广告内容重新设计的页面。
+Postal Code 邮政编码
+Potential 有可能、有机会
+Preferred check size 最低付款金额
+Premier 高级的
+prohibited 禁止
+Province 省
+purchased a product online 网上购物经历
+reach 得到
+REDEEM 兑换
+refer a friend 介绍朋友
+referrer 上线,介绍人。通常由系统自动生成,而且绝对不能更改,否则无法享受应有的服务,甚至很可能收不到钱。上限的存在并不影响自己的收入，绝大多数网站的加入必须要有一个上线，因为您不可能无缘无故的知道它。如果你修改了介绍人，系统会自动分配一个给你，而且是一个美国人，对您没有任何贡献。事实上，这是一个网站保护传播者利益，最终也是保护自己的一种措施。一般来说，如果您注册时更改了介绍人，以后本来属于您的下线都会消失，这将是一笔很大的损失。另外，您本来可以从上线处获得很多服务、指导，但您不是他的下线，他是绝对不会帮助您的
+register 登记,注册
+Registration 注册
+Religion 宗教信仰
+reset/clear form 全部重填
+Retype 再输入一遍
+rules 规则
+Salutation 称呼,称谓
+security measure 为安全起见
+Security Question 找回密码问题(忘记密码后可用来找回密码)
+Select 选择
+sent 发送,邮寄
+separate 单独的,分开的
+*** 性别
+sign in 注册
+sign up 注册
+single 单身
+Site Cate
+gory 站点类别
+Social Security Number (美国)社会保险号
+SPEND 支付
+spent online 网上消费
+Sponsor 赞助商
+极品香蕉 (美国)社会保险号
+State (美国的)洲,中国没有。一般填None,或其它表示没有意义的单词
+subject 主题、内容
+submit 提交
+submit registration 提交，发送登记表
+Subscribe for commercial email 是否接受广告信
+Suspended 废除、取消、停止、剔除、封号
+switch 切换
+Tax ID Number 付税ID号
+TAXID 付税ID号
+Terms 条款,协议,合同
+theme 主题、内容
+this field is optional 可选项／这个选项可选
+town 城市
+UNIQUE HOST 独立访客。由于每个访客有可能制造出多个PAGEVIEWS，而访客玩新网页也会使IMPRESSION数增加，所以PAGEVIEWS或IMPRESSION都不能精确表现网站的访问人数。通常情况下每个访客都会来自于不同的地址，称为来自不同的IP。独立访客即将来自同一IP的访客视为同一个人，从而获得更精确的访客人数。象网易中文排行榜提供的易数统计所提供的数字就是UNIQUE HOST。通常很多网站公布的访问量都是PAGEVIEWS或IMPRESSION，PAGEVIEWS往往是IMPRESSION的数倍，而IMPRESSION又会比UNIQUE HOST高出许多
+Unverified 未经证实的
+URL of your current home 你的主页地址
+use our services to make money 是否想通过我们赚钱
+User Name 用户名
+user policy 用户规则
+Username(ID) 自己为自己起一个用户名填上
+verify password 再输入一次密码
+we will send your money here 支票寄往地址
+WEB Site Address 主页地址
+Web Site Category 主页类别
+Web Site Description 主页描述
+What are your interests 你对网上什么内容感兴趣
+What do you search for 你上网后主要浏览哪类网站
+What products do you buy online 你会在线购买什么商品?
+where we can send your check 支票寄送地址
+why you use Internet 在网上你所感兴趣的活动
+Whyare you using the Internet 你为什么使用internet?
+withdraw 申请付款
+Work Telephone 工作单位电话号码
+Would you like 您是否希望(想)
+year of birth 出生年月日
+Yes 是
+your account 您的帐号区域
+Zip 邮政编码
+Session 登陆、访问、期限
+Vacation 假期、度假
+frozen 冻结
+cheque 支票,完全等同于check
+previous 上一个,前一个
+Purchase Advertising 购买广告
+Purchase 购买
+Individual Payrate (对于你)特定的付费标准

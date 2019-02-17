@@ -1,0 +1,26 @@
+https://zhidao.baidu.com/question/2078148264734548188.html
+
+可使用robots协议：建立robots.txt 文件，上传至网站根目录：
+屏蔽所有搜索引擎爬取网站的语法：
+
+User-agent: *
+
+Disallow: /
+
+允许所有搜索引擎爬取网站所有内容
+
+User-agent: *
+
+Disallow:
+只禁止百度抓取你网站的内容
+
+User-agent: Baiduspider
+
+Disallow: /
+只允许百度抓取你网站的内容
+
+User-agent: Baiduspider
+
+Disallow:
+
+User-agent: *

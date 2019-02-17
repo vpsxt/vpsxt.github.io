@@ -1,0 +1,332 @@
+
+
+
+WordPress基本模板文件
+一套完整的WordPress模板应至少具有如下文件：
+style.css: CSS(样式表)文件
+index.php : 主页模板
+archive.php : Archive/Category模板
+404.php : Not Found 错误页模板
+comments.php : 留言/回复模板
+footer.php : Footer模板
+header.php : Header模板
+sidebar.php : 侧栏模板
+page.php : 内容页(Page)模板
+single.php : 内容页(Post)模板
+searchform.php : 搜索表单模板
+search.php : 搜索结果模板
+当然，具体到特定的某款模板，可能不止这些文件，但一般而言，这些文件是每套模板所必备的。
+
+
+
+
+
+基本条件判断Tag
+
+is_home() : 是否为主页
+is_single() : 是否为内容页(Post)
+is_page() : 是否为内容页(Page)
+is_category() : 是否为Category/Archive页
+is_tag() : 是否为Tag存档页
+is_date() : 是否为指定日期存档页
+is_year() : 是否为指定年份存档页
+is_month() : 是否为指定月份存档页
+is_day() : 是否为指定日存档页
+is_time() : 是否为指定时间存档页
+is_archive() : 是否为存档页
+is_search() : 是否为搜索结果页
+is_404() : 是否为 “HTTP 404: Not Found” 错误页
+is_paged() : 主页/Category/Archive页是否以多页显示
+
+
+
+
+
+Header部分常用到的PHP函数
+
+<?php bloginfo(’name’); ?> : 博客名称(Title)
+<?php bloginfo(’stylesheet_url’); ?> : CSS文件路径
+<?php bloginfo(’pingback_url’); ?> : PingBack Url
+<?php bloginfo(’template_url’); ?> : 模板文件路径
+<?php bloginfo(’version’); ?> : WordPress版本
+<?php bloginfo(’atom_url’); ?> : Atom Url
+<?php bloginfo(’rss2_url’); ?> : RSS 2.o Url
+<?php bloginfo(’url’); ?> : 博客 Url
+<?php bloginfo(’html_type’); ?> : 博客网页Html类型
+<?php bloginfo(’charset’); ?> : 博客网页编码
+<?php bloginfo(’description’); ?> : 博客描述
+<?php wp_title(); ?> : 特定内容页(Post/Page)的标题
+
+
+
+
+
+模板常用的PHP函数及命令
+
+<?php get_header(); ?> : 调用Header模板
+<?php get_sidebar(); ?> : 调用Sidebar模板
+<?php get_footer(); ?> : 调用Footer模板
+<?php the_content(); ?> : 显示内容(Post/Page)
+<?php if(have_posts()) : ?> : 检查是否存在Post/Page
+<?php while(have_posts()) : the_post(); ?> : 如果存在Post/Page则予以显示
+<?php endwhile; ?> : While 结束
+<?php endif; ?> : If 结束
+<?php the_time(’字符串’) ?> : 显示时间，时间格式由“字符串”参数决定，具体参考PHP手册
+<?php comments_popup_link(); ?> : 正文中的留言链接。如果使用 comments_popup_script() ，则留言会在新窗口中打开，反之，则在当前窗口打开
+<?php the_title(); ?> : 内容页(Post/Page)标题
+<?php the_permalink() ?> : 内容页(Post/Page) Url
+<?php the_category(’, ‘) ?> : 特定内容页(Post/Page)所属Category
+<?php the_author(); ?> : 作者
+<?php the_ID(); ?> : 特定内容页(Post/Page) ID
+<?php edit_post_link(); ?> : 如果用户已登录并具有权限，显示编辑链接
+<?php get_links_list(); ?> : 显示Blogroll中的链接
+<?php comments_template(); ?> : 调用留言/回复模板
+<?php wp_list_pages(); ?> : 显示Page列表
+<?php wp_list_categories(); ?> : 显示Categories列表
+<?php next_post_link(’ %link ‘); ?> : 下一篇文章链接
+<?php previous_post_link(’%link’); ?> : 上一篇文章链接
+<?php get_calendar(); ?> : 日历
+<?php wp_get_archives() ?> : 显示内容存档
+<?php posts_nav_link(); ?> : 导航，显示上一篇/下一篇文章链接
+<?php include(TEMPLATEPATH . ‘/文件名’); ?> : 嵌入其他文件，可为定制的模板或其他类型文件
+
+
+
+
+
+与模板相关的其他函数
+
+<?php _e(’Message’); ?> : 输出相应信息
+<?php wp_register(); ?> : 显示注册链接
+<?php wp_loginout(); ?> : 显示登录/注销链接
+<!–next page–> : 将当前内容分页
+<!–more–> : 将当前内容截断，以不在主页/目录页显示全部内容
+<?php timer_stop(1); ?> : 网页加载时间(秒)
+<?php echo get_num_queries(); ?> : 网页加载查询量
+
+
+
+
+
+介绍如何定义index.php以及如何派生出其它文件，在index.php文件中，在body元素内，新建如下结构化标记元素，各元素都带有不同的id属性:
+
+<div id=”page”>
+<div id=”header”></div>
+<div id=”content”></div>
+<div id=”sidebar”></div>
+<div id=”footer”></div>
+</div>
+
+这些不同的属性，分别代表着不同的区域，让人一看就知道是什么意思，下面我们重点探讨header,content,sidebar,footer部分的构建。
+
+(一).构建header
+
+<div id=”header”></div> 元素的两个标签之间输入下列代码：
+<h1><a href=”<?php bloginfo(’url’); ?>” title=”<?php bloginfo(’name’); ?>”><?php bloginfo(’name’); ?></a></h1>
+<p><?php bloginfo(’description’); ?></p>
+
+这里用到了 WP 内置的 bloginfo 函数来生成内容，其中：
+
+bloginfo(’url’)返回网站主页链接；
+bloginfo(’name’)返回网站标题；
+bloginfo(’description’)返回网站描述。
+保存 index.php 文件，然后在浏览器中按 F5 刷新一下页面，看能看到什么？再通过“查看源文件”，核对一下由 WP 的 bloginfo() 函数生成的相关信息。
+
+(二).构建content
+
+在 <div id=”content”></div> 中，我们要通过循环显示博文，包括每个博文的标题、作者、发表日期以及其他相关信息。并且，可以分页显示博文（取决于 WP 后台的设置）。
+首先，在 <div id=”content”> 与 </div> 之间输入下列代码：
+
+<?php while (have_posts()) : the_post(); ?> <div class=”post” id=”post-<?php the_ID() ?>”>
+<!– 博文标题及链接 –>
+<h2><a href=”<?php the_permalink() ?>” rel=”bookmark” title=”<?php the_title(); ?>”>
+<?php the_title(); ?></a></h2>
+<!– 发表日期 –>
+<div class=”post-date”>
+<span class=”post-month”><?php the_time(’M’) ?></span>
+<span class=”post-day”><?php the_time(’d’) ?></span>
+</div>
+<!– 作者 –>
+<span class=”post-author”><?php _e(’Author’); ?>：<?php the_author(’, ‘) ?></span>
+<!– 类别 –>
+<span class=”post-cat”><?php _e(’Categories’); ?>：<?php the_category(’, ‘) ?></span>
+<!– 注释 –>
+<span class=”post-comments”>
+<?php comments_popup_link(’No Comments ?’, ‘1 Comment ?’, ‘% Comments ?’); ?></span>
+<!– 内容 –>
+<div class=”entry”>
+<?php the_content(’更多内容 ?’); ?>
+</div>
+<!– 其他元（Meta）数据 –>
+<div class=”post-meta”>
+<?php edit_post_link(’编辑’,’ | ‘,”); ?>
+</div> </div>
+<?php endwhile; ?><div class=”navigation”>
+<span class=”previous-entries”><?php next_posts_link(’前一篇’) ?></span> <span class=”next-entries”><?php previous_posts_link(’后一篇’) ?></span>
+</div>
+<?php else : ?>
+<div class=”post”>
+<h2><?php _e(’Not Found’); ?></h2>
+</div><?php endif; ?>
+
+看似复杂，其实不然。首先：
+
+<?php while (have_posts()) : the_post(); ?>
+<?php endwhile; ?>
+
+这两行，是 WP 中的 while 循环。其中，while 语句通过测试 have_posts() 决定是否调用 the_post() 函数。如果测试 have_posts() 返回 true，则调用 the_post() 函数，初始化与博文相关的内置变量。
+在 while 循环内部，首先要注意通过 div、h2、span 这三个元素定义的嵌套语义结构，以及相应元素的 class 和 id 属性（其中只为 class 为 post 的 div 元素定义了一个 id 属性－－post-<?php the_ID() ?>）。这是将来使用 CSS 控制外观的关键所在。在这个 div 元素中，为显示博文的相关信息，分别调用了以下 WP 函数：
+
+the_ID()：返回博文 ID；
+the_permalink()：返回博文固定链接 URL；
+the_title()：返回博文标题；
+the_time(’M’)：返回发表日期中的月份；
+the_time(’d’)：返回发表日期中的天；
+the_author()：返回博文作者；
+the_category()：返回博文的类别；
+the_content()：返回博文的内容，其中的参数表示用于“更多内容”的链接文本；
+以上函数都是以 the_ 开头的，加上后面的函数名不仅颇有自解释的味道，而且令人联想到 this 关键字。此外
+_e() 函数是一个包装函数，这个函数主要用于语言的转换，如果调用该函数并传递标准的 WP 术语，如：Author 或 Categories，则返回你相应语言包中的译文，在中文包中分别是“作者”和“类别”。当然，不用也可。但会失去一些适应性。
+还有，omments_popup_link() 和 edit_post_link() 两个函数，分别显示注释和编辑链接，这里不多说了。
+另外，在 <?php endwhile; ?> 后面显示了分页导航链接，调用的函数分别是：next_posts_link() 和 previous_posts_link()。此时，如果你的博文总数小于 WP 后台设置的最多显示数目，比如：你在后台设置最多显示 5 篇，而你有 10 篇博文，就会分页显示；否则，如果你的博文少于或等于 5 篇则看不到分页导航链接。
+最后，不要丢下 <?php else : ?> 语句后面的内容：
+
+<div class=”post”>
+<h2><?php _e(’Not Found’); ?></h2>
+</div>
+
+显然，这是一个错误提示信息。
+
+(三).构建sidebar
+
+sidebar 的内容当然要在 <div id=”sidebar”></div> 元素中构建了。sidebar，中文叫侧边栏，其中可以包含很多内容。比如：分类、页面、链接、日历等等导航及相关信息。
+在 WP 中，sidebar 中的内容都以无序（ul）或有序（ol）列表的形式输出。因此，需要在 <div id=”sidebar”></div> 中输入以下标记：
+
+<ul>
+<?php if ( !function_exists(’dynamic_sidebar’) || !dynamic_sidebar() ) : ?>
+<li id=”search”>
+<?php include(TEMPLATEPATH .’/searchform.php’); ?>
+</li> <li id=”calendar”>
+<h2><?php _e(’Calendar’); ?></h2>
+<?php get_calendar(); ?>
+</li> <?php wp_list_pages(’title_li=<h2>页面</h2>’); ?> <li class=”catnav”>
+<h2><?php _e(’Categories’); ?></h2>
+<ul>
+<?php wp_list_cats(’sort_column=name&optioncount=1&hierarchical=0′); ?>
+</ul>
+</li>
+<li class=”archivesnav”>
+<h2><?php _e(’Archives’); ?></h2>
+<ul>
+<?php wp_get_archives(’type=monthly’); ?>
+</ul>
+</li>
+<li class=”blogrollnav”>
+<h2><?php _e(’Links’); ?></h2>
+<ul>
+<?php get_links(’-1′, ‘<li>’, ‘</li>’, ‘<br />’, FALSE, ‘id’, FALSE, FALSE, -1, FALSE); ?>
+</ul>
+</li>
+<li class=”meta”>
+<h2><?php _e(’Meta’); ?></h2>
+<ul><?php wp_register(); ?><li><?php wp_loginout(); ?></li>
+<?php wp_meta(); ?></ul>
+</li>
+<?php endif ?>
+</ul> 以上代码从第三行开始，分别通过包含 searchform.php 显示搜索表单；
+
+调用 get_calendar() 函数显示日历；
+调用 wp_list_pages() 函数显示页面导航；
+调用 wp_list_cats() 函数显示分类导航；
+调用 wp_get_archives() 函数显示存档导航；
+调用 get_links() 函数显示链接导航。
+在构建侧边栏时，要为生成搜索框新建一个 searchform.php 文件，其内容如下：
+
+<form method=”get” id=”searchform” action=”<?php bloginfo(’home’); ?>/”>
+<div>
+<input type=”text” value=”<?php echo wp_specialchars($s, 1); ?>” name=”s” id=”s” size=”15″ /><br />
+<input type=”submit” id=”searchsubmit” value=”Search” />
+</div>
+</form>
+
+将其保存在 myTheme 文件夹中，通过 include 语句包含进来就可以了。注意，常量 TEMPLATEPATH 中保存的是模板路径。
+最后，说明一下以上代码第二行和倒数第二行。显然这是一个 if 语句块。那这个 if 语句块包含 sidebar 是何用意呢？这是部件化侧边栏的需要，就是让 sidebar 适合 Widget 插件（WP 2.0 后内置了 Widget，所以不用再安装了）。如果要使用 Widget 插件，必须对 sidebar 进行部件化。这样，在 WP 后台通过 Widget 插件你就可以使用拖动来方便地定义侧边栏的组件了。部件化侧边栏，除了在 ul 元素内侧放入这个 if 语句之外，还必须在 myTheme 文件夹中建立一个文件 functions.php，其内容如下：
+
+<?php
+if ( function_exists(’register_sidebar’) )
+register_sidebar(array(
+‘before_widget’ => ‘<li id=”%1$s” class=”widget %2$s”>’,
+‘after_widget’ => ‘</li>’,
+‘before_title’ => ‘<h2 class=”sidebartitle”>’,
+‘after_title’ => ‘</h2>’,
+));
+?>
+
+(四).构件footer
+
+footer 中一般都一些版权信息和不太重要的链接。所以可以在 <div id=”footer”></div> 元素中简单地放入下列代码：
+
+<p>Copyright ? 2007 <?php bloginfo(’name’); ?></p>
+
+至此，核心 index.php 文件就算是大功告成了！
+
+接下来，是拆分 index.php 和基于 index.php 派生子模板文件。
+
+在 myTheme 文件夹中新建 header.php、sidebar.php 和 footer.php 三个文件。把 index.php 中的 <div id=”header”></div>、<div id=”sidebar”></div> 和 <div id=”footer”></div> 三个结构化元素及其内容分别转移（剪切）到这三个新文件中。然后，在 <div id=”header”></div> 原来的位置处输入代码：
+
+<?php get_header();?>
+在 <div id=”sidebar”></div> 原来的位置处输入代码：
+<?php get_sidebar();?>
+在 <div id=”footer”></div> 原来的位置处输入代码：
+<?php get_footer();?>
+
+前面说过，这三个 get 函数是 WP 专门为包含结构化的文件定义的。现在你的 index.php 文件应该如下所示：
+
+<!DOCTYPE html PUBLIC “-//W3C//DTD XHTML 1.0 Transitional//EN” “http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd“>
+<html xmlns=”http://www.w3.org/1999/xhtml“><head profile=”http://gmpg.org/xfn/11“>
+<meta http-equiv=”Content-Type” content=”<?php bloginfo(’html_type’); ?>; charset=<?php bloginfo(’charset’); ?>” /><title><?php bloginfo(’name’); ?> <?php if ( is_single() ) { ?> ? Blog Archive <?php } ?> <?php wp_title(); ?></title><meta name=”generator” content=”WordPress <?php bloginfo(’version’); ?>” /> <!– leave this for stats –><link rel=”stylesheet” href=”<?php bloginfo(’stylesheet_url’); ?>” type=”text/css” media=”all” />
+<link rel=”stylesheet” href=”<?php bloginfo(’stylesheet_directory’); ?>/print.css” type=”text/css” media=”print” />
+<link rel=”alternate” type=”application/rss+xml” title=”<?php bloginfo(’name’); ?> RSS Feed” href=”<?php bloginfo(’rss2_url’); ?>” />
+<link rel=”pingback” href=”<?php bloginfo(’pingback_url’); ?>” /><?php wp_head(); ?>
+</head>
+<body>
+<div id=”page”><?php get_header(); ?> <!– content –>
+<div id=”content”>
+<?php if (have_posts()) : ?>
+<?php while (have_posts()) : the_post(); ?> <div class=”post” id=”post-<?php the_ID() ?>”>
+<!– 博文标题及链接 –>
+<h2><a href=”<?php the_permalink() ?>” rel=”bookmark” title=”<?php the_title(); ?>”>
+<?php the_title(); ?></a></h2>
+<!– 发表日期 –>
+<div class=”post-date”>
+<span class=”post-month”><?php the_time(’M’) ?></span>
+<span class=”post-day”><?php the_time(’d’) ?></span>
+</div>
+<!– 作者 –>
+<span class=”post-author”><?php _e(’Author’); ?>：<?php the_author(’, ‘) ?></span>
+<!– 类别 –>
+<span class=”post-cat”><?php _e(’Categories’); ?>：<?php the_category(’, ‘) ?></span>
+<!– 注释 –>
+<span class=”post-comments”>
+<?php comments_popup_link(’No Comments ?’, ‘1 Comment ?’, ‘% Comments ?’); ?></span>
+<!– 内容 –>
+<div class=”entry”>
+<?php the_content(’更多内容 ?’); ?>
+</div>
+<!– 其他元（Meta）数据 –>
+<div class=”post-meta”>
+<?php edit_post_link(’编辑’,’ | ‘,”); ?>
+</div> </div>
+<?php endwhile; ?> <div class=”navigation”>
+<span class=”previous-entries”><?php next_posts_link(’前一篇’) ?></span> <span class=”next-entries”><?php previous_posts_link(’后一篇’) ?></span>
+</div>
+<?php else : ?>
+<div class=”post”>
+<h2><?php _e(’Not Found’); ?></h2>
+</div><?php endif; ?>
+</div><!– end content –><?php get_sidebar(); ?> <?php get_footer(); ?></div>
+</body>
+</html>
+
+然后，是派生子模板文件。把这个“模块化”的 index.php 文件另存为 single.php、page.php、archive.php、 search.php 和 category.php。当然，都保存在 myTheme 文件夹中。这样，WP 在显示页面时就会调用相应的页面文件了。比如，显示博文详细内容时，会调用 single.php；而显示页面内容时，则调用 page.php。
+最后，要做的工作就是自定义这些子模板文件。

@@ -1,0 +1,20 @@
+1.   安装 package control
+2.   安装 TAG HTML CSS 格式化插件
+3.   安装 JSformat JS格式化插件 
+4.   安装 CodeFormatter PHP格式化插件 
+5.   安装 Emmet 简化html和css书写 
+6.   安装 Alignment 代码对齐插件 
+7.   安装 汉化插件 
+8.   安装 sublimeLinter 语法检测
+9.   安装 BracketHighlighter
+10.  安装 Doc​Blockr
+11.  安装 SideBarEnhancements 侧边栏增加功能 
+12.  安装 View In Browser
+13.  安装 AStyleFormatter 代码风格化
+14.  安装 canIUse 用以检测浏览器的兼容性，选中元素，右键选择can i use
+15.  安装 Trmmer 去除代码多余的空格
+16.  安装
+17.  安装
+18.  安装
+19.  安装
+20.  安装

@@ -1,0 +1,45 @@
+/总物理内存/
+function memTotal() {
+$str = @file("/proc/meminfo");
+$str = implode("", $str);
+preg_match_all("/MemTotal\s{0,}\:+\s{0,}([\d\.]+).+?MemFree\s{0,}\:+\s{0,}([\d\.]+).+?Cached\s{0,}\:+\s{0,}([\d\.]+).+?SwapTotal\s{0,}\:+\s{0,}([\d\.]+).+?SwapFree\s{0,}\:+\s{0,}([\d\.]+)/s", $str, $buf);
+preg_match_all("/Buffers\s{0,}\:+\s{0,}([\d\.]+)/s", $str, $buffers);
+$memTotal = round($buf[1][0]/1024, 2);
+return $memTotal;
+}
+/内存使用/
+function memUsed() {
+    $str = @file("/proc/meminfo");
+    $str = implode("", $str);
+    preg_match_all("/MemTotal\s{0,}\:+\s{0,}([\d\.]+).+?MemFree\s{0,}\:+\s{0,}([\d\.]+).+?Cached\s{0,}\:+\s{0,}([\d\.]+).+?SwapTotal\s{0,}\:+\s{0,}([\d\.]+).+?SwapFree\s{0,}\:+\s{0,}([\d\.]+)/s", $str, $buf);
+    preg_match_all("/Buffers\s{0,}\:+\s{0,}([\d\.]+)/s", $str, $buffers);
+    $memTotal = round($buf[1][0]/1024, 2);
+    $memFree = round($buf[2][0]/1024, 2);
+    $memUsed = $memTotal-$memFree;
+    return $memUsed;
+}
+/真实内存使用/
+function memRealUsed() {
+    $str = @file("/proc/meminfo");
+    $str = implode("", $str);
+    preg_match_all("/MemTotal\s{0,}\:+\s{0,}([\d\.]+).+?MemFree\s{0,}\:+\s{0,}([\d\.]+).+?Cached\s{0,}\:+\s{0,}([\d\.]+).+?SwapTotal\s{0,}\:+\s{0,}([\d\.]+).+?SwapFree\s{0,}\:+\s{0,}([\d\.]+)/s", $str, $buf);
+    preg_match_all("/Buffers\s{0,}\:+\s{0,}([\d\.]+)/s", $str, $buffers);
+    $memTotal = round($buf[1][0]/1024, 2);
+    $memFree = round($buf[2][0]/1024, 2);
+ $memCached = round($buf[3][0]/1024, 2);
+ $memBuffers = round($buffers[1][0]/1024, 2);
+    $memRealUsed = $memTotal-$memFree-$memCached-$memBuffers;
+    return $memRealUsed;
+ 
+}
+/系统负载/
+function loadAvg() {
+    $str = @file("/proc/loadavg");
+    $str = explode(" ", implode("", $str));
+    $str = array_chunk($str, 4);
+    $loadAvg = implode(" ", $str[0]);
+    return $loadAvg;
+}
+
+
+https://www.myitmx.com/525.html
