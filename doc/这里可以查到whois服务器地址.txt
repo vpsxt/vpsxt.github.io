@@ -1,3 +1,0 @@
-whois.iana.org 这里可以查到whois服务器地址
-
-https://www.iana.org/domains/root/db

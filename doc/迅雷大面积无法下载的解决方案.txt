@@ -1,9 +1,0 @@
-http://www.shaoit.com/xunleihosts.html
-
-
-打开 C:\Windows\System32\drivers\etc\hosts
-输入：
-127.0.0.1 hub5btmain.sandai.net
-127.0.0.1 hub5emu.sandai.net
-127.0.0.1 upgrade.xl9.xunlei.com
-迅雷会员可以使用迅雷极速版配合hosts，可以恢复大部分资源加速。
