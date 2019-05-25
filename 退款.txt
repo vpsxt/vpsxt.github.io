@@ -1,0 +1,20 @@
+
+http://www.jianshu.com/p/1f1cab449f08
+在virmach买了一个VPS，配置shadowsocks环境，好查资料，但是发现线路不稳定，于是退款
+美国和中国不同，美国主要是发ticket，也就是国内的工单。
+步骤，首先进入账号，选择那台VPS，然后cancel掉
+然后点击栏目上的open ticket，选择Billing Support，选择对应VPS，写上内容：
+Hi, the service is marked cancelled . Please help me for refund, thanks.
+Submit提交就好了
+1-2个小时就reply工单已经refunded
+
+
+
+My VDR1 is cancelled.
+
+vultr怎样才能申请退款呢？
+
+vultr和其他的国外商家一样，如果需要退款，直接在后台点击support，选择open ticket新开一个工单，选择billing question财务问题，简单的在文本框输入你的退款理由即可，甚至可以不需要理由。简单的说 Please refund all the balance in my account. 即可。
+
+
+ Please refund all the balance in my account.

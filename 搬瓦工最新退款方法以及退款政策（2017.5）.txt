@@ -1,0 +1,33 @@
+最近有朋友问起搬瓦工退款的事情，之前有写过一个图文教程，搬瓦工怎么一键退款，最近发现后台已经没有那个按钮了，于是看了看TOS，发现已经有不少变动了。所以写这篇文章，讲一下最新的退款方法以及关于退款的政策，什么样的条件才符合退款。
+
+首先是退款通道，这里是把退款放到了客户中心后台billing菜单下面，如下图所示，登录客户中心以后点击Billing，选择Refunds。如果符合退款政策的话，会有退款的选项，如果不符合退款政策，会告诉你，你哪里不符合所以没办法退款。
+
+ 
+
+然后再详细说一说最新的这个退款政策，主要有以下几点：
+
+    如果满足以下所有条件，客户可以要求全额退还所有付款给他们的帐户：
+
+    1.客户的帐户信誉良好，没有违反整个服务条款。
+    2.以前没有任何付款争议或扣除。
+    3.分配给客户端服务的IP都不在任何Black / Block列表中。
+    4.该帐户下的服务（活动或取消）的数量为3个或更少。
+    5.该帐户支付的款项总额为60美元或更少，总付款数为10或更少。
+    6.该账户创建不超过30天。
+    7.客户没有使用退款的权利，不同的帐户下。
+
+    附原文：
+
+    Customer may request a full refund of all payments made to their account provided all of the following conditions are met:
+
+    1. Customer's account is in good standing and there have been no violations of entire Terms of Services
+    2. None of the payments have been previously or currently disputed or charged back
+    3. None of the IPs assigned to client's services are on any Black/Block list
+    4. The number of services (active or cancelled) under the account is 3 or fewer
+    5. The sum of all payments made towards the account is $60 or less and the total number of payments is 10 or fewer
+    6. The account was created 30 or fewer days ago
+    7. Client had not used the right to Refund under a different account
+
+当然，不确定自己是否符合退款条件的话，直接到Billing下面的Refund界面看一下就知道了。申请退款以后，钱会退回到你购买时候使用的支付账户，也就是如果你用支付宝购买的。钱会退回到你支付宝账户（支付宝退款稍微慢一些）。
+
+另外，有过一次退款之后，就没有退款资格了。
