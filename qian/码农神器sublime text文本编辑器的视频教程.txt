@@ -1,0 +1,42 @@
+共享两套关于sublime text文本编辑器的视频教程.有图有真相！
+
+【课程内容】
+
+A
+
+菜单栏主要功能介绍
+Goto Anything
+多行游标
+命令模式
+学以致用——综合技巧运用
+packagecontrol安装主题
+snippets以模板的方式编程
+辅助技巧 - advanceNewfile
+辅助技巧 - httpRequest
+辅助技巧 - nettus fetch
+辅助技巧 - sidebarenhancement
+快速添加注释
+使用lint进行语法及风格校验
+
+B
+
+课程介绍
+安装sublime
+正确的sublime使用方式
+shortcuts
+自定制
+用Package Control来安装扩展包
+快速查找文件或字符串
+web开发者必备插件emmet
+自定制代码片段
+代码补全
+批处理任务build
+Goodbye
+
+【下载地址】
+
+[sell=45,2]链接：https://pan.baidu.com/s/1zR9L-8OQLF1defTMWDhz4A
+提取码：e8dv
+解压密码：www.mukedaba.com[/sell]
+
+https://www.mukedaba.com/thread-23225-1-4.html

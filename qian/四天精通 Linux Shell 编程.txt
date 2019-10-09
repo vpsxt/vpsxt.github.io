@@ -1,0 +1,14 @@
+【课程目录】
+
+一、shell简介
+二、变量
+三、shell中常用命令
+四、条件测试
+五、流程控制
+六、apache启动脚本分析
+
+【下载地址】百度云下载地址：
+链接：http://pan.baidu.com/s/1c5WsRO 密码：713u
+解压密码：htTps://www.mUkeDaBa.com/forum.php#9A80511BA431
+
+https://www.mukedaba.com/thread-3910-1-2.html

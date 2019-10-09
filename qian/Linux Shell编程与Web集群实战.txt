@@ -1,0 +1,50 @@
+【课程内容】
+
+Shell编程实战
+
+第1章 如何才能学好Shell编程
+第2章 Shell脚本初步入门
+第3章 Shell变量的核心基础知识与实践
+第4章 Shell变量知识进阶与实践
+第5章 变量的数值计算实践
+第6章 Shell脚本的条件测试与比较
+第7章 if条件语句的知识与实践
+第8章 Shell函数的知识与实践
+第9章 case条件语句的应用实践
+第10章 while循环和until循环的应用实践
+第11章 for和select循环语句的应用实践
+第12章 循环控制及状态返回值的应用实践
+第13章 Shell数组的应用实践
+第14章 Shell脚本开发规范
+第15章 Shell脚本的调试
+第16章 Shell脚本开发环境的配置和优化实践
+第17章 Linux信号及trap命令的企业应用实践
+第18章 Expect自动化交互式程序应用实践
+第19章 企业Shell面试题及企业运维实战案例
+第20章 子Shell及Shell嵌套模式知识应用
+
+Web集群实战
+
+第1章 Linux系统介绍与环境搭建准备
+第2章 企业级CentOS 6.6操作系统安装
+第3章 CentOS 6.6连接管理及优化
+第4章 Web服务基础
+第5章 Nginx Web服务应用
+第6章 企业级LNMP环境应用实践
+第7章 PHP服务缓存加速优化实战
+第8章 企业级Nginx Web服务优化实战
+第9章 MySQL数据库企业级应用实践
+第10章 企业级NFS网络文件共享服务
+第11章 Nginx反向代理与负载均衡应用实践
+第12章 Keepalived高可用集群应用实践
+第13章 企业级Memcached服务应用实践
+第14章 企业级监控Nagios实践
+第15章 企业级网站集群搭建综合解决方案
+
+【PDF电子版下载】
+
+付费内容 购买记录
+链接：http://pan.baidu.com/s/1jH4rfxk 密码：njn6
+解压密码：www.mukedaba.com
+
+https://www.mukedaba.com/thread-10310-1-1.html
