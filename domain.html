@@ -6,14 +6,26 @@
 </head>
 <body>
 <script language = javascript >
-function  filename() {
-var a= document.location.href;
-var n1=a.lastIndexOf('/')+1　　　
-var n2=a.lastIndexOf('.')
-a=a.substring(n1,n2)
-alert(a);　
-}
-filename()
+// function  filename() {
+// var a= document.location.href;
+// var n1=a.lastIndexOf('/')+1　　　
+// var n2=a.lastIndexOf('.')
+// a=a.substring(n1,n2)
+// alert(a);　
+// }
+// filename()
+
+
+//获取域名
+host = window.location.host;
+host2=document.domain;
+
+//获取页面完整地址
+url = window.location.href;
+
+document.write("<br>host="+host)
+document.write("<br>host2="+host2)
+document.write("<br>url="+url)
 </script>
 </body>
 </html>
