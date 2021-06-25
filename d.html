@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>02</title>
+</head>
+<body>
+<script  type="text/javascript">
+    var domain = document.domain;//先获取当前访问的全域名
+    var domain2 = domain.substring(domain.indexOf('.')+1);
+    //截取第一个点的位置来获取根域名,这样只能获取二级域名的根域名，如果直接是不带www的域名访问，那么就会直接获取域名的后缀
+    if(domain2.indexOf('.')==-1){
+//可以通过判断来二次获取点的位置
+        document.querySelector('title').innerHTML=document.domain;//把标题换成域名
+    }else{
+        document.querySelector('title').innerHTML=domain2;
+    }
+</script>
+</body>
+</html>
